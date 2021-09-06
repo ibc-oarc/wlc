@@ -1,0 +1,167 @@
+<h1>People (generated from YAML)</h1>
+
+<ul>
+
+  <li><a href="people/adolfo-villafiorita/">Adolfo Villafiorita</a></li>
+
+  <li><a href="people/pietro-molini/">Pietro Molini</a></li>
+
+  <li><a href="people/aaron-ciaghi/">Aaron Ciaghi</a></li>
+
+  <li><a href="people/mr.-john-smith/">Mr. John Smith</a></li>
+
+</ul>
+
+<h1>Pets (generated from JSON)</h1>
+
+<ul>
+
+    <li><a href="pets/felix-the-cat/">Felix the Cat</a></li>
+
+    <li><a href="pets/fido-the-dog/">Fido The Dog</a></li>
+
+    <li><a href="pets/buddy-the-dog/">Buddy The Dog</a></li>
+
+    <li><a href="pets/ace-the-dog/">Ace The Dog</a></li>
+
+    <li><a href="pets/biscuit-the-cat/">Biscuit The Cat</a></li>
+
+    <li><a href="pets/caramel-the-cat/">Caramel The Cat</a></li>
+
+</ul>
+
+<ul>
+
+    <li><a href="w/1/.html">1</a></li>
+
+    <li><a href="w/2/.html">2</a></li>
+
+    <li><a href="w/3/.html">3</a></li>
+
+    <li><a href="w/4/.html">4</a></li>
+
+    <li><a href="w/5/.html">5</a></li>
+
+    <li><a href="w/6/.html">6</a></li>
+
+    <li><a href="w/7/.html">7</a></li>
+
+    <li><a href="w/8/.html">8</a></li>
+
+    <li><a href="w/9/.html">9</a></li>
+
+    <li><a href="w/10/.html">10</a></li>
+
+    <li><a href="w/11/.html">11</a></li>
+
+    <li><a href="w/12/.html">12</a></li>
+
+    <li><a href="w/13/.html">13</a></li>
+
+    <li><a href="w/14/.html">14</a></li>
+
+    <li><a href="w/15/.html">15</a></li>
+
+    <li><a href="w/16/.html">16</a></li>
+
+    <li><a href="w/17/.html">17</a></li>
+
+    <li><a href="w/18/.html">18</a></li>
+
+    <li><a href="w/19/.html">19</a></li>
+
+    <li><a href="w/20/.html">20</a></li>
+
+    <li><a href="w/21/.html">21</a></li>
+
+    <li><a href="w/22/.html">22</a></li>
+
+    <li><a href="w/23/.html">23</a></li>
+
+    <li><a href="w/24/.html">24</a></li>
+
+    <li><a href="w/25/.html">25</a></li>
+
+    <li><a href="w/26/.html">26</a></li>
+
+    <li><a href="w/27/.html">27</a></li>
+
+    <li><a href="w/28/.html">28</a></li>
+
+    <li><a href="w/29/.html">29</a></li>
+
+    <li><a href="w/30/.html">30</a></li>
+
+    <li><a href="w/31/.html">31</a></li>
+
+    <li><a href="w/32/.html">32</a></li>
+
+    <li><a href="w/33/.html">33</a></li>
+
+    <li><a href="w/34/.html">34</a></li>
+
+    <li><a href="w/35/.html">35</a></li>
+
+    <li><a href="w/36/.html">36</a></li>
+
+    <li><a href="w/37/.html">37</a></li>
+
+    <li><a href="w/38/.html">38</a></li>
+
+    <li><a href="w/39/.html">39</a></li>
+
+    <li><a href="w/40/.html">40</a></li>
+
+    <li><a href="w/41/.html">41</a></li>
+
+    <li><a href="w/42/.html">42</a></li>
+
+    <li><a href="w/43/.html">43</a></li>
+
+    <li><a href="w/44/.html">44</a></li>
+
+    <li><a href="w/45/.html">45</a></li>
+
+    <li><a href="w/46/.html">46</a></li>
+
+    <li><a href="w/47/.html">47</a></li>
+
+    <li><a href="w/48/.html">48</a></li>
+
+    <li><a href="w/49/.html">49</a></li>
+
+</ul>
+
+<h1>Filter Examples (generated from book in YAML)</h1>
+
+<h2>Approach 1: Filter Links, Generate all pages</h2>
+
+<p>In the page <a href="books.html">books</a>, the books are organized in two lists: books I have read and those I have not.  However a page is still generated for each book. <b>This is not a filter on the pages being generated: it is only a filter on the links being generated.</b></p>
+
+<h2>Approach 2: <tt>filter</tt> keyword</h2>
+
+<p>If the yaml matter has a boolean field (for instance: <tt>filter</tt> or, more evocatively, <tt>publish</tt>), I can specify it in <tt>_config</tt> to select what pages have to be generated.</p>
+
+<h2>Approach 3: <tt>filter_condition</tt> keyword</h2>
+
+<p>I can use the <tt>filter_condition</tt> field in <tt>config.yml</tt>. The field takes as argument a string with ruby expression which should evaluate to a Boolean value.  The <tt>filter_condition</tt> is used as an additional selector on top of the <tt>filter</tt> condition.</p>
+
+<p>See the documentation for more details.</p>
+
+<h1>Hierarchy Example</h1>
+
+<p>If your data is structured in a hierarhcy, specify the path to access your data in the <tt>data</tt> field.</p>
+
+<p>See the file <tt>_data/hierarchy.yml</tt> for a working example.  The pages generated are the following:</p>
+
+<ul>
+    
+    <li>
+        <a href="hierarchy/professor-x/">Professor X</a>
+    </li>
+    
+    <li>
+        <a href="hierarchy/scott-summers/">Scott Summers</a>
+    </li>
+    
+</ul>
