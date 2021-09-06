@@ -58,7 +58,7 @@ document.onkeydown = function(evt) {
 <a class="shadow" style="float:right;" href="/w/{% include nav_next.html current=page.strongNumber %}.html">Forth &raquo;</a></p>
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>{{page.links}}
 </p></div>
-{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}--{{sNum}}--{%endfor%}
+{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}{%if sNum < site.data.temp.size %}{% assign list_of_links = list_of_links | push: site.data.temp[sNum]%}{%endif%}{%endfor%}
 {{list_of_links}}
 {% for i in (1..39) %}{{list_of_links | where: "book", i}}{%endfor%}
 
