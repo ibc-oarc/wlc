@@ -56,14 +56,15 @@ document.onkeydown = function(evt) {
 </article>
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/{% include nav_prev.html current=page.strongNumber %}.html">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/{% include nav_next.html current=page.strongNumber %}.html">Forth &raquo;</a></p>
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>{{page.links}}
-</p></div>
-{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}{%if sNum < site.data.temp.size %}{% assign list_of_links = list_of_links | push: site.data.temp[sNum]%}{%endif%}{%endfor%}
-{% for i in (1..39) %}{% assign is = i | downcase %}{% assign current_links = list_of_links| where: "book", is%}{% if list_of_links%}///{{i}}/// 
-{%for link in list_of_links%}
-<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="https://bh.seveleu.com/v/{{link.number}}.html">{{link.chapter}}:{{link.verse}}</a></span>
-{%if forloop.index.last %}{%else%}, {%endif%}
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}{%if sNum < site.data.temp.size %}{% assign sNumdesc = sNum | minus: 1 %}{% assign list_of_links = list_of_links | push: site.data.temp[sNumdesc]%}{%endif%}{%endfor%}
+{% for i in (1..39) %}{% assign i_s = i | downcase %}{% assign current_links = list_of_links| where: "book", i_s | sort: "number" %}{% if current_links.size!=0%}
+<span id="toc" style="font-family:sans-serif;">{% assign idesc = i | minus: 1 %}{{site.data.biblebooks[idesc].bookname}}</span>
+{%assign last_in_current_links = current_links | last %}{%comment%}to delete the last comma{%endcomment%}
+{%for link in current_links%}
+<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="https://bh.seveleu.com/v/{{link.number}}.html">{{link.chapter}}:{{link.verse}}</a></span>{%unless link.number== last_in_current_links.number%}, {%endunless%}
 {%endfor%}{% endif %}{%endfor%}
+</p></div>
+
 
 {% if list_by_book %} {% assign list_by_book =  list_of_links|group_by:"book"%}
 {{list_by_book}}
