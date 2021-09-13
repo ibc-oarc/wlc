@@ -1,0 +1,36 @@
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
+<title>{{include.paramtitle1}}</title>
+<meta name="description" content="{{include.paramcontent2}}">
+<!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+<link href='//fonts.googleapis.com/css?family=Lato:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=EB+Garamond:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/css/tufte.css">
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
+<link rel="alternate" type="application/rss+xml" title="{{include.paramtitle2}}" href="https://bh.seveleu.com/feed.xml"/><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style><style>span#toc{padding: 9px;padding-left: 0px;display:inline-block;}</style>
+{% if page.dir == "/w/"%}<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }
+};
+</script>{%endif%}
+</head>
+<body>
+<header>
+<nav class="group"><a href="/">
+<h3>{{include.paramtitle3}}</h3><h4>{{include.paramtitle4}}</h4></a></nav>
+</header>
+<article class="group">
+<p style="margin: 0px;background-color: #ffd42a;padding: 5px;width:33%;"></p>
+<p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
+<p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>

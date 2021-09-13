@@ -1,9 +1,19 @@
 ---
-title: We're looking for a new title ! 
+layout: default
 ---
+{%assign title1 ="Biblical Hebrew for linguists" %}
+{%assign title2 ="Biblical Hebrew for Linguists" %}
+{%assign title3 ="Biblical Hebrew for linguists" %}
+{%assign title4 ="Strong's Lexicon" %}
+{%assign content2 ="Biblical Hebrew samples for linguists. Strong's lexicon" %}
+<!DOCTYPE html>
+{% include head.html paramtitle1=title1 paramtitle2=title2 paramtitle3=title3 paramtitle4=title4 paramcontent2=content2 %}
+<h3></h3><p style="width:95%">Lexicons ordered by frequency are marked <span style="background:whitesmoke;padding:0.2rem;"><img style='width:1.3rem;' src='/assets/img/frequency.svg'></span>, those ordered alphabetically — <span style="background:whitesmoke;padding:0.2rem;">αβ</span>.</p>
+{% include landingpartiallexicons.html tag="general" grid=4 coefficient=1 punchline="General lexicon" pref="<strong>" suf="</strong>" size=1.17%}
+{% include landingpartiallexicons.html tag="pos-content" grid=3 coefficient=1 punchline="Contentful parts of speech" pref="<strong>" suf="</strong>" size=1.17%}
+{% include landingpartiallexicons.html tag="pos-function" grid=3 coefficient=1.3 punchline="Functional parts of speech" pref="" suf="" size=0.9 %}
+{% include landingpartiallexicons.html tag="meaning" grid=3 coefficient=1.1 punchline="Proper nouns by meaning" pref="<strong>" suf="</strong>" size=1.1%}
 
-<ul>
-{% for entry in site.data.sample_comma_separated_TBESH_formatted %}{% assign var1 = entry.strongNumber | plus: 0 %}
-    <li><a href="{{ var1 | datapage_url: 'w' }}.html">{{var1}}</a></li>
-{% endfor %}
-</ul>
+</article>
+{% include footer.html %}
+</body></html>

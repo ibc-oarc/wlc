@@ -1,49 +1,22 @@
 {%capture beau_phonemes%}{%- include beautify_title.html s=page.phonemes -%}{%endcapture%}
 {%capture heading%}{{-page.heading-}}{%endcapture%}
-{%if heading contains "|" %}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%endif%}
-{%capture morphology%}{{-page.morphology-}}{%endcapture%}
-{%if morphology contains "|" %}{% assign morphologysplit = morphology | split: "|" %}{%capture morphology%}{% for portion in morphologysplit %} <sup style="color:gray;">{{ " ABCDEFG" | slice: forloop.index}}</sup>{{portion}} {%endfor%}{%endcapture%}{%endif%}
+{%if heading contains "|" %}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{ " ABCDEFG" | slice: forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%endif%}
+{%assign morphology = page.morphology | split: "|" %}{%capture morphology%}{% for portion in morphology %}{%if morphology.size > 1%}<strong><sup style="color:gray;font-family:sans-serif">{{ " ABCDEFG" | slice: forloop.index}}</sup></strong>{%endif%}{% assign morphs = portion | split: ";"%}{% for morph in morphs %}<a title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %} + {%endunless%}{% endfor %} {% endfor %}{%endcapture%}
+
+{%capture entrycontent%}{{-page.entrycontent-}}{%endcapture%}
+{%if entrycontent contains "|" %}{% assign entrycontentsplit = entrycontent | split: "|" %}{%capture entrycontent%}{% for portion in entrycontentsplit %} {% unless forloop.first%}<br>{%endunless%}<span style="position:absolute;left:-2rem;padding-top:.6rem;"><strong style="color:gray;font-family:sans-serif;font-size:200%;">{{ " ABCDEFG" | slice: forloop.index}}</strong></span>{{-portion-}}{%endfor%}{%endcapture%}{%endif%}
 
 
+{%capture title1%}{{beau_phonemes}} {{page.hebWord}} ‘{{page.heading|replace: "|", ", "}}’ (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists{%endcapture%}
+{%capture title2%}{{beau_phonemes}} — {{page.hebWord}} «{{page.heading|replace: "|", ", "}}» (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists{%endcapture%}
+{%assign title3 ="Biblical Hebrew for linguists" %}
+{%assign title4 ="Westminster Leningrad Codex" %}
+{%assign content2 = page.root %}
 <!DOCTYPE html>
-<head>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
-<title>{{beau_phonemes}} {{page.hebWord}} ‘{{page.heading|replace: "|", ", "}}’ (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists</title>
-<meta name="description" content="{{page.root}}">
-<!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
-<link href='//fonts.googleapis.com/css?family=Lato:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
-<link href='//fonts.googleapis.com/css?family=EB+Garamond:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="/css/tufte.css">
-<link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
-<link rel="alternate" type="application/rss+xml" title="{{beau_phonemes}} — {{page.hebWord}} «{{page.heading|replace: "|", ", "}}» (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists" href="https://bh.seveleu.com/feed.xml"/><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-<script type="text/javascript">
-document.onkeydown = function(evt) {
-    evt = evt || window.event;
-    switch (evt.keyCode) {
-        case 37:
-            window.location = $('#prev').attr('href');
-            break;
-        case 39:
-            window.location = $('#next').attr('href');
-            break;
-    }
-};
-</script>
-</head>
-<body>
-<header>
-<nav class="group"><a href="/">
-<h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
-</header>
-<p style="text-align:center;display:flow-root;"><a class="shadow" id="prev" style="float:left;" href="/w/{% include nav_prev.html current=page.strongNumber %}.html ">&laquo; Back</a>
-<a class="shadow" id="next" style="float:right;" href="/w/{% include nav_next.html current=page.strongNumber %}.html ">Forth &raquo;</a></p>
-<article class="group">
-<p style="margin: 0px;background-color: #ffd42a;padding: 5px;width:33%;"></p>
-<p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
-<p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
+{% include head.html paramtitle1=title1 paramtitle2=title2 paramtitle3=title3 paramtitle4=title4 paramcontent2=content2 %}
+<p style="text-align:center"></p>
+<div style="left:-5.5rem;position: absolute;top:3.3rem;"><a class="shadow" id="prev" href="/w/{% include nav_prev.html current=page.strongNumber %}.html ">&laquo;</a> {{page.strongNumber}} 
+<a class="shadow" id="next" href="/w/{% include nav_next.html current=page.strongNumber %}.html ">&raquo;</a></div>
 <h1>{{beau_phonemes}} <span id="bh" dir="rtl">{{page.hebWord}}</span> ‘{{heading}}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({%- include lang_full.html l=page.lang -%})</span></h1>
 <p><span style="color: rgba(0, 0, 0, 0.75)">Etymology:</span> {{page.etymDesc}}{%if page.etym1 %} | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> <a class="shadow" href="/w/{{-page.etym1-}}"><span id="bh">{{-page.etymWord1-}}</span></a>
 {%if page.etym2 %}<a class="shadow" href="/w/{{-page.etym2-}}"><span id="bh">{{-page.etymWord2-}}</span></a>{%endif%}
@@ -51,11 +24,9 @@ document.onkeydown = function(evt) {
 {%endif%}
 {%if page.root%}({{page.root}}){%endif%}
 {%if page.variants %} | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {{page.variants}}
-{% endif %}{{page.placeholder3}}
-{%if morphology %} | <span style="color: rgba(0, 0, 0, 0.75)">Morphology:</span> {{morphology}} {%endif%}</p><p><span style="font-family: sans-serif;font-weight: bold;">{{beau_phonemes}}</span><br>{% assign meanings=page.entrycontent | split: "|" %}{% for portion in meanings %}<sup style="color:gray;"><strong>{{forloop.index}}</strong></sup> {{portion}}<br>{%endfor%}</p>
+{% endif %}{{page.placeholder3}}</p>
+<p><span style="font-family: sans-serif;font-weight: bold;">{{beau_phonemes}} </span>{%if morphology %}{{morphology}}{%endif%}<br>{{entrycontent}}</p>
 </article>
-<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/{% include nav_prev.html current=page.strongNumber %}.html">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/w/{% include nav_next.html current=page.strongNumber %}.html">Forth &raquo;</a></p>
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}{%if sNum < site.data.temp.size %}{% assign sNumdesc = sNum | minus: 1 %}{% assign list_of_links = list_of_links | push: site.data.temp[sNumdesc]%}{%endif%}{%endfor%}
 {% for i in (1..39) %}{% assign i_s = i | downcase %}{% assign current_links = list_of_links| where: "book", i_s | sort: "number" %}{% if current_links.size!=0%}
 <span id="toc" style="font-family:sans-serif;">{% assign idesc = i | minus: 1 %}{{site.data.biblebooks[idesc].bookname}}</span>
