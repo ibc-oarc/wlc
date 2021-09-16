@@ -1,13 +1,9 @@
-{%capture title1%}{{page.title}} {{page.ordered}} — Biblical Hebrew for Linguists{%endcapture%}
-{%capture title2%}Biblical Hebrew samples for linguists. Strong's lexicon. {{page.title}} {{page.ordered}}{%endcapture%}
-{%assign title3 ="Biblical Hebrew for linguists" %}
-{%assign title4 ="Strong's Lexicon" %}
-{%capture content2%}Biblical Hebrew samples for linguists. Strong's lexicon. {{page.title}} {{page.ordered}}{%endcapture%}
 <!DOCTYPE html>
-{% include head.html paramtitle1=title1 paramtitle2=title2 paramtitle3=title3 paramtitle4=title4 paramcontent2=content2 %}
-{% assign morpholist = page.morpholist | split: ";" %}{% if page.ordered == "ordered by frequency" %}{% assign iterations = site.data.sample_comma_separated_TBESH_formatted | where_exp: "key", page.whereexpkey | sort: "occurencesorder" %}{% else %}{% assign iterations = site.data.sample_comma_separated_TBESH_formatted | where_exp: "key", page.whereexpkey %}{% endif %}
-<h3>{{page.title}} {{page.ordered}}</h3>{%if morpholist.size > 0 %}<p style="width:90%">{{iterations.size}} entries marked {% for morph in morpholist %}<a class="shadow" title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %}, {%endunless%}{% endfor %} </p>{%endif%}
-<div style="display: flex;"><p style="margin-bottom:27px;width:100%">{%for x in iterations %}<span id="toc"><span style="color:darkgray;">{{x.strongNumber}}</span><a class="shadow" href="/w/{{x.strongNumber}}.html"><span style="font-family:sans-serif;">{% include beautify_title.html s=x.phonemes %}</span> <span id="bh">{{x.hebWord}}</span> ‘{{x.heading | split: "|" | join: " / "}}’</a></span>{% endfor %}</p></div>
+{% include head.html %}
+{% assign morpholist = page.morpholist | split: ";" %}
+{% assign indexes = site.data.precompiled_lexicons | where: "nameid", page.nameid | first | map: "links" | first | split: ","  %}
+<h3>{{page.title}} {{page.ordered}}</h3>{%if morpholist.size > 0 %}<p style="width:90%">{{ indexes | size }} {{site.lexicon1entries}} {%unless page.title=="All lexemes"%}{{-site.lexicon2marked}} {% for morph in morpholist %}<a class="shadow" title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %}, {%endunless%}{% endfor %} {%endunless%}</p>{%endif%}
+<div style="display: flex;"><p style="margin-bottom:27px;width:100%">{%for index in indexes %}{% assign indexdesc = index| minus: 1 %}{%assign x = site.data.sample_comma_separated_TBESH_formatted[indexdesc]%}<span id="toc"><span style="color:darkgray;">{{x.strongNumber}}</span><a class="shadow" href="/w/{{x.strongNumber}}.html"><span class="ss">{{x.phonemes}}</span> <span id="bh">{{x.hebWord}}</span> ‘{{x.heading | split: "|" | join: " / "}}’</a></span>{% endfor %}</p></div>
 </article>
 {% include footer.html %}
 </body></html>

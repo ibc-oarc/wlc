@@ -6,9 +6,9 @@
 /*
 /* The README.md will show you how to set up your site along with other goodies
 /*****************************************************************************/
-@import url("https://fonts.googleapis.com/css?family=Roboto:400");
-@import url("https://fonts.googleapis.com/css?family=Inconsolata");
-@import url("https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i");
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i');
 @font-face {
   font-family: Roboto; }
 @font-face {
@@ -19,6 +19,26 @@
     font-family: "Ezra SIL";
     src: url('/fonts/SILEOT.ttf');
 }
+@font-face {
+    font-family: "Liberation Sans";
+    src: url('/fonts/LiberationSans-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url('/fonts/LiberationSans-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url('/fonts/LiberationSans-Italic.ttf');
+    font-style: italic;
+    font-weight: 400;}
+@font-face {
+    font-family: "Liberation Sans";
+    src: url('/fonts/LiberationSans-BoldItalic.ttf');
+    font-style: italic;
+    font-weight: 700;}
 
 #bh {
       font-family: "Ezra SIL";
@@ -885,3 +905,35 @@ hr.slender {
   content: "\e60e"; }
 
 /*-- End of Icomoon icon font section --*/
+
+/* Mise en page supplémentaire */
+#s {
+  font-size:132%;
+  color:cadetblue;
+  font-style: italic;}
+
+span#toc {
+  padding: 9px;
+  padding-left: 0px;
+  display:inline-block;}
+  
+.bar1, .bar2, .bar3 {
+  margin: 0px;
+  padding: 5px; }
+  
+.bar1 {background-color: #ffd42a;width:33%;}  
+.bar2 {background-color: #ff7f2a;width:38%;}
+.bar3 {background-color: #7296cc;width:27%;}
+
+#gg {
+  color: rgba(0, 0, 0, 0.75);}
+  
+.lexframe {
+  background:whitesmoke;
+  padding:0.2rem; }
+  
+.ss {font-family:"Liberation Sans";}
+
+.g {color:gray;
+
+.bis {font-size:200%;}

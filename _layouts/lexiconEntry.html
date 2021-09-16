@@ -1,44 +1,26 @@
-{%capture beau_phonemes%}{%- include beautify_title.html s=page.phonemes -%}{%endcapture%}
 {%capture heading%}{{-page.heading-}}{%endcapture%}
-{%if heading contains "|" %}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{ " ABCDEFG" | slice: forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%endif%}
-{%assign morphology = page.morphology | split: "|" %}{%capture morphology%}{% for portion in morphology %}{%if morphology.size > 1%}<strong><sup style="color:gray;font-family:sans-serif">{{ " ABCDEFG" | slice: forloop.index}}</sup></strong>{%endif%}{% assign morphs = portion | split: ";"%}{% for morph in morphs %}<a title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %} + {%endunless%}{% endfor %} {% endfor %}{%endcapture%}
+{%if heading contains "|" %}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%endif%}
+{%assign morphology = page.morphology | split: "|" %}{%capture morphology%}{% for portion in morphology %}{%if morphology.size > 1%}<strong><sup class="ss g">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup></strong>{%endif%}{% assign morphs = portion | split: ";"%}{% for morph in morphs %}<a title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %} + {%endunless%}{% endfor %} {% endfor %}{%endcapture%}
 
 {%capture entrycontent%}{{-page.entrycontent-}}{%endcapture%}
-{%if entrycontent contains "|" %}{% assign entrycontentsplit = entrycontent | split: "|" %}{%capture entrycontent%}{% for portion in entrycontentsplit %} {% unless forloop.first%}<br>{%endunless%}<span style="position:absolute;left:-2rem;padding-top:.6rem;"><strong style="color:gray;font-family:sans-serif;font-size:200%;">{{ " ABCDEFG" | slice: forloop.index}}</strong></span>{{-portion-}}{%endfor%}{%endcapture%}{%endif%}
+{%if entrycontent contains "|" %}{% assign entrycontentsplit = entrycontent | split: "|" %}{%capture entrycontent%}{% for portion in entrycontentsplit %} {% unless forloop.first%}<br>{%endunless%}<span style="position:absolute;left:-2rem;padding-top:.6rem;"><strong class="ss g bis">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</strong></span>{{-portion-}}{%endfor%}{%endcapture%}{%endif%}
 
 
-{%capture title1%}{{beau_phonemes}} {{page.hebWord}} ‘{{page.heading|replace: "|", ", "}}’ (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists{%endcapture%}
-{%capture title2%}{{beau_phonemes}} — {{page.hebWord}} «{{page.heading|replace: "|", ", "}}» (Strong's {{page.strongNumber}}) — Biblical Hebrew for Linguists{%endcapture%}
-{%assign title3 ="Biblical Hebrew for linguists" %}
-{%assign title4 ="Westminster Leningrad Codex" %}
-{%assign content2 = page.root %}
 <!DOCTYPE html>
-{% include head.html paramtitle1=title1 paramtitle2=title2 paramtitle3=title3 paramtitle4=title4 paramcontent2=content2 %}
+{% include head.html %}
 <p style="text-align:center"></p>
-<div style="left:-5.5rem;position: absolute;top:3.3rem;"><a class="shadow" id="prev" href="/w/{% include nav_prev.html current=page.strongNumber %}.html ">&laquo;</a> {{page.strongNumber}} 
-<a class="shadow" id="next" href="/w/{% include nav_next.html current=page.strongNumber %}.html ">&raquo;</a></div>
-<h1>{{beau_phonemes}} <span id="bh" dir="rtl">{{page.hebWord}}</span> ‘{{heading}}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({%- include lang_full.html l=page.lang -%})</span></h1>
-<p><span style="color: rgba(0, 0, 0, 0.75)">Etymology:</span> {{page.etymDesc}}{%if page.etym1 %} | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> <a class="shadow" href="/w/{{-page.etym1-}}"><span id="bh">{{-page.etymWord1-}}</span></a>
+<div style="left:-5.5rem;position: absolute;top:3.3rem;"><a class="shadow" id="prev" href="/w/{{page.preventry}}.html ">&laquo;</a> {{page.strongNumber}} 
+<a class="shadow" id="next" href="/w/{{page.nextentry}}.html ">&raquo;</a></div>
+<h1>{{page.phonemes}} <span id="bh" dir="rtl">{{page.hebWord}}</span> ‘{{heading}}’ <span id="gg" style="font-size: 65%; font-family: EB Garamond;font-weight: normal;">({{-site.data.fulllangnames[page.lang]-}})</span></h1>
+<p><span id="gg">{{site.lexicalentry1etymology}}:</span> {{page.etymDesc}}{%if page.etym1 %} | <span id="gg">{{site.lexicalentry2roots}}:</span> <a class="shadow" href="/w/{{-page.etym1-}}"><span id="bh">{{-page.etymWord1-}}</span></a>
 {%if page.etym2 %}<a class="shadow" href="/w/{{-page.etym2-}}"><span id="bh">{{-page.etymWord2-}}</span></a>{%endif%}
 {%if page.etym3 %}<a class="shadow" href="/w/{{-page.etym3-}}"><span id="bh">{{-page.etymWord3-}}</span></a>{%endif%}
 {%endif%}
-{%if page.root%}({{page.root}}){%endif%}
-{%if page.variants %} | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {{page.variants}}
+{%if page.variants %} | <span id="gg">{{site.lexicalentry3variants}}:</span> {{page.variants}}
 {% endif %}{{page.placeholder3}}</p>
-<p><span style="font-family: sans-serif;font-weight: bold;">{{beau_phonemes}} </span>{%if morphology %}{{morphology}}{%endif%}<br>{{entrycontent}}</p>
+<p><span class="ss"><strong>{{page.phonemes}} </strong></span>{%if morphology %}{{morphology}}{%endif%}<br>{{entrycontent}}</p>
 </article>
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>{% assign occurences = page.occurences | split: ","%}{% assign list_of_links = "" | split: "," %}{% for case in occurences %}{% assign sNum = case | plus: 0 %}{%if sNum < site.data.temp.size %}{% assign sNumdesc = sNum | minus: 1 %}{% assign list_of_links = list_of_links | push: site.data.temp[sNumdesc]%}{%endif%}{%endfor%}
-{% for i in (1..39) %}{% assign i_s = i | downcase %}{% assign current_links = list_of_links| where: "book", i_s | sort: "number" %}{% if current_links.size!=0%}
-<span id="toc" style="font-family:sans-serif;">{% assign idesc = i | minus: 1 %}{{site.data.biblebooks[idesc].bookname}}</span>
-{%assign last_in_current_links = current_links | last %}{%comment%}to delete the last comma{%endcomment%}
-{%for link in current_links%}
-<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="https://bh.seveleu.com/v/{{link.number}}.html">{{link.chapter}}:{{link.verse}}</a></span>{%unless link.number== last_in_current_links.number%}, {%endunless%}
-{%endfor%}{% endif %}{%endfor%}
+<div style="display: flex;"><p style="margin-bottom:27px;display: flex;flex-wrap: wrap;flex-direction:row;line-height:1.5rem"><span id="toc" class="ss">{{site.lexicalentry5mentionedin}} </span>{%assign sn=page.strongNumber | minus: 1%}{{site.data.precompiled_links[sn]|map: "links"}}
 </p></div>
-
-
-{% if list_by_book %} {% assign list_by_book =  list_of_links|group_by:"book"%}
-{{list_by_book}}
-{% endif %}
 {% include footer.html %}
 </body></html>

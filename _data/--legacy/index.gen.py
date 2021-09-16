@@ -24,7 +24,7 @@ with open("index.html","w+") as fout:
 
 <!---  <link rel="canonical" href="https://bh.seveleu.com/16"> ---->
 
-  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>span#toc{padding: 9px;padding-left: 0px;display:inline-block;}</style>
+  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="{{site.website}}/feed.xml" /><style>span#toc{padding: 9px;padding-left: 0px;display:inline-block;}</style>
 </head>
 
 <body>

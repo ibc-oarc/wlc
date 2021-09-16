@@ -1,6 +1,6 @@
-name,title,ordered,whereexpkey,morpholist,section
-lexicon-all,All lexemes,ordered alphabetically,true,,general
-lexicon-frequency,All lexemes,ordered by frequency,true,,general
+nameid,title,ordered,whereexpkey,morpholist,section
+lexicon-all,All lexemes,ordered alphabetically,true,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
+lexicon-frequency,All lexemes,ordered by frequency,true,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
 nouns-all,Nouns,ordered alphabetically,morpholist contains key.morphology,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
 nouns-frequency,Nouns,ordered by frequency,morpholist contains key.morphology,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
 verbs-all,Verbs,ordered alphabetically,morpholist contains key.morphology,V,pos-content
@@ -15,8 +15,8 @@ prepositions-all,Prepositions,ordered alphabetically,morpholist contains key.mor
 prepositions-frequency,Prepositions,ordered by frequency,morpholist contains key.morphology,PREP,pos-function
 demonstratives-all,Demonstrative pronouns,ordered alphabetically,morpholist contains key.morphology,D,pos-function
 demonstratives-frequency,Demonstrative pronouns,ordered by frequency,morpholist contains key.morphology,D,pos-function
-prounouns-all,Prounouns,ordered alphabetically,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
-prounouns-frequency,Prounouns,ordered by frequency,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
+personal-pronouns-all,Personal pronouns,ordered alphabetically,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
+personal-frequency,Personal pronouns,ordered by frequency,morpholist contains key.morphology,P;P-FP;P-FS;P-MP;P-MS,pos-function
 conjunctions-all,Conjunctions,ordered alphabetically,morpholist contains key.morphology,CONJ,pos-function
 conjunctions-frequency,Conjunctions,ordered by frequency,morpholist contains key.morphology,CONJ,pos-function
 particles-all,Particles,ordered alphabetically,morpholist contains key.morphology,PRT,pos-function

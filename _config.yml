@@ -13,9 +13,45 @@ page_gen:
     template: 'lexicon'
     dir: ''
     index_files: false
-    name_expr: record["name"]
+    name_expr: record["nameid"]
 
-footer: '<a href="https://ibc.oarc.science/" target="_blank">Institute for Biblical Content</a>. <strong>Biblical Hebrew for linguists: a multilingual analytic biblical Hebrew lexicon</strong>.<br>Implemented as part of the research project at the <a href="https://ens.fr" target="_blank">ENS</a> by <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD. Uses <a href="hhttps://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio</a>'
+footer: '<a href="https://ibc.oarc.science/" target="_blank">Institute for Biblical Content</a>. <strong>Biblical Hebrew for linguists: a multilingual analytical biblical Hebrew lexicon</strong>.<br>Implemented as part of the research project at the <a href="https://ens.fr" target="_blank">ENS</a> by <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD. Uses <a href="hhttps://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio</a>'
 firstyear: 2014
 github: "https://github.com/wlcling"
 keyboardreminder: 'To navigate back- and forwards, use the arrow keys <span class="shadow">←</span> and <span class="shadow">→</span> on your keyboard<br>'
+
+website: "https://bh.seveleu.com"
+lang: en
+sitename: Biblical Hebrew for Linguists
+heading1: Strong's
+subname: Analytical biblical Hebrew lexicon
+lexicon1entries: entries
+lexicon2marked: marked
+lexicalentry1etymology: Etymology
+lexicalentry2roots: Roots
+lexicalentry3variants: Variants
+lexicalentry4letternumbering: " ABCDEFG"
+lexicalentry5mentionedin: Mentioned in
+index1title: Main page
+index2intro: Lexicons ordered by frequency are marked
+index3intro: those ordered alphabetically
+index4general: General lexicon
+index5contentful: Contentful parts of speech
+index6functional: Functional parts of speech
+index7proper: Proper nouns by meaning
+grid4: 4
+grid5: 3
+grid6: 3
+grid7: 4
+coefficient4: 1
+coefficient5: 1
+coefficient6: 1.3
+coefficient7: 1.05
+size4: 1.17
+size5: 1.17
+size6: 0.9
+size7: 1.1
+landingpartial1: "ordered alphabetically"
+landingpartial2: "<span title='alphabetical ordering'>αβ</span>"
+landingpartial3: "ordered by frequency"
+landingpartial4: "<span title='ordering by frequency'><img style='width:1.3rem;' src='/assets/img/frequency.svg'></span>"

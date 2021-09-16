@@ -1,18 +1,13 @@
 ---
 layout: default
 ---
-{%assign title1 ="Biblical Hebrew for linguists" %}
-{%assign title2 ="Biblical Hebrew for Linguists" %}
-{%assign title3 ="Biblical Hebrew for linguists" %}
-{%assign title4 ="Strong's Lexicon" %}
-{%assign content2 ="Biblical Hebrew samples for linguists. Strong's lexicon" %}
 <!DOCTYPE html>
-{% include head.html paramtitle1=title1 paramtitle2=title2 paramtitle3=title3 paramtitle4=title4 paramcontent2=content2 %}
-<h3></h3><p style="width:95%">Lexicons ordered by frequency are marked <span style="background:whitesmoke;padding:0.2rem;"><img style='width:1.3rem;' src='/assets/img/frequency.svg'></span>, those ordered alphabetically — <span style="background:whitesmoke;padding:0.2rem;">αβ</span>.</p>
-{% include landingpartiallexicons.html tag="general" grid=4 coefficient=1 punchline="General lexicon" pref="<strong>" suf="</strong>" size=1.17%}
-{% include landingpartiallexicons.html tag="pos-content" grid=3 coefficient=1 punchline="Contentful parts of speech" pref="<strong>" suf="</strong>" size=1.17%}
-{% include landingpartiallexicons.html tag="pos-function" grid=3 coefficient=1.3 punchline="Functional parts of speech" pref="" suf="" size=0.9 %}
-{% include landingpartiallexicons.html tag="meaning" grid=3 coefficient=1.1 punchline="Proper nouns by meaning" pref="<strong>" suf="</strong>" size=1.1%}
+{% include head.html %}
+<h3></h3><p style="width:95%">{{site.index2intro}} <span class="lexframe"><img style='width:1.3rem;' src='/assets/img/frequency.svg'></span>, {{site.index3intro}} — <span class="lexframe">αβ</span>.</p>
+{% include landingpartiallexicons.html tag="general" grid=site.grid4 coefficient=site.coefficient4 punchline=site.index4general pref="<strong>" suf="</strong>" size=site.size4 %}
+{% include landingpartiallexicons.html tag="pos-content" grid=site.grid5 coefficient=site.coefficient5 punchline=site.index5contentful pref="<strong>" suf="</strong>" size=site.size5%}
+{% include landingpartiallexicons.html tag="pos-function" grid=site.grid6 coefficient=site.coefficient6 punchline=site.index6functional pref="" suf="" size=site.size6 %}
+{% include landingpartiallexicons.html tag="meaning" grid=site.grid7 coefficient=site.coefficient7 punchline=site.index7proper pref="<strong>" suf="</strong>" size=site.size7%}
 
 </article>
 {% include footer.html %}
