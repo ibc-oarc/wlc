@@ -12,10 +12,7 @@
 <div style="left:-5.5rem;position: absolute;top:3.3rem;"><a class="shadow" id="prev" href="/w/{{page.preventry}}.html ">&laquo;</a> {{page.strongNumber}} 
 <a class="shadow" id="next" href="/w/{{page.nextentry}}.html ">&raquo;</a></div>
 <h1>{{page.phonemes}} <span id="bh" dir="rtl">{{page.hebWord}}</span> ‘{{heading}}’ <span id="gg" style="font-size: 65%; font-family: EB Garamond;font-weight: normal;">({{-site.data.fulllangnames[page.lang]-}})</span></h1>
-<p><span id="gg">{{site.lexicalentry1etymology}}:</span> {{page.etymDesc}}{%if page.etym1 %} | <span id="gg">{{site.lexicalentry2roots}}:</span> <a class="shadow" href="/w/{{-page.etym1-}}"><span id="bh">{{-page.etymWord1-}}</span></a>
-{%if page.etym2 %}<a class="shadow" href="/w/{{-page.etym2-}}"><span id="bh">{{-page.etymWord2-}}</span></a>{%endif%}
-{%if page.etym3 %}<a class="shadow" href="/w/{{-page.etym3-}}"><span id="bh">{{-page.etymWord3-}}</span></a>{%endif%}
-{%endif%}
+<p><!--- <span id="gg">{{site.lexicalentry1etymology}}:</span> {{page.etymDesc}}--->{%if page.etymComplete %} | <span id="gg">{{site.lexicalentry2roots}}:</span> {%assign etyms = page.etymComplete | split: "|" %}{%for etym in etyms %}{%assign et = etym | split: "+" %}<a class="shadow" href="/w/{{-et.first-}}"><span id="bh">{{-et.last-}}</span></a>{% endfor %}{%endif%}
 {%if page.variants %} | <span id="gg">{{site.lexicalentry3variants}}:</span> {{page.variants}}
 {% endif %}{{page.placeholder3}}</p>
 <p><span class="ss"><strong>{{page.phonemes}} </strong></span>{%if morphology %}{{morphology}}{%endif%}<br>{{entrycontent}}</p>

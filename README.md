@@ -3,5 +3,6 @@ Strong's Hebrew Lexicon
 
 generate by:
 
-`python _data/precompile_lexicons.py ; python _data/precompile_occurences.py ; RUBYOPT='-W0' bundle exec jekyll build` (or `serve`)
+`cd _data ; python precompile_lexicons.py ; python precompile_occurences.py ; cd .. ; RUBYOPT='-W0' bundle exec jekyll build` (or `serve`)
+
 
