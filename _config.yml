@@ -20,7 +20,10 @@ firstyear: 2014
 github: "https://github.com/wlcling"
 keyboardreminder: 'To navigate back- and forwards, use the arrow keys <span class="shadow">←</span> and <span class="shadow">→</span> on your keyboard<br>'
 
-website: "https://bh.seveleu.com"
+website: "https://lex.ibc.oarc.institute"
+readersite: "https://wlc.ibc.oarc.institute"
+readersiteprefix: en
+siteprefix: en
 lang: en
 sitename: Biblical Hebrew for Linguists
 heading1: Strong's
@@ -54,4 +57,4 @@ size7: 1.1
 landingpartial1: "ordered alphabetically"
 landingpartial2: "<span title='alphabetical ordering'>αβ</span>"
 landingpartial3: "ordered by frequency"
-landingpartial4: "<span title='ordering by frequency'><img style='width:1.3rem;' src='/assets/img/frequency.svg'></span>"
+landingpartial4: "<span title='ordering by frequency'><img style='width:1.3rem;' src='/{{site.siteprefix}}/assets/img/frequency.svg'></span>"
