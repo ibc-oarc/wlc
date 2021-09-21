@@ -1,11 +1,8 @@
-{%capture heading%}{{-page.heading-}}{%endcapture%}
-{%if heading contains "|" %}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%endif%}
-{%assign morphology = page.morphology | split: "|" %}{%capture morphology%}{% for portion in morphology %}{%if morphology.size > 1%}<strong><sup class="ss g">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup></strong>{%endif%}{% assign morphs = portion | split: ";"%}{% for morph in morphs %}<a title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %} + {%endunless%}{% endfor %} {% endfor %}{%endcapture%}
-
-{%capture entrycontent%}{{-page.entrycontent-}}{%endcapture%}
-{%if entrycontent contains "|" %}{% assign entrycontentsplit = entrycontent | split: "|" %}{%capture entrycontent%}{% for portion in entrycontentsplit %} {% unless forloop.first%}<br>{%endunless%}<span style="position:absolute;left:-2rem;padding-top:.6rem;"><strong class="ss g bis">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</strong></span>{{-portion-}}{%endfor%}{%endcapture%}{%endif%}
-
-
+{%-capture heading-%}{{-page.heading-}}{%-endcapture-%}
+{%-if heading contains "|" -%}{% assign headingsplit = heading | split: "|" %}{%capture heading%}{% for portion in headingsplit %}<sup style="color:gray;">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup>{{portion}}{%if forloop.last %}{%else%}, {%endif%}{%endfor%}{%endcapture%}{%-endif-%}
+{%-assign morphology = page.morphology | split: "|" -%}{%capture morphology%}{% for portion in morphology %}{%if morphology.size > 1%}<strong><sup class="ss g">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</sup></strong>{%endif%}{% assign morphs = portion | split: ";"%}{% for morph in morphs %}<a title="{{site.data.morphologycodes | where: "key", morph | first | map: "fulldescription"}}"><em>{{site.data.morphologycodes | where: "key", morph | first | map: "value"}}</em></a>{% unless forloop.last %} + {%endunless%}{% endfor %} {% endfor %}{%-endcapture-%}
+{%-capture entrycontent-%}{{-page.entrycontent-}}{%-endcapture-%}
+{%-if entrycontent contains "|" -%}{% assign entrycontentsplit = entrycontent | split: "|" %}{%capture entrycontent%}{% for portion in entrycontentsplit %} {% unless forloop.first%}<br>{%endunless%}<span style="position:absolute;left:-2rem;padding-top:.6rem;"><strong class="ss g bis">{{ site.lexicalentry4letternumbering | slice: forloop.index}}</strong></span>{{-portion-}}{%endfor%}{%endcapture%}{%-endif-%}
 <!DOCTYPE html>
 {% include head.html %}
 <p style="text-align:center"></p>
