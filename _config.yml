@@ -54,7 +54,7 @@ size4: 1.17
 size5: 1.17
 size6: 0.9
 size7: 1.1
-landingpartial1: "ordered alphabetically"
-landingpartial2: "<span title='alphabetical ordering'>αβ</span>"
-landingpartial3: "ordered by frequency"
-landingpartial4: "<span title='ordering by frequency'><img style='width:1.3rem;' src='/{{site.siteprefix}}/assets/img/frequency.svg'></span>"
+landingpartial1: ordered alphabetically
+landingpartial2: alphabetical ordering
+landingpartial3: ordered by frequency
+landingpartial4: ordering by frequency

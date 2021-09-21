@@ -1,3 +1,5 @@
+---
+---
 @charset "UTF-8";
 /*****************************************************************************/
 /*
@@ -17,26 +19,26 @@
   font-family: Inconsolata; }
 @font-face {
     font-family: "Ezra SIL";
-    src: url('/fonts/SILEOT.ttf');
+    src: url('/{{site.siteprefix}}/fonts/SILEOT.ttf');
 }
 @font-face {
     font-family: "Liberation Sans";
-    src: url('/fonts/LiberationSans-Regular.ttf');
+    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Regular.ttf');
     font-style: normal;
     font-weight: 400;}
 @font-face {
     font-family: "Liberation Sans";
-    src: url('/fonts/LiberationSans-Bold.ttf');
+    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Bold.ttf');
     font-style: normal;
     font-weight: 700;}
 @font-face {
     font-family: "Liberation Sans";
-    src: url('/fonts/LiberationSans-Italic.ttf');
+    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Italic.ttf');
     font-style: italic;
     font-weight: 400;}
 @font-face {
     font-family: "Liberation Sans";
-    src: url('/fonts/LiberationSans-BoldItalic.ttf');
+    src: url('/{{site.siteprefix}}/fonts/LiberationSans-BoldItalic.ttf');
     font-style: italic;
     font-weight: 700;}
 
