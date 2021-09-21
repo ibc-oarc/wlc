@@ -33,6 +33,7 @@ one_occurence_by_line["occurences"]=one_occurence_by_line["occurences"].apply(fo
 one_occurence_by_line=one_occurence_by_line.sort_values(by=["strongNumber","occurences"])
 
 template_link=template_link.replace("{{{{site.readersite}}}}", dic["readersite"]).replace("{{{{site.readersiteprefix}}}}", dic["readersiteprefix"])
+print(template_link)
 links_fetched = one_occurence_by_line.merge(index,left_on="occurences",right_on="number").dropna(axis=0)
 links_fetched["link"]=links_fetched[["number","chapter","verse"]].apply(lambda x: template_link.format(x["number"],x["chapter"],x["verse"]).format(x["chapter"],x["verse"]), axis=1)
 links_fetched=links_fetched.drop(["occurences","number","chapter","verse"], axis=1)
