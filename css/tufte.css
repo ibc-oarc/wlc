@@ -15,32 +15,14 @@
 @font-face {
   font-family: "EB Garamond"; }
 @font-face {
+  font-family: "Noto Serif Hebrew"; }
+@font-face {
     font-family: "Ezra SIL";
     src: url('/{{site.siteprefix}}/fonts/SILEOT.ttf');
 }
-@font-face {
-    font-family: "Liberation Sans";
-    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Regular.ttf');
-    font-style: normal;
-    font-weight: 400;}
-@font-face {
-    font-family: "Liberation Sans";
-    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Bold.ttf');
-    font-style: normal;
-    font-weight: 700;}
-@font-face {
-    font-family: "Liberation Sans";
-    src: url('/{{site.siteprefix}}/fonts/LiberationSans-Italic.ttf');
-    font-style: italic;
-    font-weight: 400;}
-@font-face {
-    font-family: "Liberation Sans";
-    src: url('/{{site.siteprefix}}/fonts/LiberationSans-BoldItalic.ttf');
-    font-style: italic;
-    font-weight: 700;}
 
 #bh {
-      font-family: "Ezra SIL", serif;
+      font-family: "Ezra SIL", "Noto Serif Hebrew", serif;
       font-weight: normal;
 } 
 
