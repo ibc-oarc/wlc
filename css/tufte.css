@@ -8,15 +8,12 @@
 /*
 /* The README.md will show you how to set up your site along with other goodies
 /*****************************************************************************/
-@import url('https://fonts.googleapis.com/css?family=Roboto:400');
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400');
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i');
 @font-face {
-  font-family: Roboto; }
+  font-family: "Source Sans Pro"; }
 @font-face {
   font-family: "EB Garamond"; }
-@font-face {
-  font-family: Inconsolata; }
 @font-face {
     font-family: "Ezra SIL";
     src: url('/{{site.siteprefix}}/fonts/SILEOT.ttf');
@@ -268,7 +265,7 @@ body {
   text-justify: inter-word; }
 
 h1 {
-  font-family: Roboto, sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-style: bold;
   font-weight: 900;
   margin-top: 1.568rem;
@@ -277,7 +274,7 @@ h1 {
   line-height: 0.784; }
 
 h2 {
-  font-family: Roboto, sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-style: bold;
   font-weight: 900;
   margin-top: 1.866666666666667rem;
@@ -286,7 +283,7 @@ h2 {
   line-height: 0.933333333333333; }
 
 h3 {
-  font-family: Roboto, sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-style: bold;
   font-weight: 900;
   font-size: 1.8rem;
@@ -295,7 +292,7 @@ h3 {
   line-height: 1.08888888888889; }
 
 h1:before {
-  background-image: url("/assets/img/sun.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/sun.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -305,7 +302,7 @@ h1:before {
   position: absolute; }
 
 h2:nth-of-type(3n+0):before {
-  background-image: url("/assets/img/horse.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/horse.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -314,7 +311,7 @@ h2:nth-of-type(3n+0):before {
   position: absolute; }
 
 h2:nth-of-type(3n+1):before {
-  background-image: url("/assets/img/rug.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/rug.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -323,7 +320,7 @@ h2:nth-of-type(3n+1):before {
   position: absolute; }
 
 h2:nth-of-type(3n+2):before {
-  background-image: url("/assets/img/flower.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/flower.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -332,7 +329,7 @@ h2:nth-of-type(3n+2):before {
   position: absolute; }
 
 h3:not(.contrast):nth-of-type(3n+2):before {
-  background-image: url("/assets/img/horse.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/horse.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -341,7 +338,7 @@ h3:not(.contrast):nth-of-type(3n+2):before {
   position: absolute; }
 
 h3:not(.contrast):nth-of-type(3n+0):before {
-  background-image: url("/assets/img/rug.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/rug.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -350,7 +347,7 @@ h3:not(.contrast):nth-of-type(3n+0):before {
   position: absolute; }
 
 h3:not(.contrast):nth-of-type(3n+1):before {
-  background-image: url("/assets/img/flower.svg");
+  background-image: url("/{{site.siteprefix}}/assets/img/flower.svg");
   background-size: 50px 100px;
   content: "";
   width: 50px;
@@ -389,11 +386,11 @@ blockquote footer {
   text-align: right; }
 
 .sans {
-  font-family: Roboto, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   letter-spacing: .03em; }
 
 pre, pre code, p code, p pre code {
-  font-family: Inconsolata, Courier, monospace;
+  font-family: Courier, monospace;
   font-size: 1.2rem;
   line-height: 1.71428571;
   margin-top: 1.71428571rem; }
@@ -664,7 +661,7 @@ nav.group a.active:after {
 
 header > nav a {
   font-size: 1.2rem;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: "Source Sans Pro", Arial, sans-serif;
   letter-spacing: 0.15em;
   color: #001663;
   padding-top: 1.5rem;
@@ -695,7 +692,7 @@ ul.footer-links li {
   padding: 1rem 0rem; }
 
 .credits {
-  font-family: Roboto, Arial, sans-serif; }
+  font-family: "Source Sans Pro", Arial, sans-serif; }
   .credits a {
     color: #001663; }
 
@@ -811,7 +808,7 @@ hr.slender {
     font-size: 12pt; }
 
   html body span.print-footer {
-    font-family: Roboto, Arial, sans-serif;
+    font-family: "Source Sans Pro", Arial, sans-serif;
     font-size: 9pt;
     margin-top: 22.4pt;
     padding-top: 4pt;
