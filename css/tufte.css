@@ -8,10 +8,10 @@
 /*
 /* The README.md will show you how to set up your site along with other goodies
 /*****************************************************************************/
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400');
+@import url('https://fonts.googleapis.com/css?family=Inter:400');
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i');
 @font-face {
-  font-family: "Source Sans Pro"; }
+  font-family: "Inter"; }
 @font-face {
   font-family: "EB Garamond"; }
 @font-face {
@@ -265,7 +265,7 @@ body {
   text-justify: inter-word; }
 
 h1 {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: bold;
   font-weight: 900;
   margin-top: 1.568rem;
@@ -274,7 +274,7 @@ h1 {
   line-height: 0.784; }
 
 h2 {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: bold;
   font-weight: 900;
   margin-top: 1.866666666666667rem;
@@ -283,7 +283,7 @@ h2 {
   line-height: 0.933333333333333; }
 
 h3 {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: bold;
   font-weight: 900;
   font-size: 1.8rem;
@@ -386,7 +386,7 @@ blockquote footer {
   text-align: right; }
 
 .sans {
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   letter-spacing: .03em; }
 
 pre, pre code, p code, p pre code {
@@ -661,7 +661,7 @@ nav.group a.active:after {
 
 header > nav a {
   font-size: 1.2rem;
-  font-family: "Source Sans Pro", Arial, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   letter-spacing: 0.15em;
   color: #001663;
   padding-top: 1.5rem;
@@ -692,7 +692,7 @@ ul.footer-links li {
   padding: 1rem 0rem; }
 
 .credits {
-  font-family: "Source Sans Pro", Arial, sans-serif; }
+  font-family: "Inter", Arial, sans-serif; }
   .credits a {
     color: #001663; }
 
@@ -808,7 +808,7 @@ hr.slender {
     font-size: 12pt; }
 
   html body span.print-footer {
-    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-size: 9pt;
     margin-top: 22.4pt;
     padding-top: 4pt;
@@ -931,7 +931,7 @@ span#toc {
   background:whitesmoke;
   padding:0.2rem; }
   
-.ss {font-family:"Source Sans Pro";}
+.ss {font-family:"Inter";}
 
 .g {color:gray;
 
