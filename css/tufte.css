@@ -8,7 +8,7 @@
 /*
 /* The README.md will show you how to set up your site along with other goodies
 /*****************************************************************************/
-@import url('https://fonts.googleapis.com/css?family=Inter:400');
+@import url('https://fonts.googleapis.com/css?family=Inter:400,600');
 @import url('https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,700,700i');
 @font-face {
   font-family: "Inter"; }
@@ -937,4 +937,6 @@ span#toc {
 
 .bis {font-size:200%;}
 
-.st {font-weight: bold;}
+.st {
+  font-weight: 600;
+  font-size: 82%}
