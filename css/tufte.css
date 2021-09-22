@@ -266,8 +266,7 @@ body {
 
 h1 {
   font-family: "Inter", sans-serif;
-  font-style: bold;
-  font-weight: 900;
+  font-weight: 400;
   margin-top: 1.568rem;
   margin-bottom: 1.568rem;
   font-size: 2.5rem;
@@ -931,7 +930,9 @@ span#toc {
   background:whitesmoke;
   padding:0.2rem; }
   
-.ss {font-family:"Inter";}
+.ss {
+  font-family:"Inter";
+  font-size: 82%;}
 
 .g {color:gray;}
 
@@ -939,4 +940,4 @@ span#toc {
 
 .st {
   font-weight: 600;
-  font-size: 82%}
+}
