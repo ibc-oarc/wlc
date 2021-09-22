@@ -2,7 +2,7 @@ import pandas as pd
 import yaml
 
 lexicon_filename="comma_separated_TBESH_formatted.csv"
-index_filename="temp.csv"
+index_filename="verses_index.csv"
 biblebooks_filename="biblebooks.csv"
 
 def force_to_int(value):

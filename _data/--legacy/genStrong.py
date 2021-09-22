@@ -83,7 +83,7 @@ books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Ju
 
 import pandas as pd
 print('Loading indexing information...\r',end="")    
-index=pd.read_csv("_data/temp.csv",sep="\t")
+index=pd.read_csv("_data/verses_index.csv",sep="\t")
 # 23211	39	36	21
 # number	book	chapter	verse
 
