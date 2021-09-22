@@ -1,5 +1,5 @@
 {% assign items_grouped = site.data.partiallexicons | where: "section", include.tag | group_by: 'title' %}
-<div style="display:flex;"><span class="ss g" style="position:absolute;left:-5.8rem;width:5.5rem;line-height:1rem;font-size:.8rem;margin-top:1.1rem;text-align:right">{{include.punchline}}</span><p style="width:95%;display:flex;flex-direction:row;flex-wrap:wrap;align-items:baseline;margin-top:.3rem;line-height:120%">
+<div style="display:flex;"><span class="ss g" style="position:absolute;left:-5.8rem;width:5.5rem;line-height:1rem;font-size:.71rem;margin-top:1.1rem;text-align:right">{{include.punchline}}</span><p style="width:95%;display:flex;flex-direction:row;flex-wrap:wrap;align-items:baseline;margin-top:.3rem;line-height:120%">
 {%for element in items_grouped %}
 {% assign nameid = element.items | first | map: "nameid" | first %}
 {% assign sizes = site.data.precompiled_lexicons | where: "nameid", nameid | first | map: "links" | split: "," | size %}
