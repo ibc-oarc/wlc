@@ -1,5 +1,5 @@
 # strong
-Strong's Hebrew Lexicon
+Biblical Hebrew Lexicon after Strong. Part of the resource “Biblical Hebrew for linguists: Westminster Leningrad Codex & Hebrew Lexicon” at https://lex.ibc.oarc.science. English part of a multilingual suite.
 
 generate by:
 

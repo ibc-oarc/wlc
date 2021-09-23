@@ -14,7 +14,7 @@ INJ,intj,interjection
 N,n,noun
 N-F,"n, f","noun, feminine"
 N-M,"n, m","noun, masculine"
-N-M/F,"n, m/f","noun, masculine or feminine"
+N-M/F,"n, m/f","noun, masculine ou feminine"
 N_A,pr adj,proper adjective
 N_N--L,pr n loc,proper name of a location
 N_N--LG,pr n loc gen,proper name of a location in gentilic sense
