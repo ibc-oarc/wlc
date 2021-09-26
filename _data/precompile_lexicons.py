@@ -1,8 +1,12 @@
 import pandas as pd
 lexicon_filename="comma_separated_TBESH_formatted.csv"
+occurences_filename="occurences.csv"
 lexicons_config_filename="partiallexicons.csv"
 partiallexicons=pd.read_csv(lexicons_config_filename, sep=",", keep_default_na=False)
-lexicon=pd.read_csv(lexicon_filename, sep=",", usecols=["strongNumber", "morphology", "occurencesorder"], keep_default_na=False)
+lexicon=pd.read_csv(lexicon_filename, sep=",", usecols=["strongNumber", "morphology"], keep_default_na=False)
+occurences=pd.read_csv(occurences_filename, sep=",", usecols=["strongNumber", "occurencesorder"], keep_default_na=False)
+lexicon["occurencesorder"]=occurences["occurencesorder"]
+
 import re
 lexicon["morphology"]=lexicon["morphology"].apply(lambda x: re.split(';|\|',x))
 lexicon=lexicon.set_index("strongNumber")
