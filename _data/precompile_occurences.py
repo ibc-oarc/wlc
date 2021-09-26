@@ -1,7 +1,7 @@
 import pandas as pd
 import yaml
 
-lexicon_filename="comma_separated_TBESH_formatted.csv"
+lexicon_filename="occurences.csv"
 index_filename="verses_index.csv"
 biblebooks_filename="biblebooks.csv"
 

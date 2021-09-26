@@ -926,3 +926,20 @@ span#toc {
 .st {
   font-weight: 600;
 }
+
+.grlang {
+  font-size: 65%;
+  font-family: EB Garamond;
+  font-weight: normal;}
+  
+.tocp {
+  margin-bottom:27px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction:row;
+  line-height:1.5rem; }
+  
+.divnav {
+  left:-5.5rem;
+  position: absolute;
+  top:3.3rem;}
