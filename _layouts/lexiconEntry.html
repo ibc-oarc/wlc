@@ -6,8 +6,8 @@
 <!DOCTYPE html>
 {% include head.html %}
 <p style="text-align:center"></p>
-<div class="divnav"><a class="shadow" id="prev" href="/{{site.siteprefix}}/w/{{page.preventry}}.html ">&laquo;</a> {{page.strongNumber}} 
-<a class="shadow" id="next" href="/{{site.siteprefix}}/w/{{page.nextentry}}.html ">&raquo;</a></div>
+<div class="divnav"><a class="shadow" id="prev" href='/{{site.siteprefix}}/w/{%if page.strongNumber == "9000" %}8674{%elif page.strongNumber == "1"%}9012{% else %}{{page.strongNumber | minus: 1}}{%endif%}.html '>&laquo;</a> {{page.strongNumber}} 
+<a class="shadow" id="next" href='/{{site.siteprefix}}/w/{%if page.strongNumber == "8674" %}9000{%elif page.strongNumber == "9012"%}1{% else %}{{page.strongNumber | plus: 1}}{%endif%}.html'>&raquo;</a></div>
 <h1><span class="st">{{page.phonemes}}</span> <span id="bh" dir="rtl">{{page.hebWord}}</span> ‘{{heading}}’ <span id="gg" class="grlang">({{-site.data.fulllangnames[page.lang]-}})</span></h1>
 <p><span id="gg">{{site.lexicalentry1etymology}}:</span> {{page.etymDesc}}{%if page.etymComplete %} | <span id="gg">{{site.lexicalentry2roots}}:</span> {%assign etyms = page.etymComplete | split: "|" %}{%for etym in etyms %}{%assign et = etym | split: "+" %}<a class="shadow" href="/{{site.siteprefix}}/w/{{-et.first-}}"><span id="bh">{{-et.last-}}</span></a>{% endfor %}{%endif%}
 {%if page.variants %} | <span id="gg">{{site.lexicalentry3variants}}:</span> {{page.variants}}
