@@ -1,35 +1,35 @@
-nameid,ordered,morpholist,section
-lexicon-all,ordered alphabetically,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
-lexicon-frequency,ordered by frequency,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
-nouns-all,ordered alphabetically,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
-nouns-frequency,ordered by frequency,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
-verbs-all,ordered alphabetically,V,pos-content
-verbs-frequency,ordered by frequency,V,pos-content
-adjectives-all,ordered alphabetically,A;A-F;A-M,pos-content
-adjectives-frequency,ordered by frequency,A;A-F;A-M,pos-content
-adverbs-all,ordered alphabetically,ADV,pos-content
-adverbs-frequency,ordered by frequency,ADV,pos-content
-interjections-all,ordered alphabetically,INJ,pos-function
-interjections-frequency,ordered by frequency,INJ,pos-function
-prepositions-all,ordered alphabetically,PREP,pos-function
-prepositions-frequency,ordered by frequency,PREP,pos-function
-demonstratives-all,ordered alphabetically,D,pos-function
-demonstratives-frequency,ordered by frequency,D,pos-function
-personal-pronouns-all,ordered alphabetically,P;P-FP;P-FS;P-MP;P-MS,pos-function
-personal-frequency,ordered by frequency,P;P-FP;P-FS;P-MP;P-MS,pos-function
-conjunctions-all,ordered alphabetically,CONJ,pos-function
-conjunctions-frequency,ordered by frequency,CONJ,pos-function
-particles-all,ordered alphabetically,PRT,pos-function
-particles-frequency,ordered by frequency,PRT,pos-function
-interrogatives-frequency,ordered by frequency,I,pos-function
-negatives-frequency,ordered by frequency,NP,pos-function
-pronouns-frequency,ordered by frequency,PRON,pos-function
-relatives-frequency,ordered by frequency,R,pos-function
-persons-all,ordered alphabetically,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
-persons-frequency,ordered by frequency,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
-locations-all,ordered alphabetically,N_N--LG;N_N--L;N_N-F-L,meaning
-locations-frequency,ordered by frequency,N_N--LG;N_N--L;N_N-F-L,meaning
-gentilics-all,ordered alphabetically,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
-gentilics-frequency,ordered by frequency,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
-titles-all,ordered alphabetically,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
-titles-frequency,ordered by frequency,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
+nameid,title,ordered,morpholist,section
+lexicon-all,lexicon,ordered alphabetically,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
+lexicon-frequency,lexicon,ordered by frequency,A;A-F;A-M;A_N;A_N-M;ADV;CONJ;D;H_N;H_N-M;I;INJ;N;N-F;N-M;N-M/F;N_A;N_N--L;N_N--LG;N_N--PG;N_N--T;N_N--TG;N_N-F-L;N_N-F-P;N_N-F-PG;N_N-F-T;N_N-M;N_N-M-P;N_N-M-PG;N_N-M-T;NP;P;P-FP;P-FS;P-MP;P-MS;PREP;PRON;PRT;R;V,general
+nouns-all,nouns,ordered alphabetically,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
+nouns-frequency,nouns,ordered by frequency,A_N;A_N-M;H_N;H_N-M;N;N-F;N-M;N-M/F,pos-content
+verbs-all,verbs,ordered alphabetically,V,pos-content
+verbs-frequency,verbs,ordered by frequency,V,pos-content
+adjectives-all,adjectives,ordered alphabetically,A;A-F;A-M,pos-content
+adjectives-frequency,adjectives,ordered by frequency,A;A-F;A-M,pos-content
+adverbs-all,adverbs,ordered alphabetically,ADV,pos-content
+adverbs-frequency,adverbs,ordered by frequency,ADV,pos-content
+interjections-all,interjections,ordered alphabetically,INJ,pos-function
+interjections-frequency,interjections,ordered by frequency,INJ,pos-function
+prepositions-all,prepositions,ordered alphabetically,PREP,pos-function
+prepositions-frequency,prepositions,ordered by frequency,PREP,pos-function
+demonstratives-all,demonstratives,ordered alphabetically,D,pos-function
+demonstratives-frequency,demonstratives,ordered by frequency,D,pos-function
+personal-pronouns-all,personal,ordered alphabetically,P;P-FP;P-FS;P-MP;P-MS,pos-function
+personal-frequency,personal,ordered by frequency,P;P-FP;P-FS;P-MP;P-MS,pos-function
+conjunctions-all,conjunctions,ordered alphabetically,CONJ,pos-function
+conjunctions-frequency,conjunctions,ordered by frequency,CONJ,pos-function
+particles-all,particles,ordered alphabetically,PRT,pos-function
+particles-frequency,particles,ordered by frequency,PRT,pos-function
+interrogatives-frequency,interrogatives,ordered by frequency,I,pos-function
+negatives-frequency,negatives,ordered by frequency,NP,pos-function
+pronouns-frequency,pronouns,ordered by frequency,PRON,pos-function
+relatives-frequency,relatives,ordered by frequency,R,pos-function
+persons-all,persons,ordered alphabetically,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
+persons-frequency,persons,ordered by frequency,N_N-M-P;N_N-F-P;N_N-F-PG;N_N-M-PG;N_N--PG,meaning
+locations-all,locations,ordered alphabetically,N_N--LG;N_N--L;N_N-F-L,meaning
+locations-frequency,locations,ordered by frequency,N_N--LG;N_N--L;N_N-F-L,meaning
+gentilics-all,gentilics,ordered alphabetically,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
+gentilics-frequency,gentilics,ordered by frequency,N_N-F-PG;N_N-M-PG;N_N--PG;N_N--LG;N_N--TG,meaning
+titles-all,titles,ordered alphabetically,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
+titles-frequency,titles,ordered by frequency,N_N-M-T;N_N-F-T;N_N--T;N_N--TG,meaning
