@@ -1,5 +1,5 @@
 import pandas as pd
-lexicon_filename="comma_separated_TBESH_formatted.csv"
+lexicon_filename="sample_comma_separated_TBESH_formatted.csv"
 occurences_filename="occurences.csv"
 lexicons_config_filename="partiallexicons.csv"
 partiallexicons=pd.read_csv(lexicons_config_filename, sep=",", keep_default_na=False)
