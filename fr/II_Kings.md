@@ -1,2872 +1,2160 @@
 ---
+title: II_Kings.json.csv
 layout: default
 ---
+<span class="marginnote num" label="1:1" name="1-1"><strong>1</strong>:1</span>
+Moab se révolta contre Israël après la mort d’Achab.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
- Moab se révolta contre Israël après la mort d’Achab.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:2" name="1-2">2</span>
+Achazia tomba par le treillis, de l’étage supérieur de son palais de Samarie, et se blessa grièvement. Il fit partir des émissaires en leur disant: "Allez vous informer auprès de Baal-Zeboub, divinité d’Ekrôn, si j’ai espoir de guérir de ma blessure."
 
-<span class="marginnote nb" label="1:2" name="1:2">1:2</span><span style="display:none">¤1:2¤</span>
- Achazia tomba par le treillis, de l’étage supérieur de son palais de Samarie, et se blessa grièvement. Il fit partir des émissaires en leur disant: "Allez vous informer auprès de Baal-Zeboub, divinité d’Ekrôn, si 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:3" name="1-3">3</span>
+Mais un ange du Seigneur dit à Élie le Tisbite: "Va à la rencontre des messagers du roi de Samarie et demande-leur: N’y a-t-il donc pas de Dieu en Israël, pour que vous alliez consulter Baal-Zeboub, dieu d’Ekrôn?
 
-<span class="marginnote nb" label="1:3" name="1:3">1:3</span><span style="display:none">¤1:3¤</span>
- Mais un ange du Seigneur dit à Élie le Tisbite: "Va à la rencontre des messagers du roi de 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:4" name="1-4">4</span>
+Or, voici la parole de l’Éternel: Tu ne descendras plus du lit où tu es monté, mais certes, tu mourras." Elle obéit.
 
-<span class="marginnote nb" label="1:4" name="1:4">1:4</span><span style="display:none">¤1:4¤</span>
- Or, voici la parole de l’Éternel: Tu ne descendras plus du lit où tu es monté, mais certes, tu mourras."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:5" name="1-5">5</span>
+Les messagers retournèrent alors auprès du roi, qui leur dit: "Que signifie votre retour?"
 
-<span class="marginnote nb" label="1:5" name="1:5">1:5</span><span style="display:none">¤1:5¤</span>
- Les messagers retournèrent alors auprès du roi, qui leur dit: "Que signifie votre retour?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:6" name="1-6">6</span>
+lis répondirent: "Un homme est venu à notre rencontre et nous a dit: Retournez auprès du roi qui vous a envoyés, et dites-lui: Ainsi a parlé l’Éternel: N’y a-t-il donc pas de Dieu en Israël pour que tu envoies consulter Baal-Zeboub, dieu d’Ekrôn? C’est pourquoi, tu ne redescendras pas du lit où tu es monté, mais certes, tu mourras.
 
-<span class="marginnote nb" label="1:6" name="1:6">1:6</span><span style="display:none">¤1:6¤</span>
-lis répondirent: "Un homme est venu à notre rencontre et nous a dit: Retournez auprès du roi qui vous a envoyés, et dites-lui: Ainsi a parlé l’Éternel: N’y a
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-
-<span class="marginnote nb" label="1:7" name="1:7">1:7</span><span style="display:none">¤1:7¤</span>
+<span class="marginnote num" label="1:7" name="1-7">7</span>
 Et quels signes distinctifs avait l’homme qui vous a abordés et vous a tenu ce langage? demanda le roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="1:8" name="1:8">1:8</span><span style="display:none">¤1:8¤</span>
+<span class="marginnote num" label="1:8" name="1-8">8</span>
 Cet homme, répondirent-ils, avait un vêtement de poil, et une ceinture de cuir entourait ses reins." Le roi dit: "C’était Élie le Tisbite."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="1:9" name="1:9">1:9</span><span style="display:none">¤1:9¤</span>
-Et il envoya contre lui un chef de cinquante hommes avec sa troupe. Cet officier monta vers le prophète, qui se tenait sur le sommet de ta montagne, et lui dit: "Homme de Dieu, le roi t’ordonne
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:9" name="1-9">9</span>
+Et il envoya contre lui un chef de cinquante hommes avec sa troupe. Cet officier monta vers le prophète, qui se tenait sur le sommet de ta montagne, et lui dit: "Homme de Dieu, le roi t’ordonne de descendre.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Aussi vrai que je suis un homme de Dieu, répondit Élie à l’officier, un feu descendra du ciel 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:10" name="1-10">10</span>
+Aussi vrai que je suis un homme de Dieu, répondit Élie à l’officier, un feu descendra du ciel et te consumera, toi et tes cinquante hommes." Aussitôt, un feu descendit du ciel, et le consuma avec ses hommes.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Le roi envoya un autre capitaine, accompagné de cinquante hommes. Celui-ci dit à son tour à Élie: "Homme de Dieu, par ordre du roi, hâte-toi de descendre."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:11" name="1-11">11</span>
+Le roi envoya un autre capitaine, accompagné de cinquante hommes. Celui-ci dit à son tour à Élie: "Homme de Dieu, par ordre du roi, hâte-toi de descendre."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Le prophète répliqua et leur dit: "Aussi vrai que je suis un homme de Dieu, un feu descendra du ciel et te consumera, toi et tes cinquante hommes." Aussitôt un feu descendit du ciel, et le 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:12" name="1-12">12</span>
+Le prophète répliqua et leur dit: "Aussi vrai que je suis un homme de Dieu, un feu descendra du ciel et te consumera, toi et tes cinquante hommes." Aussitôt un feu descendit du ciel, et le consuma avec ses hommes.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Le roi envoya une troisième fois un capitaine à la tête de cinquante hommes. Mais celui-ci, après être monté, se mit à genoux devant Élie, et lui adressa une s
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:13" name="1-13">13</span>
+Le roi envoya une troisième fois un capitaine à la tête de cinquante hommes. Mais celui-ci, après être monté, se mit à genoux devant Élie, et lui adressa une supplication en disant: "Homme de Dieu, respecte, de grâce, ma vie et celle de ces cinquante hommes, tes serviteurs.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Voilà qu’un feu est descendu du ciel et a consumé les deux premiers capitaines avec leurs cinquante hommes; mais maintenant, que ma vie soit sacrée à tes yeux!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:14" name="1-14">14</span>
+Voilà qu’un feu est descendu du ciel et a consumé les deux premiers capitaines avec leurs cinquante hommes; mais maintenant, que ma vie soit sacrée à tes yeux!"
 
-<span class="marginnote nb" label="1:15" name="1:15">1:15</span><span style="display:none">¤1:15¤</span>
- Alors un ange du Seigneur dit à Élie: "Descends avec lui, sans rien craindre de sa part." Il descendit avec lui et se rendit auprès du roi,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:15" name="1-15">15</span>
+Alors un ange du Seigneur dit à Élie: "Descends avec lui, sans rien craindre de sa part." Il descendit avec lui et se rendit auprès du roi,
 
-<span class="marginnote nb" label="1:16" name="1:16">1:16</span><span style="display:none">¤1:16¤</span>
- à qui il dit: "Ainsi à parlé l’Éternel: Parce que tu as envoyé des messagers pour interroger Baal-Zeboub, dieu d’Ekrôn
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:16" name="1-16">16</span>
+à qui il dit: "Ainsi à parlé l’Éternel: Parce que tu as envoyé des messagers pour interroger Baal-Zeboub, dieu d’Ekrôn, comme s’il n’y avait pas de Dieu en Israël pour consulter son oracle, tu ne descendras plus du lit où tu es monté, mais tu mourras certainement."
 
-<span class="marginnote nb" label="1:17" name="1:17">1:17</span><span style="display:none">¤1:17¤</span>
- Il mourut, en effet, comme le Seigneur l’avait annoncé par la bouche d’Elfe. Joram lui succéda, la deuxième année du règne de Joram, fils de Josaphat, roi de Juda; car il n’avait pas de fils.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:17" name="1-17">17</span>
+Il mourut, en effet, comme le Seigneur l’avait annoncé par la bouche d’Elfe. Joram lui succéda, la deuxième année du règne de Joram, fils de Josaphat, roi de Juda; car il n’avait pas de fils.
 
-<span class="marginnote nb" label="1:18" name="1:18">1:18</span><span style="display:none">¤1:18¤</span>
- Le reste des faits accomplis par Achazia est consigné dans le livre des annales des rois d’Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="1:18" name="1-18">18</span>
+Le reste des faits accomplis par Achazia est consigné dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="2:1" name="2:1">2:1</span><span style="display:none">¤2:1¤</span>
+<span class="marginnote num" label="2:1" name="2-1"><strong>2</strong>:1</span>
 Quand l’Éternel fit monter Élie au ciel dans un tourbillon, Elle et Élisée quittaient Ghilgal.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="2:2" name="2:2">2:2</span><span style="display:none">¤2:2¤</span>
-Élie dit à Élisée: "Reste ici, de grâce, car l’Éternel m’a donné une mission pour Béthel. Vive Dieu et par ta propre vie! répondit Élisée, je ne te quitterai pas." Et ils se rendirent ens
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:2" name="2-2">2</span>
+Élie dit à Élisée: "Reste ici, de grâce, car l’Éternel m’a donné une mission pour Béthel. Vive Dieu et par ta propre vie! répondit Élisée, je ne te quitterai pas." Et ils se rendirent ensemble à Béthel.
 
-<span class="marginnote nb" label="2:3" name="2:3">2:3</span><span style="display:none">¤2:3¤</span>
-Les jeunes prophètes établis à Béthel allèrent au-devant d’Élisée et lui dirent: "Sais-tu que l’Éternel t’enlève aujourd’hui ton maître, ton guide?" Il répondi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:3" name="2-3">3</span>
+Les jeunes prophètes établis à Béthel allèrent au-devant d’Élisée et lui dirent: "Sais-tu que l’Éternel t’enlève aujourd’hui ton maître, ton guide?" Il répondit: "Silence, oui, je le sais."
 
-<span class="marginnote nb" label="2:4" name="2:4">2:4</span><span style="display:none">¤2:4¤</span>
-Élie reprit: "Élisée, reste ici, car l’Éternel m’a confié une mission
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:4" name="2-4">4</span>
+Élie reprit: "Élisée, reste ici, car l’Éternel m’a confié une mission pour Jéricho. Vive l’Éternel, répliqua-t-il, et par ta propre vie! Je ne te quitterai pas." Et ils vinrent ensemble à Jéricho.
 
-<span class="marginnote nb" label="2:5" name="2:5">2:5</span><span style="display:none">¤2:5¤</span>
- Les jeunes prophètes établis à Jéricho se rendirent auprès d’Élisée et lui dirent: "Sais-tu que l’Éternel t’enlève aujourd’hui ton maître, ton guide? Silence, r
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:5" name="2-5">5</span>
+Les jeunes prophètes établis à Jéricho se rendirent auprès d’Élisée et lui dirent: "Sais-tu que l’Éternel t’enlève aujourd’hui ton maître, ton guide? Silence, répondit-il, oui, je le sais."
 
-<span class="marginnote nb" label="2:6" name="2:6">2:6</span><span style="display:none">¤2:6¤</span>
- Et Élie dit de nouveau: "Reste ici, je te prie, car l’Éternel m’envoie du côté du Jourdain." Il répondit: "Vive l’Éternel et par ta propre vie! Je ne te 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:6" name="2-6">6</span>
+Et Élie dit de nouveau: "Reste ici, je te prie, car l’Éternel m’envoie du côté du Jourdain." Il répondit: "Vive l’Éternel et par ta propre vie! Je ne te quitterai pas." Et ils continuèrent ensemble leur route.
 
-<span class="marginnote nb" label="2:7" name="2:7">2:7</span><span style="display:none">¤2:7¤</span>
- Cinquante jeunes prophètes allèrent, de leur côté, et se placè
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:7" name="2-7">7</span>
+Cinquante jeunes prophètes allèrent, de leur côté, et se placèrent en vue d’eux à une certaine distance; les deux prophètes s’étaient arrêtés près du Jourdain.
 
-<span class="marginnote nb" label="2:8" name="2:8">2:8</span><span style="display:none">¤2:8¤</span>
- Élie prit son manteau, le roula, en frappa les eaux, qui se séparèrent en deux, et ils pass
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:8" name="2-8">8</span>
+Élie prit son manteau, le roula, en frappa les eaux, qui se séparèrent en deux, et ils passèrent ensemble à pieds secs.
 
-<span class="marginnote nb" label="2:9" name="2:9">2:9</span><span style="display:none">¤2:9¤</span>
-Pendant qu’ils traversaient, Élie dit à Élisée: "Exprime un désir; que puis-je faire pour toi avant que je te sois enlevé?" Él
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:9" name="2-9">9</span>
+Pendant qu’ils traversaient, Élie dit à Élisée: "Exprime un désir; que puis-je faire pour toi avant que je te sois enlevé?" Élisée répondit: "Puissé-je avoir une double part de l’esprit qui t’inspire!
 
-<span class="marginnote nb" label="2:10" name="2:10">2:10</span><span style="display:none">¤2:10¤</span>
- Tu as demandé quelque chose de difficile, répondit Élie; tu seras cependant satisfait si tu me vois disparaître à tes yeux, mais
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:10" name="2-10">10</span>
+Tu as demandé quelque chose de difficile, répondit Élie; tu seras cependant satisfait si tu me vois disparaître à tes yeux, mais sinon, non."
 
-<span class="marginnote nb" label="2:11" name="2:11">2:11</span><span style="display:none">¤2:11¤</span>
- Ils, poursuivaient leur chemin en conversant, quand tout à coup un char de feu, attelé de chevaux de feu, les sépara l’un de l’autre, et Élie monta au
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:11" name="2-11">11</span>
+Ils, poursuivaient leur chemin en conversant, quand tout à coup un char de feu, attelé de chevaux de feu, les sépara l’un de l’autre, et Élie monta au ciel dans un tourbillon.
 
-<span class="marginnote nb" label="2:12" name="2:12">2:12</span><span style="display:none">¤2:12¤</span>
- A cette vue, Élisée s’écria: "Mon père, mon père! Char et cavalerie d’Israël!" Et
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:12" name="2-12">12</span>
+A cette vue, Élisée s’écria: "Mon père, mon père! Char et cavalerie d’Israël!" Et il ne le vit plus. Alors il saisit ses vêtements, et les déchira de part en part.
 
-<span class="marginnote nb" label="2:13" name="2:13">2:13</span><span style="display:none">¤2:13¤</span>
- Puis il ramassa le manteau qui était tombé des épaules d’Élie, et retourna sur les rives d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:13" name="2-13">13</span>
+Puis il ramassa le manteau qui était tombé des épaules d’Élie, et retourna sur les rives du Jourdain, où il s’arrêta.
 
-<span class="marginnote nb" label="2:14" name="2:14">2:14</span><span style="display:none">¤2:14¤</span>
- Il prit le manteau qui était tombé des épaules d’Élie, et en frappa les eaux en s’écriant: "Où est l’Éternel, l
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:14" name="2-14">14</span>
+Il prit le manteau qui était tombé des épaules d’Élie, et en frappa les eaux en s’écriant: "Où est l’Éternel, le Dieu d’Élie?" et sous ses coups les eaux se séparèrent devant lui également, et il passa.
 
-<span class="marginnote nb" label="2:15" name="2:15">2:15</span><span style="display:none">¤2:15¤</span>
- Les jeunes prophètes de Jéricho avaient vu de loin ce qui s’était passé, et ils dirent: "L’esprit d’Élie repose sur Élisée." Ils allè
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:15" name="2-15">15</span>
+Les jeunes prophètes de Jéricho avaient vu de loin ce qui s’était passé, et ils dirent: "L’esprit d’Élie repose sur Élisée." Ils allèrent à sa rencontre, et se prosternèrent devant lui jusqu’à terre.
 
-<span class="marginnote nb" label="2:16" name="2:16">2:16</span><span style="display:none">¤2:16¤</span>
- Ils lui dirent: "Il y a parmi tes serviteurs cinquante hommes vaillants: laisse-les donc aller à la recherche de ton maître. Peut-être le souffle de l
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:16" name="2-16">16</span>
+Ils lui dirent: "Il y a parmi tes serviteurs cinquante hommes vaillants: laisse-les donc aller à la recherche de ton maître. Peut-être le souffle de l’Éternel l’a-t-il emporté et jeté sur une des montagnes, ou dans une des vallées. N’envoyez personne," répliqua-t-il.
 
-<span class="marginnote nb" label="2:17" name="2:17">2:17</span><span style="display:none">¤2:17¤</span>
- Mais ils insistèrent au point de l’embarrasser, et il dit: "Envoyez!" Ils envoyèrent cinquante hommes, qui cherchèrent le prophète pendant trois jours, mais sans le trouver.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:17" name="2-17">17</span>
+Mais ils insistèrent au point de l’embarrasser, et il dit: "Envoyez!" Ils envoyèrent cinquante hommes, qui cherchèrent le prophète pendant trois jours, mais sans le trouver.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Quand ils revinrent auprès d’Élisée, qui était resté à Jéricho, il leur dit: "Ne vous avais-je pas conseillé de ne pas aller?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:18" name="2-18">18</span>
+Quand ils revinrent auprès d’Élisée, qui était resté à Jéricho, il leur dit: "Ne vous avais-je pas conseillé de ne pas aller?"
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Or, les habitants de Jéricho dirent à Élisée: "Le séjour de cette ville est agréable, comme mon seigneur le voi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:19" name="2-19">19</span>
+Or, les habitants de Jéricho dirent à Élisée: "Le séjour de cette ville est agréable, comme mon seigneur le voit; mais l’eau y est malsaine et le sol meurtrier."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Il répondit: "Apportez-moi une cruche neuve que vous remplirez de sel;" et on la lui apporta.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:20" name="2-20">20</span>
+Il répondit: "Apportez-moi une cruche neuve que vous remplirez de sel;" et on la lui apporta.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Il alla vers la source d’où venait l’eau et y jeta le sel en disant: "Telle est la parole de l’Éternel: Je vais rendre ces eaux salubres, et e
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:21" name="2-21">21</span>
+Il alla vers la source d’où venait l’eau et y jeta le sel en disant: "Telle est la parole de l’Éternel: Je vais rendre ces eaux salubres, et elles ne causeront plus ni mort ni ravages."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Les eaux devinrent salubres, jusqu’au jour présent, selon la prédiction faite par Élisée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:22" name="2-22">22</span>
+Les eaux devinrent salubres, jusqu’au jour présent, selon la prédiction faite par Élisée.
 
-<span class="marginnote nb" label="2:23" name="2:23">2:23</span><span style="display:none">¤2:23¤</span>
- Il se rendit de là à Béthel. Il suivait la montée, quand de jeunes garç
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:23" name="2-23">23</span>
+Il se rendit de là à Béthel. Il suivait la montée, quand de jeunes garçons, sortant de la ville, l’insultèrent en ces termes: "Monte, chauve, monte, chauve!"
 
-<span class="marginnote nb" label="2:24" name="2:24">2:24</span><span style="display:none">¤2:24¤</span>
- Il se retourna pour les voir, et les maudit au nom de l’Éternel. Aussitôt, deux ours sortirent de la forêt et mirent en pièces quarante-deux de ces enfants.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:24" name="2-24">24</span>
+Il se retourna pour les voir, et les maudit au nom de l’Éternel. Aussitôt, deux ours sortirent de la forêt et mirent en pièces quarante-deux de ces enfants.
 
-<span class="marginnote nb" label="2:25" name="2:25">2:25</span><span style="display:none">¤2:25¤</span>
- De là, il se dirigea vers le mont Carmel, d’où il revint à Samarie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="2:25" name="2-25">25</span>
+De là, il se dirigea vers le mont Carmel, d’où il revint à Samarie.
 
-<span class="marginnote nb" label="3:1" name="3:1">3:1</span><span style="display:none">¤3:1¤</span>
-Joram, fils d’Achab, monta sur le trône d’Israël, à Samarie, la dix-huitième année du règne de Josaphat, roi de Juda; il régna d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:1" name="3-1"><strong>3</strong>:1</span>
+Joram, fils d’Achab, monta sur le trône d’Israël, à Samarie, la dix-huitième année du règne de Josaphat, roi de Juda; il régna douze ans.
 
-<span class="marginnote nb" label="3:2" name="3:2">3:2</span><span style="display:none">¤3:2¤</span>
-Il fit ce qui déplaît aux yeux de l’Éternel, toutefois, moins que son père et que sa mère; c’
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:2" name="3-2">2</span>
+Il fit ce qui déplaît aux yeux de l’Éternel, toutefois, moins que son père et que sa mère; c’est ainsi qu’il fit enlever la statue de Baal érigée par son père.
 
-<span class="marginnote nb" label="3:3" name="3:3">3:3</span><span style="display:none">¤3:3¤</span>
-Mais il suivit, sans s’en écarter, les voies perverses de Jéroboam, fils de Nebat, qui avait i
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:3" name="3-3">3</span>
+Mais il suivit, sans s’en écarter, les voies perverses de Jéroboam, fils de Nebat, qui avait induit Israël au péché.
 
-<span class="marginnote nb" label="3:4" name="3:4">3:4</span><span style="display:none">¤3:4¤</span>
-Mécha, roi de Moab, était riche en troupeaux: il payait au roi d’Israël un tribut de cent, mille agneaux et de cent mille béliers p
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:4" name="3-4">4</span>
+Mécha, roi de Moab, était riche en troupeaux: il payait au roi d’Israël un tribut de cent, mille agneaux et de cent mille béliers pourvus de leur laine.
 
-<span class="marginnote nb" label="3:5" name="3:5">3:5</span><span style="display:none">¤3:5¤</span>
+<span class="marginnote num" label="3:5" name="3-5">5</span>
 Mais à la mort d’Achab, le roi de Moab fit défection au roi d’Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="3:6" name="3:6">3:6</span><span style="display:none">¤3:6¤</span>
+<span class="marginnote num" label="3:6" name="3-6">6</span>
 Aussitôt, Joram quitta Samarie et passa en revue tout Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="3:7" name="3:7">3:7</span><span style="display:none">¤3:7¤</span>
-Puis il se décida à envoyer le message suivant à Josaphat, roi de Juda: "Le roi de Moab s’est révolté contre moi. Veux-tu aller en guerre avec moi contre Moab?" Il répondit: "J’irai; toi et moi, ton peuple et mon 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:7" name="3-7">7</span>
+Puis il se décida à envoyer le message suivant à Josaphat, roi de Juda: "Le roi de Moab s’est révolté contre moi. Veux-tu aller en guerre avec moi contre Moab?" Il répondit: "J’irai; toi et moi, ton peuple et mon peuple, tes chevaux et les miens, c’est tout un.
 
-<span class="marginnote nb" label="3:8" name="3:8">3:8</span><span style="display:none">¤3:8¤</span>
+<span class="marginnote num" label="3:8" name="3-8">8</span>
 Quel chemin prendrons-nous? demanda Joram. La route du désert iduméen," répondit Josaphat.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="3:9" name="3:9">3:9</span><span style="display:none">¤3:9¤</span>
-Le roi d’Israël, le roi de Juda et le roi d’Edom entrèrent donc e
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:9" name="3-9">9</span>
+Le roi d’Israël, le roi de Juda et le roi d’Edom entrèrent donc en campagne. Mais, après sept jours de marche, l’eau manqua aux troupes et aux bêtes qui les suivaient.
 
-<span class="marginnote nb" label="3:10" name="3:10">3:10</span><span style="display:none">¤3:10¤</span>
- Le roi d’Israël s’écria: "Hélas! Est-ce que l’Éternel aurait fait appel à ces trois rois pour les livrer aux mains de Moab!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:10" name="3-10">10</span>
+Le roi d’Israël s’écria: "Hélas! Est-ce que l’Éternel aurait fait appel à ces trois rois pour les livrer aux mains de Moab!"
 
-<span class="marginnote nb" label="3:11" name="3:11">3:11</span><span style="display:none">¤3:11¤</span>
- Josaphat dit: "N’y a-t-il point ici de prophète de Dieu auprès de qui nous puissions consulter le
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:11" name="3-11">11</span>
+Josaphat dit: "N’y a-t-il point ici de prophète de Dieu auprès de qui nous puissions consulter le Seigneur?" Un des serviteurs du roi d’Israël répondit: "Il se trouve ici Élisée, fils de Chefat, qui a versé l’eau sur les mains d’Élie.
 
-<span class="marginnote nb" label="3:12" name="3:12">3:12</span><span style="display:none">¤3:12¤</span>
- La parole divine est sur ses lèvres, dit Josaphat." Le roi d’Israël, Josaphat et le roi d’Edom se rendirent donc auprès de lui.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:12" name="3-12">12</span>
+La parole divine est sur ses lèvres, dit Josaphat." Le roi d’Israël, Josaphat et le roi d’Edom se rendirent donc auprès de lui.
 
-<span class="marginnote nb" label="3:13" name="3:13">3:13</span><span style="display:none">¤3:13¤</span>
- Mais Élisée apostropha ainsi le roi d’Israël: "Qu’y a-t-il de commun entre toi et moi? Adresse-toi aux prophètes de ton père et aux prophètes de ta mère." Le 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:13" name="3-13">13</span>
+Mais Élisée apostropha ainsi le roi d’Israël: "Qu’y a-t-il de commun entre toi et moi? Adresse-toi aux prophètes de ton père et aux prophètes de ta mère." Le roi d’Israël répondit: "Laissons cela. Est-ce que l’Éternel a fait appel à ces trois rois pour les livrer aux mains de Moab?"
 
-<span class="marginnote nb" label="3:14" name="3:14">3:14</span><span style="display:none">¤3:14¤</span>
- Élisée reprit: "Vive l’Éternel-Cebaot, que je sers! Si je ne respectais la personne de Josaphat, roi de Juda, je ne t’accorderais pas même un regard.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:14" name="3-14">14</span>
+Élisée reprit: "Vive l’Éternel-Cebaot, que je sers! Si je ne respectais la personne de Josaphat, roi de Juda, je ne t’accorderais pas même un regard.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Eh bien! Amenez-moi un musicien." Tandis que celui-ci jouait de son instrument, l’esprit du Seigneur s’empara du prophète,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:15" name="3-15">15</span>
+Eh bien! Amenez-moi un musicien." Tandis que celui-ci jouait de son instrument, l’esprit du Seigneur s’empara du prophète,
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ et il dit: "Ainsi a parlé l’Éternel: Creusez dans cette vallée fossés et fossés.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:16" name="3-16">16</span>
+et il dit: "Ainsi a parlé l’Éternel: Creusez dans cette vallée fossés et fossés.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Car (telle est la parole de l’Éternel), vous ne sentirez pas de vent et vous ne verrez pas de pluie, et cependant cette vallée sera remplie d’eau, et vous aurez à boire, vous, vos t
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:17" name="3-17">17</span>
+Car (telle est la parole de l’Éternel), vous ne sentirez pas de vent et vous ne verrez pas de pluie, et cependant cette vallée sera remplie d’eau, et vous aurez à boire, vous, vos troupeaux et vos bêtes.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Mais c’est encore trop peu aux yeux de l’Éternel: il livrera aussi Moab en votre pouvoir.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:18" name="3-18">18</span>
+Mais c’est encore trop peu aux yeux de l’Éternel: il livrera aussi Moab en votre pouvoir.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Vous détruirez toute ville forte, toute ville de marque; vous abattrez tout arbre fruiti
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:19" name="3-19">19</span>
+Vous détruirez toute ville forte, toute ville de marque; vous abattrez tout arbre fruitier, vous comblerez toute source d’eau, et toute bonne terre, vous la ruinerez en la couvrant de pierres."
 
-<span class="marginnote nb" label="3:20" name="3:20">3:20</span><span style="display:none">¤3:20¤</span>
- Le lendemain matin, à l’heure de l’oblation, l’eau arriva tout à coup du côté d’Edom, et le sol en fut inondé.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:20" name="3-20">20</span>
+Le lendemain matin, à l’heure de l’oblation, l’eau arriva tout à coup du côté d’Edom, et le sol en fut inondé.
 
-<span class="marginnote nb" label="3:21" name="3:21">3:21</span><span style="display:none">¤3:21¤</span>
- Tous les Moabites, ayant appris que les rois venaient porter la guerre chez eux, s’étaient rassemblés en armes, tous les hommes en âge de ceindre l’épée et au delà et s’étaient postés sur la frontière.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:21" name="3-21">21</span>
+Tous les Moabites, ayant appris que les rois venaient porter la guerre chez eux, s’étaient rassemblés en armes, tous les hommes en âge de ceindre l’épée et au delà et s’étaient postés sur la frontière.
 
-<span class="marginnote nb" label="3:22" name="3:22">3:22</span><span style="display:none">¤3:22¤</span>
- S’étant levés au matin, comme le soleil brillait au-dessus des eaux, celles-ci apparurent dé loin aux Moabites rouges comme du sang.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:22" name="3-22">22</span>
+S’étant levés au matin, comme le soleil brillait au-dessus des eaux, celles-ci apparurent dé loin aux Moabites rouges comme du sang.
 
-<span class="marginnote nb" label="3:23" name="3:23">3:23</span><span style="display:none">¤3:23¤</span>
- Ils s’écrièrent: "C’est du sang! Assurément, les rois se sont pris de querelle, ils se sont entr’égorgés: au butin donc, Moab!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:23" name="3-23">23</span>
+Ils s’écrièrent: "C’est du sang! Assurément, les rois se sont pris de querelle, ils se sont entr’égorgés: au butin donc, Moab!"
 
-<span class="marginnote nb" label="3:24" name="3:24">3:24</span><span style="display:none">¤3:24¤</span>
- Ils se précipitèrent sur le camp des Israélites, mais ceux-ci se levèrent, battirent l
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:24" name="3-24">24</span>
+Ils se précipitèrent sur le camp des Israélites, mais ceux-ci se levèrent, battirent les Moabites, les mirent en fuite et en firent un grand carnage:
 
-<span class="marginnote nb" label="3:25" name="3:25">3:25</span><span style="display:none">¤3:25¤</span>
- Ils détruisirent les villes; chacun lança sa pierre sur les terres fertiles, qui en furent couvertes; ils comblèrent les sources et abattirent les a
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:25" name="3-25">25</span>
+Ils détruisirent les villes; chacun lança sa pierre sur les terres fertiles, qui en furent couvertes; ils comblèrent les sources et abattirent les arbres fruitiers. Il ne resta pierre sur pierre qu’à Kir-Haréset, qui fut assaillie, à son tour, de tous côtés par les frondeurs et ruinée.
 
-<span class="marginnote nb" label="3:26" name="3:26">3:26</span><span style="display:none">¤3:26¤</span>
- Le roi de Moab, se voyant trop faible pour lutter, se mit à la tête de sept cents hommes, l’épée nue, afin de se frayer un chemin jusqu’au roi d’Edom; mais ils n’y réussirent point.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:26" name="3-26">26</span>
+Le roi de Moab, se voyant trop faible pour lutter, se mit à la tête de sept cents hommes, l’épée nue, afin de se frayer un chemin jusqu’au roi d’Edom; mais ils n’y réussirent point.
 
-<span class="marginnote nb" label="3:27" name="3:27">3:27</span><span style="display:none">¤3:27¤</span>
- Alors il prit l’aîné de ses fils, l’héritier du trône, et l’immola en holocauste au haut des remparts. Aussitôt, une grande colère éclata contre Is
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="3:27" name="3-27">27</span>
+Alors il prit l’aîné de ses fils, l’héritier du trône, et l’immola en holocauste au haut des remparts. Aussitôt, une grande colère éclata contre Israël, qui dut se retirer et rentrer dans son pays.
 
-<span class="marginnote nb" label="4:1" name="4:1">4:1</span><span style="display:none">¤4:1¤</span>
-La femme de l’un des jeunes prophètes vint se plaindre à Élisée, disant: "Ton serviteur, mon époux, est mort: tu sais que
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:1" name="4-1"><strong>4</strong>:1</span>
+La femme de l’un des jeunes prophètes vint se plaindre à Élisée, disant: "Ton serviteur, mon époux, est mort: tu sais que ton serviteur révérait l’Éternel. Or, le créancier est venu prendre mes deux jeunes enfants pour en faire ses esclaves."
 
-<span class="marginnote nb" label="4:2" name="4:2">4:2</span><span style="display:none">¤4:2¤</span>
- Élisée lui répondit: "Que puis-je faire pour toi? Dis-moi ce que tu possèdes dans ta demeure. Ta servante, répondit-elle, ne possède rien de plus, dans 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:2" name="4-2">2</span>
+Élisée lui répondit: "Que puis-je faire pour toi? Dis-moi ce que tu possèdes dans ta demeure. Ta servante, répondit-elle, ne possède rien de plus, dans sa demeure, qu’un vase d’huile."
 
-<span class="marginnote nb" label="4:3" name="4:3">4:3</span><span style="display:none">¤4:3¤</span>
- Il reprit: "Va emprunter des vases au dehors, chez tous tes voisins, de
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:3" name="4-3">3</span>
+Il reprit: "Va emprunter des vases au dehors, chez tous tes voisins, des vases vides, mais pas en petit nombre.
 
-<span class="marginnote nb" label="4:4" name="4:4">4:4</span><span style="display:none">¤4:4¤</span>
- A ton retour, tu fermeras la porte sur toi et sur tes fils, tu rempliras tous ces vases, et à mesure qu’ils seront pleins; tu les mettras à par
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:4" name="4-4">4</span>
+A ton retour, tu fermeras la porte sur toi et sur tes fils, tu rempliras tous ces vases, et à mesure qu’ils seront pleins; tu les mettras à part."
 
-<span class="marginnote nb" label="4:5" name="4:5">4:5</span><span style="display:none">¤4:5¤</span>
- Elle le quitta. Elle ferma la porte sur elle et sur ses fils: ils lui présentèrent les vases, et elle y versa l’huile.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:5" name="4-5">5</span>
+Elle le quitta. Elle ferma la porte sur elle et sur ses fils: ils lui présentèrent les vases, et elle y versa l’huile.
 
-<span class="marginnote nb" label="4:6" name="4:6">4:6</span><span style="display:none">¤4:6¤</span>
+<span class="marginnote num" label="4:6" name="4-6">6</span>
 Puis, lorsque les vases furent remplis, elle dit à son fils: "Avance-moi encore un vase! Il n’y a plus de vase," répondit-il. Et l’huile tarit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="4:7" name="4:7">4:7</span><span style="display:none">¤4:7¤</span>
+<span class="marginnote num" label="4:7" name="4-7">7</span>
 Elle vint l’annoncer à l’homme de Dieu qui dit: "Va vendre cette huile, et paie ta dette; puis, toi et tes fils, vous vivrez avec le surplus."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="4:8" name="4:8">4:8</span><span style="display:none">¤4:8¤</span>
-Il arriva, un jour, qu’Élisée se rendit à Sunâm. Là vivait une femme de distinction, qui le pressa de manger c
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:8" name="4-8">8</span>
+Il arriva, un jour, qu’Élisée se rendit à Sunâm. Là vivait une femme de distinction, qui le pressa de manger chez elle. Depuis, chaque fois qu’il passait par cette ville, c’est là qu’il entrait pour manger.
 
-<span class="marginnote nb" label="4:9" name="4:9">4:9</span><span style="display:none">¤4:9¤</span>
-Elle dit à son époux: "Certes, je sais que c’est un homme de Dieu, un saint, cet homme qui no
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:9" name="4-9">9</span>
+Elle dit à son époux: "Certes, je sais que c’est un homme de Dieu, un saint, cet homme qui nous visite toujours.
 
-<span class="marginnote nb" label="4:10" name="4:10">4:10</span><span style="display:none">¤4:10¤</span>
- Préparons, je te prie, une petite cellule avec des murs, et plaçons-y, pour son usage, lit, table, siège et flambeau; lorsqu’il viendra chez nous, il pourra s’y retirer."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:10" name="4-10">10</span>
+Préparons, je te prie, une petite cellule avec des murs, et plaçons-y, pour son usage, lit, table, siège et flambeau; lorsqu’il viendra chez nous, il pourra s’y retirer."
 
-<span class="marginnote nb" label="4:11" name="4:11">4:11</span><span style="display:none">¤4:11¤</span>
- Or, un jour, passant par là, il se retira dans la cellule et y coucha.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:11" name="4-11">11</span>
+Or, un jour, passant par là, il se retira dans la cellule et y coucha.
 
-<span class="marginnote nb" label="4:12" name="4:12">4:12</span><span style="display:none">¤4:12¤</span>
- Et il dit à Ghéhazi, son serviteur: "Appelle cette Sunamite." Il l’appela, et elle se présenta devant lui.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:12" name="4-12">12</span>
+Et il dit à Ghéhazi, son serviteur: "Appelle cette Sunamite." Il l’appela, et elle se présenta devant lui.
 
-<span class="marginnote nb" label="4:13" name="4:13">4:13</span><span style="display:none">¤4:13¤</span>
- Il lui avait dit: "Parle ainsi à cette femme: Puisque tu t’es donné pour nous tout ce trouble, que faut-il faire en
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:13" name="4-13">13</span>
+Il lui avait dit: "Parle ainsi à cette femme: Puisque tu t’es donné pour nous tout ce trouble, que faut-il faire en ta faveur? Y a-t-il à s’employer pour toi auprès du roi ou du général d’armée?" Elle répondit "Je vis tranquille au milieu de mes concitoyens."
 
-<span class="marginnote nb" label="4:14" name="4:14">4:14</span><span style="display:none">¤4:14¤</span>
- Il reprit "Que faire pour elle?" Ghéhazi repartit: "Eh mais! Elle n’a point de fils, et son époux est un vieillard."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:14" name="4-14">14</span>
+Il reprit "Que faire pour elle?" Ghéhazi repartit: "Eh mais! Elle n’a point de fils, et son époux est un vieillard."
 
-<span class="marginnote nb" label="4:15" name="4:15">4:15</span><span style="display:none">¤4:15¤</span>
- Il dit "Appelle-la." Il l’appela, et elle se présenta sur le seuil.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:15" name="4-15">15</span>
+Il dit "Appelle-la." Il l’appela, et elle se présenta sur le seuil.
 
-<span class="marginnote nb" label="4:16" name="4:16">4:16</span><span style="display:none">¤4:16¤</span>
- Il lui dit: "A pareille époque, au retour de cette saison, tu presseras un fils dans tes bras." Elle répondit: "Ah! Mon seigneur, homme de Dieu, ne trompe pas ta servante!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:16" name="4-16">16</span>
+Il lui dit: "A pareille époque, au retour de cette saison, tu presseras un fils dans tes bras." Elle répondit: "Ah! Mon seigneur, homme de Dieu, ne trompe pas ta servante!"
 
-<span class="marginnote nb" label="4:17" name="4:17">4:17</span><span style="display:none">¤4:17¤</span>
- Cette femme conçut, et elle mit au monde un fils à pareille époque, au retour de la même saison, ainsi que l’avait dit Élisée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:17" name="4-17">17</span>
+Cette femme conçut, et elle mit au monde un fils à pareille époque, au retour de la même saison, ainsi que l’avait dit Élisée.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ L’enfant grandit. Or, un jour, il était allé trouver son père, auprès des moissonneurs;
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:18" name="4-18">18</span>
+L’enfant grandit. Or, un jour, il était allé trouver son père, auprès des moissonneurs;
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ il cria à son père: "Ma tête! Ma tête!" Celui-ci dit au serviteur: "Porte-le chez sa mère."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:19" name="4-19">19</span>
+il cria à son père: "Ma tête! Ma tête!" Celui-ci dit au serviteur: "Porte-le chez sa mère."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Il l’emporta et le remit à sa mère; il resta dans son giron jusqu’à midi, et mourut.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:20" name="4-20">20</span>
+Il l’emporta et le remit à sa mère; il resta dans son giron jusqu’à midi, et mourut.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Alors elle monta, le plaça sur le lit de l’homme de Dieu, ferma sur lui la porte, et sortit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:21" name="4-21">21</span>
+Alors elle monta, le plaça sur le lit de l’homme de Dieu, ferma sur lui la porte, et sortit.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Elle manda son époux et lui dit: "Envoie-moi, je te prie, un serviteur avec une ânesse; je cours chez l’homme de Dieu et je reviens."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:22" name="4-22">22</span>
+Elle manda son époux et lui dit: "Envoie-moi, je te prie, un serviteur avec une ânesse; je cours chez l’homme de Dieu et je reviens."
 
-<span class="marginnote nb" label="4:23" name="4:23">4:23</span><span style="display:none">¤4:23¤</span>
- Il répondit: "Pourquoi vas-tu chez lui aujourd’hui? Il n’y a point de néoménie, point de f
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:23" name="4-23">23</span>
+Il répondit: "Pourquoi vas-tu chez lui aujourd’hui? Il n’y a point de néoménie, point de fête." Elle repartit: "Sois tranquille."
 
-<span class="marginnote nb" label="4:24" name="4:24">4:24</span><span style="display:none">¤4:24¤</span>
- Elle sella l’ânesse et dit à son serviteur: "Conduis toujours, et n’arrête ma course que lorsque je te l’ordonnerai."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:24" name="4-24">24</span>
+Elle sella l’ânesse et dit à son serviteur: "Conduis toujours, et n’arrête ma course que lorsque je te l’ordonnerai."
 
-<span class="marginnote nb" label="4:25" name="4:25">4:25</span><span style="display:none">¤4:25¤</span>
- Elle voyagea ainsi, et parvint jusqu’à l’homme de Dieu, au mont Carmel. L’apercevant de loin, l’homme de Dieu dit à Ghéhazi, son serviteur: "Voici la Sunamite!
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:25" name="4-25">25</span>
+Elle voyagea ainsi, et parvint jusqu’à l’homme de Dieu, au mont Carmel. L’apercevant de loin, l’homme de Dieu dit à Ghéhazi, son serviteur: "Voici la Sunamite!
 
-<span class="marginnote nb" label="4:26" name="4:26">4:26</span><span style="display:none">¤4:26¤</span>
- Or çà, cours à sa, rencontre, et dis-lui: Es-tu en paix? Ton époux est-il en paix? en paix, l’enfant?" Elle répondit "En paix."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:26" name="4-26">26</span>
+Or çà, cours à sa, rencontre, et dis-lui: Es-tu en paix? Ton époux est-il en paix? en paix, l’enfant?" Elle répondit "En paix."
 
-<span class="marginnote nb" label="4:27" name="4:27">4:27</span><span style="display:none">¤4:27¤</span>
- Arrivée près de l’homme de Dieu, sur la montagne, elle embrassa ses pieds. Ghéhazi se disposait à la repousser; mais l’homme de Dieu dit: "Laisse-la, car son âme est contristée; l’Éternel m’en a caché la cause, il ne me l’a 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:27" name="4-27">27</span>
+Arrivée près de l’homme de Dieu, sur la montagne, elle embrassa ses pieds. Ghéhazi se disposait à la repousser; mais l’homme de Dieu dit: "Laisse-la, car son âme est contristée; l’Éternel m’en a caché la cause, il ne me l’a pas révélée."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Elle dit: "Est-ce que j’avais demandé un fils à mon seigneur? N’ai-je pas dit: Ne m’abuse point?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:28" name="4-28">28</span>
+Elle dit: "Est-ce que j’avais demandé un fils à mon seigneur? N’ai-je pas dit: Ne m’abuse point?"
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Il dit à Ghéhazi: "Ceins tes reins, prends mon bâton dans ta main et pars. Si tu rencontres quelqu’un, ne le salue pas; si quelqu’un te salue, ne lui réponds 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:29" name="4-29">29</span>
+Il dit à Ghéhazi: "Ceins tes reins, prends mon bâton dans ta main et pars. Si tu rencontres quelqu’un, ne le salue pas; si quelqu’un te salue, ne lui réponds point. Tu poseras mon bâton sur la face de l’enfant."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ La mère de l’enfant s’écria: "Par l’Éternel et par ta propre vie si je te quitte!" Il se leva et la suivit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:30" name="4-30">30</span>
+La mère de l’enfant s’écria: "Par l’Éternel et par ta propre vie si je te quitte!" Il se leva et la suivit.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Ghéhazi les avait devancés; il avait posé le bâton sur le visage de l’enfant, mais pas un souffle, pas un mouvement. Il retourna à la rencontre du pr
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:31" name="4-31">31</span>
+Ghéhazi les avait devancés; il avait posé le bâton sur le visage de l’enfant, mais pas un souffle, pas un mouvement. Il retourna à la rencontre du prophète et lui dit: "L’enfant n’est pas revenu à lui."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Élisée entra dans la chambre, et il vit l’enfant inanimé, étendu sur son lit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:32" name="4-32">32</span>
+Élisée entra dans la chambre, et il vit l’enfant inanimé, étendu sur son lit.
 
-<span class="marginnote nb" label="4:33" name="4:33">4:33</span><span style="display:none">¤4:33¤</span>
- Il alla fermer la porte sur eux deux, puis invoqua le Seigneur.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:33" name="4-33">33</span>
+Il alla fermer la porte sur eux deux, puis invoqua le Seigneur.
 
-<span class="marginnote nb" label="4:34" name="4:34">4:34</span><span style="display:none">¤4:34¤</span>
- Il monta sur le lit, se coucha sur l’enfant, appliqua sa bouche sur sa bouche, ses yeux sur ses yeux, ses mains sur les siennes, et resta étendu sur lui; la chaleur revint dans 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:34" name="4-34">34</span>
+Il monta sur le lit, se coucha sur l’enfant, appliqua sa bouche sur sa bouche, ses yeux sur ses yeux, ses mains sur les siennes, et resta étendu sur lui; la chaleur revint dans les membres de l’enfant.
 
-<span class="marginnote nb" label="4:35" name="4:35">4:35</span><span style="display:none">¤4:35¤</span>
- Élisée quitta le lit, parcourut la chambre en long et en large, s’étendit de nouveau sur l’enfant; celui-ci éternua par sept fois et rouvrit les yeux.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:35" name="4-35">35</span>
+Élisée quitta le lit, parcourut la chambre en long et en large, s’étendit de nouveau sur l’enfant; celui-ci éternua par sept fois et rouvrit les yeux.
 
-<span class="marginnote nb" label="4:36" name="4:36">4:36</span><span style="display:none">¤4:36¤</span>
- Le prophète appela Ghéhazi et dit: "Appelle cette Sunamite." Il l’appel
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:36" name="4-36">36</span>
+Le prophète appela Ghéhazi et dit: "Appelle cette Sunamite." Il l’appela, elle vint à lui, et il dit: "Emporte ton fils!"
 
-<span class="marginnote nb" label="4:37" name="4:37">4:37</span><span style="display:none">¤4:37¤</span>
- Elle vint tomber à ses pieds et se prosterna contre terre; puis elle prit son fils et se retira.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:37" name="4-37">37</span>
+Elle vint tomber à ses pieds et se prosterna contre terre; puis elle prit son fils et se retira.
 
-<span class="marginnote nb" label="4:38" name="4:38">4:38</span><span style="display:none">¤4:38¤</span>
- Élisée était revenu à Ghilgal. Or, la famine régnait dans le pays, et les jeunes prophètes assiégeaient leur maître. Celui-ci dit à son serviteur: "Mets le grand pot et fais cuire un potage pour les d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:38" name="4-38">38</span>
+Élisée était revenu à Ghilgal. Or, la famine régnait dans le pays, et les jeunes prophètes assiégeaient leur maître. Celui-ci dit à son serviteur: "Mets le grand pot et fais cuire un potage pour les disciples."
 
-<span class="marginnote nb" label="4:39" name="4:39">4:39</span><span style="display:none">¤4:39¤</span>
- Cependant, un d’entre eux alla aux champs pour cueillir des herbes. Il trouva une vigne sauvage, en cueillit des c
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:39" name="4-39">39</span>
+Cependant, un d’entre eux alla aux champs pour cueillir des herbes. Il trouva une vigne sauvage, en cueillit des coloquintes plein son vêtement, et, à son retour, il les coupa en morceaux dans le potage, sans savoir ce que c’était.
 
-<span class="marginnote nb" label="4:40" name="4:40">4:40</span><span style="display:none">¤4:40¤</span>
- On versa à ces hommes le potage à manger, mais ils en avaient à peine goûté qu’ils s’écrièrent "Homme de Dieu
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:40" name="4-40">40</span>
+On versa à ces hommes le potage à manger, mais ils en avaient à peine goûté qu’ils s’écrièrent "Homme de Dieu, il y a du poison dans le potage!" C’était immangeable.
 
-<span class="marginnote nb" label="4:41" name="4:41">4:41</span><span style="display:none">¤4:41¤</span>
- Il dit: "Qu’on m’apporte de la farine!" Il la jeta dans le pot et dit: "Verse à tout ce monde, et qu’on mange!" Toute chose nuisible avait 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:41" name="4-41">41</span>
+Il dit: "Qu’on m’apporte de la farine!" Il la jeta dans le pot et dit: "Verse à tout ce monde, et qu’on mange!" Toute chose nuisible avait disparu du potage.
 
-<span class="marginnote nb" label="4:42" name="4:42">4:42</span><span style="display:none">¤4:42¤</span>
- Un homme, venant de Baal-Chalicha, apporta un jour à l’homme de Dieu, comme pain de prémices, vingt pains d’orge et du gruau dans sa panetière. Élisée dit: "Donne cela au peuple et qu’il mange!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:42" name="4-42">42</span>
+Un homme, venant de Baal-Chalicha, apporta un jour à l’homme de Dieu, comme pain de prémices, vingt pains d’orge et du gruau dans sa panetière. Élisée dit: "Donne cela au peuple et qu’il mange!"
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Son serviteur répondit: "Comment donnerais-je ceci à cent hommes?" Mais il répéta: "Donne-le au peuple et qu’il mange, car voici ce qu’a dit l’Éternel: On mangera, et il en restera encore."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:43" name="4-43">43</span>
+Son serviteur répondit: "Comment donnerais-je ceci à cent hommes?" Mais il répéta: "Donne-le au peuple et qu’il mange, car voici ce qu’a dit l’Éternel: On mangera, et il en restera encore."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ On les servit, ils mangèrent et en eurent de reste, sel
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="4:44" name="4-44">44</span>
+On les servit, ils mangèrent et en eurent de reste, selon la parole de l’Éternel.
 
-<span class="marginnote nb" label="5:1" name="5:1">5:1</span><span style="display:none">¤5:1¤</span>
- Naaman, général d’armée du roi de Syrie, était un homme considérable et en grande faveur chez son maître, parce que le Seigneur avait donné par lui la victoire à la Syrie; mais cet homme, ce 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:1" name="5-1"><strong>5</strong>:1</span>
+Naaman, général d’armée du roi de Syrie, était un homme considérable et en grande faveur chez son maître, parce que le Seigneur avait donné par lui la victoire à la Syrie; mais cet homme, ce vaillant guerrier, était lépreux.
 
-<span class="marginnote nb" label="5:2" name="5:2">5:2</span><span style="display:none">¤5:2¤</span>
- Or, les Syriens, ayant fait une incursion sur le territoire d’Israël, en ramenèrent captive une jeune fille, qui entra au service de l’épouse de Naaman
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:2" name="5-2">2</span>
+Or, les Syriens, ayant fait une incursion sur le territoire d’Israël, en ramenèrent captive une jeune fille, qui entra au service de l’épouse de Naaman.
 
-<span class="marginnote nb" label="5:3" name="5:3">5:3</span><span style="display:none">¤5:3¤</span>
+<span class="marginnote num" label="5:3" name="5-3">3</span>
 Elle dit à sa maîtresse: "Ah! Si mon maître s’adressait au prophète qui est à Samarie, certes il le délivrerait de sa lèpre."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:4" name="5:4">5:4</span><span style="display:none">¤5:4¤</span>
+<span class="marginnote num" label="5:4" name="5-4">4</span>
 Naaman vint l’annoncer à son maître, disant: "Voilà ce qu’a dit cette jeune fille, qui est du pays d’Israël."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:5" name="5:5">5:5</span><span style="display:none">¤5:5¤</span>
+<span class="marginnote num" label="5:5" name="5-5">5</span>
 Le roi de Syrie répondit: "Va, pars; je veux envoyer une lettre au roi d’Israël." Et il partit, emportant dix kikkar d’argent, six mille pièces d’or et dix habillements de rechange.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:6" name="5:6">5:6</span><span style="display:none">¤5:6¤</span>
-Il remit au roi d’Israël la lettre, ainsi conçue: "Au moment où cette lettre te parviendra, sache que j’ai envoyé vers toi Naaman, mon s
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:6" name="5-6">6</span>
+Il remit au roi d’Israël la lettre, ainsi conçue: "Au moment où cette lettre te parviendra, sache que j’ai envoyé vers toi Naaman, mon serviteur, pour que tu le délivres de sa lèpre."
 
-<span class="marginnote nb" label="5:7" name="5:7">5:7</span><span style="display:none">¤5:7¤</span>
+<span class="marginnote num" label="5:7" name="5-7">7</span>
 A la lecture de cette lettre, le roi d’Israël déchira ses vêtements et dit: "Suis-je donc un dieu qui fasse mourir et ressuscite, pour que celui-ci me mande de délivrer quelqu’un de sa lèpre? Mais non, sachez-le bien et prenez-y garde, c’est qu’il me cherche querelle."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:8" name="5:8">5:8</span><span style="display:none">¤5:8¤</span>
-Cependant, Élisée, l’homme de Dieu, ayant appris que le roi d’Israël avait déchiré ses vêtements, fit dire au roi: "Pourquoi as-tu déchiré tes vêtements? Qu’il vienne me trouver, et il saura 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:8" name="5-8">8</span>
+Cependant, Élisée, l’homme de Dieu, ayant appris que le roi d’Israël avait déchiré ses vêtements, fit dire au roi: "Pourquoi as-tu déchiré tes vêtements? Qu’il vienne me trouver, et il saura qu’il est des prophètes en Israël!"
 
-<span class="marginnote nb" label="5:9" name="5:9">5:9</span><span style="display:none">¤5:9¤</span>
+<span class="marginnote num" label="5:9" name="5-9">9</span>
 Naaman vint avec ses chevaux et son char, et s’arrêta à l’entrée de la demeure d’Élisée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:10" name="5:10">5:10</span><span style="display:none">¤5:10¤</span>
- Élisée lui fit dire par un envoyé: "Va te plonger sept fois dans le Jourdain, et ta chair redeviendra nette."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:10" name="5-10">10</span>
+Élisée lui fit dire par un envoyé: "Va te plonger sept fois dans le Jourdain, et ta chair redeviendra nette."
 
-<span class="marginnote nb" label="5:11" name="5:11">5:11</span><span style="display:none">¤5:11¤</span>
- Naaman se mit en colère et s’en alla en disant: "Certes, m’étais-je dit, il va sortir, s’arrêter, invoquer le nom de l’Éternel, son Dieu; puis il aurait passé sa main sur la partie malade et guéri le lépreux.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:11" name="5-11">11</span>
+Naaman se mit en colère et s’en alla en disant: "Certes, m’étais-je dit, il va sortir, s’arrêter, invoquer le nom de l’Éternel, son Dieu; puis il aurait passé sa main sur la partie malade et guéri le lépreux.
 
-<span class="marginnote nb" label="5:12" name="5:12">5:12</span><span style="display:none">¤5:12¤</span>
- Est-ce que l’Amana et le Parpar, ces rivières de Damas, ne valent pas mieux que toutes les eaux d’Israël? Pourquoi, en m’y bai
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:12" name="5-12">12</span>
+Est-ce que l’Amana et le Parpar, ces rivières de Damas, ne valent pas mieux que toutes les eaux d’Israël? Pourquoi, en m’y baignant, ne deviendrais-je pas net?" Et il s’en retournait et partait furieux,
 
-<span class="marginnote nb" label="5:13" name="5:13">5:13</span><span style="display:none">¤5:13¤</span>
- quand ses serviteurs s’approchèrent pour l’exhorter et dirent: "Mon père, si le prophète t’avait imposé une chose difficile, ne l’aurai
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:13" name="5-13">13</span>
+quand ses serviteurs s’approchèrent pour l’exhorter et dirent: "Mon père, si le prophète t’avait imposé une chose difficile, ne l’aurais-tu pas faite? Combien plutôt, lorsqu’il te dit: "Baigne-toi, tu seras net!"
 
-<span class="marginnote nb" label="5:14" name="5:14">5:14</span><span style="display:none">¤5:14¤</span>
- Il descendit, se plongea dans le Jourdain sept fois, selon la parole de l’homme de Dieu, et sa chair redevint comme la chair
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:14" name="5-14">14</span>
+Il descendit, se plongea dans le Jourdain sept fois, selon la parole de l’homme de Dieu, et sa chair redevint comme la chair d’un jeune enfant: il était rétabli.
 
-<span class="marginnote nb" label="5:15" name="5:15">5:15</span><span style="display:none">¤5:15¤</span>
- Il s’en retourna chez l’homme de Dieu avec toute sa suite; arrivé, il se présenta devant lui et dit: "Ah! Certes, je reconnais qu’il n’y
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:15" name="5-15">15</span>
+Il s’en retourna chez l’homme de Dieu avec toute sa suite; arrivé, il se présenta devant lui et dit: "Ah! Certes, je reconnais qu’il n’y a point de dieu sur toute la terre, si ce n’est en Israël! Et maintenant, de grâce, accepte un présent de ton serviteur."
 
-<span class="marginnote nb" label="5:16" name="5:16">5:16</span><span style="display:none">¤5:16¤</span>
- Élisée répondit: "Par l’Éternel, que j’ai toujours servi, je n’accepterai point." Naaman le pressa d’accepter, mais il refusa. 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:16" name="5-16">16</span>
+Élisée répondit: "Par l’Éternel, que j’ai toujours servi, je n’accepterai point." Naaman le pressa d’accepter, mais il refusa. 
 
-<span class="marginnote nb" label="5:17" name="5:17">5:17</span><span style="display:none">¤5:17¤</span>
- Naaman reprit: "Eh bien, non! Qu’on donne du moins à ton serviteur autant de terre qu’en peuvent porter une paire de mulets; car ton serviteur ne fera plus d’holocauste ni de sacrifice à d’autres di
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:17" name="5-17">17</span>
+Naaman reprit: "Eh bien, non! Qu’on donne du moins à ton serviteur autant de terre qu’en peuvent porter une paire de mulets; car ton serviteur ne fera plus d’holocauste ni de sacrifice à d’autres dieux qu’à l’Éternel.
 
-<span class="marginnote nb" label="5:18" name="5:18">5:18</span><span style="display:none">¤5:18¤</span>
- Toutefois, que l’Éternel pardonne une chose à ton serviteur: quand mon maître vient se prosterner dans le temple de Rimmôn, il s’appuie sur mon bras; je de
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:18" name="5-18">18</span>
+Toutefois, que l’Éternel pardonne une chose à ton serviteur: quand mon maître vient se prosterner dans le temple de Rimmôn, il s’appuie sur mon bras; je devrai donc me prosterner dans le temple de Rimmôn. Or, lorsque je me prosternerai dans ce temple, que l’Éternel pardonne cette action à ton serviteur."
 
-<span class="marginnote nb" label="5:19" name="5:19">5:19</span><span style="display:none">¤5:19¤</span>
- Élisée lui répondit: "Va en paix." Or, il s’était déjà éloigné d’une kibra de pays...
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:19" name="5-19">19</span>
+Élisée lui répondit: "Va en paix." Or, il s’était déjà éloigné d’une kibra de pays...
 
-<span class="marginnote nb" label="5:20" name="5:20">5:20</span><span style="display:none">¤5:20¤</span>
- Ghéhazi, serviteur d’Élisée, l’homme de Dieu, s’était dit: "Mon maître a refusé d’accepter de la main de ce Syrien Naaman ce qu’il avait apporté. Vive Dieu! Je vais courir a
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:20" name="5-20">20</span>
+Ghéhazi, serviteur d’Élisée, l’homme de Dieu, s’était dit: "Mon maître a refusé d’accepter de la main de ce Syrien Naaman ce qu’il avait apporté. Vive Dieu! Je vais courir après lui, et j’en aurai quelque chose."
 
-<span class="marginnote nb" label="5:21" name="5:21">5:21</span><span style="display:none">¤5:21¤</span>
- Il suivit donc rapidement Naaman, qui, en le voyant courir après lui, se jeta à bas de son char, alla à sa rencontre et dit: "Tout est-il en paix?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:21" name="5-21">21</span>
+Il suivit donc rapidement Naaman, qui, en le voyant courir après lui, se jeta à bas de son char, alla à sa rencontre et dit: "Tout est-il en paix?"
 
-<span class="marginnote nb" label="5:22" name="5:22">5:22</span><span style="display:none">¤5:22¤</span>
-Il répondit: "Oui, en paix! C’est mon maître qui m’envoie pour te dire: A l’instant arrivent chez moi deux jeunes prophètes de la montagne d’Ephraïm; donne pour e
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="5:22" name="5-22">22</span>
+Il répondit: "Oui, en paix! C’est mon maître qui m’envoie pour te dire: A l’instant arrivent chez moi deux jeunes prophètes de la montagne d’Ephraïm; donne pour eux, je te prie, un kikkar d’argent et deux vêtements de rechange."
 
-<span class="marginnote nb" label="5:23" name="5:23">5:23</span><span style="display:none">¤5:23¤</span>
+<span class="marginnote num" label="5:23" name="5-23">23</span>
 Naman répondit: "Veuille accepter deux kikkar." Il insista, puis serra deux kikkar d’argent dans deux sacoches avec deux vêtements de rechange, et les remit à deux de ses serviteurs pour les transporter.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:24" name="5:24">5:24</span><span style="display:none">¤5:24¤</span>
+<span class="marginnote num" label="5:24" name="5-24">24</span>
 Arrivé à la colline, Ghéhazi prit le tout de leurs mains, le mit en sûreté dans la maison, et renvoya les hommes, qui s’en allèrent.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:25" name="5:25">5:25</span><span style="display:none">¤5:25¤</span>
+<span class="marginnote num" label="5:25" name="5-25">25</span>
 Aussitôt de retour, il se présenta devant son maître. Élisée lui dit: "D’où viens-tu, Ghéhazi?" Il répondit: "Ton serviteur n’est allé nulle part.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:26" name="5:26">5:26</span><span style="display:none">¤5:26¤</span>
+<span class="marginnote num" label="5:26" name="5-26">26</span>
 Mon esprit non plus n’a pas été absent, reprit Élisée, quand ce personnage a tourné bride pour aller à ta rencontre. Etait-ce le moment de prendre argent ou vêtements, oliviers ou vignobles, brebis ou bœufs, esclaves ou servantes?
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="5:27" name="5:27">5:27</span><span style="display:none">¤5:27¤</span>
+<span class="marginnote num" label="5:27" name="5-27">27</span>
 La lèpre de Naaman s’attachera à toi et à ta postérité à jamais." Ghéhazi se retira de devant lui, lépreux comme neige.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:1" name="6:1">6:1</span><span style="display:none">¤6:1¤</span>
-es jeunes prophètes dirent à Élisée: "Tu vois que l’habitation où nous demeurons avec toi est trop étroite pour nous.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:1" name="6-1"><strong>6</strong>:1</span>
+Les jeunes prophètes dirent à Élisée: "Tu vois que l’habitation où nous demeurons avec toi est trop étroite pour nous.
 
-<span class="marginnote nb" label="6:2" name="6:2">6:2</span><span style="display:none">¤6:2¤</span>
-aisse-nous donc aller jusqu’au Jourdain, et là chacun de nous prendra une poutre et nous nous y arrangerons un lieu d’habitation. Allez," leur dit-il.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:2" name="6-2">2</span>
+Laisse-nous donc aller jusqu’au Jourdain, et là chacun de nous prendra une poutre et nous nous y arrangerons un lieu d’habitation. Allez," leur dit-il.
 
-<span class="marginnote nb" label="6:3" name="6:3">6:3</span><span style="display:none">¤6:3¤</span>
-De grâce, dit alors un des jeunes prophètes, daigne accompagner tes serviteurs. J’y consens," répliqua-t-il,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:3" name="6-3">3</span>
+"De grâce, dit alors un des jeunes prophètes, daigne accompagner tes serviteurs. J’y consens," répliqua-t-il,
 
-<span class="marginnote nb" label="6:4" name="6:4">6:4</span><span style="display:none">¤6:4¤</span>
-t il les accompagna. Arrivés près du Jourdain, ils coupèrent du bois.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:4" name="6-4">4</span>
+et il les accompagna. Arrivés près du Jourdain, ils coupèrent du bois.
 
-<span class="marginnote nb" label="6:5" name="6:5">6:5</span><span style="display:none">¤6:5¤</span>
-u moment où l’un d’eux abattit une poutre, il laissa tomber le fer dans l’eau: "Ah! Mon seigneur, s’écria-t-il, je l’avais emprunté!
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:5" name="6-5">5</span>
+Au moment où l’un d’eux abattit une poutre, il laissa tomber le fer dans l’eau: "Ah! Mon seigneur, s’écria-t-il, je l’avais emprunté!
 
-<span class="marginnote nb" label="6:6" name="6:6">6:6</span><span style="display:none">¤6:6¤</span>
-ù est-il tombé?" demanda l’homme de Dieu. Quand on lui eut indiqué l’endroit, il coupa un morceau de bois et l’y jeta; alors le fer surnagea.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:6" name="6-6">6</span>
+Où est-il tombé?" demanda l’homme de Dieu. Quand on lui eut indiqué l’endroit, il coupa un morceau de bois et l’y jeta; alors le fer surnagea.
 
-<span class="marginnote nb" label="6:7" name="6:7">6:7</span><span style="display:none">¤6:7¤</span>
-Attire-le vers toi," dit-il; il étendit la main et le reprit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:7" name="6-7">7</span>
+"Attire-le vers toi," dit-il; il étendit la main et le reprit.
 
-<span class="marginnote nb" label="6:8" name="6:8">6:8</span><span style="display:none">¤6:8¤</span>
-Le roi de Syrie était en guerre avec Israël. Après avoir délibéré avec ses officiers, il d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:8" name="6-8">8</span>
+Le roi de Syrie était en guerre avec Israël. Après avoir délibéré avec ses officiers, il dit: "J’établirai mon camp sur tel et tel emplacement."
 
-<span class="marginnote nb" label="6:9" name="6:9">6:9</span><span style="display:none">¤6:9¤</span>
-L’homme de Dieu adressa alors le message suivant au roi d’Israël: "Garde-toi de passer par cet endroit, car les Syriens s
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:9" name="6-9">9</span>
+L’homme de Dieu adressa alors le message suivant au roi d’Israël: "Garde-toi de passer par cet endroit, car les Syriens s’y rendent."
 
-<span class="marginnote nb" label="6:10" name="6:10">6:10</span><span style="display:none">¤6:10¤</span>
- Le roi d’Israël envoya des émissaires en observation à l’endroit que l’homme de Dieu l’avait engagé à éviter; et cela n’arriva pas seulement une ou deux fois.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:10" name="6-10">10</span>
+Le roi d’Israël envoya des émissaires en observation à l’endroit que l’homme de Dieu l’avait engagé à éviter; et cela n’arriva pas seulement une ou deux fois.
 
-<span class="marginnote nb" label="6:11" name="6:11">6:11</span><span style="display:none">¤6:11¤</span>
- Profondément troublé par ce fait, le roi de Syrie convoqua ses officiers et leur dit: "Ne me ferez-vous pas connaître celui d’entre vous qui est 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:11" name="6-11">11</span>
+Profondément troublé par ce fait, le roi de Syrie convoqua ses officiers et leur dit: "Ne me ferez-vous pas connaître celui d’entre vous qui est pour le roi d’Israël?"
 
-<span class="marginnote nb" label="6:12" name="6:12">6:12</span><span style="display:none">¤6:12¤</span>
- L’un des officiers lui répondit: "Personne, mon seigneur le roi! C’est Élisée, le prophète d’Israël qui révèle à son roi les paroles que tu prononces dans ta chambre à coucher.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:12" name="6-12">12</span>
+L’un des officiers lui répondit: "Personne, mon seigneur le roi! C’est Élisée, le prophète d’Israël qui révèle à son roi les paroles que tu prononces dans ta chambre à coucher.
 
-<span class="marginnote nb" label="6:13" name="6:13">6:13</span><span style="display:none">¤6:13¤</span>
+<span class="marginnote num" label="6:13" name="6-13">13</span>
 Allez voir où il est, leur dit-il, pour que je le fasse saisir." Ayant appris qu’il se trouvait à Dothân,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:14" name="6:14">6:14</span><span style="display:none">¤6:14¤</span>
+<span class="marginnote num" label="6:14" name="6-14">14</span>
 il y envoya des chevaux, des chars et de nombreux soldats, qui y arrivèrent la nuit et investirent la ville.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:15" name="6:15">6:15</span><span style="display:none">¤6:15¤</span>
+<span class="marginnote num" label="6:15" name="6-15">15</span>
 Lorsque le serviteur de l’homme de Dieu, qui s’était levé de bon matin pour sortir, aperçut les soldats, les chevaux et les chars établis autour de la ville, il dit à son maître: "Ah! mon seigneur, qu’allons-nous faire?
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:16" name="6:16">6:16</span><span style="display:none">¤6:16¤</span>
+<span class="marginnote num" label="6:16" name="6-16">16</span>
 N’aie pas de crainte, répliqua Élisée, car nos troupes sont plus nombreuses que les leurs."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:17" name="6:17">6:17</span><span style="display:none">¤6:17¤</span>
+<span class="marginnote num" label="6:17" name="6-17">17</span>
 Il fit alors cette prière: "Éternel, daigne ouvrir les yeux de mon serviteur, afin qu’il voie!" L’Éternel lui ayant ouvert les yeux, il aperçut la montagne couverte de chevaux et de chars de feu, tout autour d’Élisée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:18" name="6:18">6:18</span><span style="display:none">¤6:18¤</span>
- Quand les Syriens descendirent vers le pr
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:18" name="6-18">18</span>
+Quand les Syriens descendirent vers le prophète, celui-ci invoqua de nouveau l’Éternel en disant: "De grâce, frappe ces gens de cécité." Ils furent frappés de cécité, selon le vœu d’Élisée.
 
-<span class="marginnote nb" label="6:19" name="6:19">6:19</span><span style="display:none">¤6:19¤</span>
- Celui-ci leur dit: "Ce n’est là ni votre chemin ni la ville où vous voulez aller; suivez-moi et je vous conduirai vers
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:19" name="6-19">19</span>
+Celui-ci leur dit: "Ce n’est là ni votre chemin ni la ville où vous voulez aller; suivez-moi et je vous conduirai vers l’homme que vous cherchez." Il les mena à Samarie.
 
-<span class="marginnote nb" label="6:20" name="6:20">6:20</span><span style="display:none">¤6:20¤</span>
- Lorsqu’ils furent entrés dans cette ville, Élisée dit: "Éternel, ouvre leurs yeux pour qu’ils voient!" Dieu leur ouvrit les yeux, et ils s’aperçurent qu’ils étaient à Samarie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:20" name="6-20">20</span>
+Lorsqu’ils furent entrés dans cette ville, Élisée dit: "Éternel, ouvre leurs yeux pour qu’ils voient!" Dieu leur ouvrit les yeux, et ils s’aperçurent qu’ils étaient à Samarie.
 
-<span class="marginnote nb" label="6:21" name="6:21">6:21</span><span style="display:none">¤6:21¤</span>
- En les voyant, le roi d’Israël dit à Élisée: "Faut-il les frapper, le faut-il, mon père?
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:21" name="6-21">21</span>
+En les voyant, le roi d’Israël dit à Élisée: "Faut-il les frapper, le faut-il, mon père?
 
-<span class="marginnote nb" label="6:22" name="6:22">6:22</span><span style="display:none">¤6:22¤</span>
- Ne les frappe pas, dit le prophète; frappes-tu donc ceux que tu fais prisonniers par ton glaive et ton arc? Fais
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:22" name="6-22">22</span>
+Ne les frappe pas, dit le prophète; frappes-tu donc ceux que tu fais prisonniers par ton glaive et ton arc? Fais-leur servir du pain et de l’eau afin qu’ils mangent et boivent et retournent auprès de leur maître."
 
-<span class="marginnote nb" label="6:23" name="6:23">6:23</span><span style="display:none">¤6:23¤</span>
+<span class="marginnote num" label="6:23" name="6-23">23</span>
 On leur servit un repas copieux; après avoir mangé et bu, ils furent congédiés et rejoignirent leur maître. Les bandes syriennes renoncèrent alors à leurs incursions dans le pays d’Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:24" name="6:24">6:24</span><span style="display:none">¤6:24¤</span>
+<span class="marginnote num" label="6:24" name="6-24">24</span>
 Quelque temps après, Ben-Hadad, roi de Syrie, rassembla toutes ses troupes et alla mettre le siège devant Samarie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:25" name="6:25">6:25</span><span style="display:none">¤6:25¤</span>
-Pendant que cette ville était assiégée, une grande famine y sévissait, à tel point qu’une tête d’âne valait qu
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:25" name="6-25">25</span>
+Pendant que cette ville était assiégée, une grande famine y sévissait, à tel point qu’une tête d’âne valait quatre-vingts sicles d’argent et un quart de kab de fiente de pigeon en valait cinq.
 
-<span class="marginnote nb" label="6:26" name="6:26">6:26</span><span style="display:none">¤6:26¤</span>
-Un jour que le roi d’Israël vint à passer sur le rempart, une femme lui cria: "Viens à notre aide, mon seigneur le roi!
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:26" name="6-26">26</span>
+Un jour que le roi d’Israël vint à passer sur le rempart, une femme lui cria: "Viens à notre aide, mon seigneur le roi!"
 
-<span class="marginnote nb" label="6:27" name="6:27">6:27</span><span style="display:none">¤6:27¤</span>
+<span class="marginnote num" label="6:27" name="6-27">27</span>
 Il lui répondit: "Si l’Éternel ne te secourt pas, comment puis-je te secourir? Est-ce du produit de l’aire ou du pressoir?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="6:28" name="6:28">6:28</span><span style="display:none">¤6:28¤</span>
-Et il ajouta: "Que veux-tu? Cette femme-là, lui répliqua-t-elle, m’a dit: Tu livreras ton fils pour que nous le mangions aujourd’hui, et demain nous mangero
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:28" name="6-28">28</span>
+Et il ajouta: "Que veux-tu? Cette femme-là, lui répliqua-t-elle, m’a dit: Tu livreras ton fils pour que nous le mangions aujourd’hui, et demain nous mangerons le mien.
 
-<span class="marginnote nb" label="6:29" name="6:29">6:29</span><span style="display:none">¤6:29¤</span>
- Nous avons donc fait cuire mon fils et nous l’avons mangé. Mais, lorsque je lui ai dit, le jour suivant: Donne ton fils, pour que nous le mangions, elle l
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:29" name="6-29">29</span>
+Nous avons donc fait cuire mon fils et nous l’avons mangé. Mais, lorsque je lui ai dit, le jour suivant: Donne ton fils, pour que nous le mangions, elle l’a mis en sûreté."
 
-<span class="marginnote nb" label="6:30" name="6:30">6:30</span><span style="display:none">¤6:30¤</span>
- En entendant les paroles de cette femme, le roi déchira ses vêtements et passa ainsi sur le rempart; le peuple vit alors qu’un cilice couvrait son co
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:30" name="6-30">30</span>
+En entendant les paroles de cette femme, le roi déchira ses vêtements et passa ainsi sur le rempart; le peuple vit alors qu’un cilice couvrait son corps sous les vêtements.
 
-<span class="marginnote nb" label="6:31" name="6:31">6:31</span><span style="display:none">¤6:31¤</span>
- "Que Dieu sévisse contre moi tant et plus, dit le roi, si la tête d’Élisée, fils de Chafat, reste aujourd’hui sur ses épaules!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:31" name="6-31">31</span>
+"Que Dieu sévisse contre moi tant et plus, dit le roi, si la tête d’Élisée, fils de Chafat, reste aujourd’hui sur ses épaules!"
 
-<span class="marginnote nb" label="6:32" name="6:32">6:32</span><span style="display:none">¤6:32¤</span>
- Or, Élisée, entouré des anciens, était assis dans sa demeure; le roi avait envoyé un émissaire auprès de lui. Mais avant que le messager fût arrivé auprès du prophète, celui-ci dit aux anciens: "Voyez-vous ce fils
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:32" name="6-32">32</span>
+Or, Élisée, entouré des anciens, était assis dans sa demeure; le roi avait envoyé un émissaire auprès de lui. Mais avant que le messager fût arrivé auprès du prophète, celui-ci dit aux anciens: "Voyez-vous ce fils d’assassin qui envoie quelqu’un pour me couper la tête! Lorsque vous verrez arriver le messager, vous fermerez la porte et vous le repousserez avec la porte. N’entend-on pas derrière lui le bruit des pas de son maître?"
 
-<span class="marginnote nb" label="6:33" name="6:33">6:33</span><span style="display:none">¤6:33¤</span>
- Il leur parlait encore quand le messager s’avança vers lui en disant: "Ce fléau vient de Dieu! Que pu
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="6:33" name="6-33">33</span>
+Il leur parlait encore quand le messager s’avança vers lui en disant: "Ce fléau vient de Dieu! Que puis-je encore espérer de l’Éternel?"
 
-<span class="marginnote nb" label="7:1" name="7:1">7:1</span><span style="display:none">¤7:1¤</span>
-lisée dit alors: "Ecoutez la parole de l’Éternel; voici ce qu’il annonce: Demain, à pareille heure, à la porte de Samarie, on aura une mesure de fleur de fa
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:1" name="7-1"><strong>7</strong>:1</span>
+Élisée dit alors: "Ecoutez la parole de l’Éternel; voici ce qu’il annonce: Demain, à pareille heure, à la porte de Samarie, on aura une mesure de fleur de farine pour un sicle, et pour un sicle aussi deux mesures d’orge."
 
-<span class="marginnote nb" label="7:2" name="7:2">7:2</span><span style="display:none">¤7:2¤</span>
-’officier sur lequel le roi avait l’habitude de s’appuyer s’adressa en ces termes à l’homme de Dieu: "Même si Dieu ouvrait des cat
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:2" name="7-2">2</span>
+L’officier sur lequel le roi avait l’habitude de s’appuyer s’adressa en ces termes à l’homme de Dieu: "Même si Dieu ouvrait des cataractes au ciel, pareille chose serait-elle possible? Tu le verras de tes yeux, lui répondit le prophète, mais tu n’en jouiras point."
 
-<span class="marginnote nb" label="7:3" name="7:3">7:3</span><span style="display:none">¤7:3¤</span>
-r, quatre lépreux se trouvaient à l’entrée de la porte. Ils se dirent l’un à l’a
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:3" name="7-3">3</span>
+Or, quatre lépreux se trouvaient à l’entrée de la porte. Ils se dirent l’un à l’autre: "Pourquoi rester ici à attendre la mort?
 
-<span class="marginnote nb" label="7:4" name="7:4">7:4</span><span style="display:none">¤7:4¤</span>
-i nous nous décidons à entrer dans la ville, la famine y règne et nous y mourrons; si nous demeurons ici, nous mourrons également. Eh bien, allons nous jeter dans le camp des Syriens; s’ils nous laissent en vie, nous vivrons, et s’ils nous tuent, nous mourro
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:4" name="7-4">4</span>
+Si nous nous décidons à entrer dans la ville, la famine y règne et nous y mourrons; si nous demeurons ici, nous mourrons également. Eh bien, allons nous jeter dans le camp des Syriens; s’ils nous laissent en vie, nous vivrons, et s’ils nous tuent, nous mourrons."
 
-<span class="marginnote nb" label="7:5" name="7:5">7:5</span><span style="display:none">¤7:5¤</span>
-ls se levèrent donc au crépuscule pour se rendre au camp des Syriens; arrivés à l’extrémité du camp, ils remarquèrent qu’il n’y avait personne.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:5" name="7-5">5</span>
+Ils se levèrent donc au crépuscule pour se rendre au camp des Syriens; arrivés à l’extrémité du camp, ils remarquèrent qu’il n’y avait personne.
 
-<span class="marginnote nb" label="7:6" name="7:6">7:6</span><span style="display:none">¤7:6¤</span>
-r, le Seigneur avait fait entendre aux troupes syriennes un bruit de chars, de chevaux et de nombreux soldats; ils s’étaient alors dit l’un à l’autre: "Le roi d’Israël a certainement soudoyé contre nous
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:6" name="7-6">6</span>
+Or, le Seigneur avait fait entendre aux troupes syriennes un bruit de chars, de chevaux et de nombreux soldats; ils s’étaient alors dit l’un à l’autre: "Le roi d’Israël a certainement soudoyé contre nous les princes des Héthéens et ceux d’Égypte pour qu’ils aillent nous attaquer."
 
-<span class="marginnote nb" label="7:7" name="7:7">7:7</span><span style="display:none">¤7:7¤</span>
-ls s’étaient donc enfuis pendant le crépuscule, abandonnant leurs tentes, leurs chevaux, leurs ânes, enfin le camp tel qu’il était; ils avaient pris la fuite pour sauver leur vie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:7" name="7-7">7</span>
+Ils s’étaient donc enfuis pendant le crépuscule, abandonnant leurs tentes, leurs chevaux, leurs ânes, enfin le camp tel qu’il était; ils avaient pris la fuite pour sauver leur vie.
 
-<span class="marginnote nb" label="7:8" name="7:8">7:8</span><span style="display:none">¤7:8¤</span>
-onc ces lépreux, parvenus à l’extrémité du camp, entrèrent dans une tente, y mangèrent et burent, en emportèrent de l’argent, de l’or et des vêtements, qu’ils allèrent enfouir; puis ils entr
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:8" name="7-8">8</span>
+Donc ces lépreux, parvenus à l’extrémité du camp, entrèrent dans une tente, y mangèrent et burent, en emportèrent de l’argent, de l’or et des vêtements, qu’ils allèrent enfouir; puis ils entrèrent dans une autre tente, d’où ils emportèrent des objets qu’ils enfouirent également.
 
-<span class="marginnote nb" label="7:9" name="7:9">7:9</span><span style="display:none">¤7:9¤</span>
-Ils se dirent alors l’un à l’autre: "Nous n’agissons pas bien. Aujourd’hui, c’est un jour de bonne nouvelle; si nous gardons le sile
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:9" name="7-9">9</span>
+Ils se dirent alors l’un à l’autre: "Nous n’agissons pas bien. Aujourd’hui, c’est un jour de bonne nouvelle; si nous gardons le silence et que nous attendions jusqu’au jour, nous nous rendons passibles d’un châtiment. Venez donc, allons l’annoncer dans le palais du roi."
 
-<span class="marginnote nb" label="7:10" name="7:10">7:10</span><span style="display:none">¤7:10¤</span>
- Ils allèrent appeler un gardien de la ville et lui apprirent cette nouvelle: "Nous avons pénétré dans le camp des Syriens et n
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:10" name="7-10">10</span>
+Ils allèrent appeler un gardien de la ville et lui apprirent cette nouvelle: "Nous avons pénétré dans le camp des Syriens et nous n’y avons vu âme qui vive ni entendu personne; les chevaux y sont attachés, les ânes attachés, et les tentes telles quelles."
 
-<span class="marginnote nb" label="7:11" name="7:11">7:11</span><span style="display:none">¤7:11¤</span>
- Il appela les gardes, qui firent connaître cette nouvelle à l’intérieur du palais du roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:11" name="7-11">11</span>
+Il appela les gardes, qui firent connaître cette nouvelle à l’intérieur du palais du roi.
 
-<span class="marginnote nb" label="7:12" name="7:12">7:12</span><span style="display:none">¤7:12¤</span>
- Le roi se leva pendant la nuit, et dit à ses serviteurs: "je veux vous divulguer ce que les Syriens ont organisé contre nous:
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:12" name="7-12">12</span>
+Le roi se leva pendant la nuit, et dit à ses serviteurs: "je veux vous divulguer ce que les Syriens ont organisé contre nous: sachant que nous sommes affamés, ils ont quitté le camp pour se cacher dans les champs, se disant: Quand ils sortiront de la ville, nous les prendrons vivants et nous entrerons dans la ville."
 
-<span class="marginnote nb" label="7:13" name="7:13">7:13</span><span style="display:none">¤7:13¤</span>
-L’un des serviteurs s’exprima alors ainsi: "Qu’on prenne cinq des chevaux restés dans la ville: ou bien ils seront comme cette foule d’Israélites qui a survécu, ou comme cette foule d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:13" name="7-13">13</span>
+L’un des serviteurs s’exprima alors ainsi: "Qu’on prenne cinq des chevaux restés dans la ville: ou bien ils seront comme cette foule d’Israélites qui a survécu, ou comme cette foule d’Israélites qui a péri. Envoyons-les et nous verrons."
 
-<span class="marginnote nb" label="7:14" name="7:14">7:14</span><span style="display:none">¤7:14¤</span>
-On prit deux chars attelés de chevaux, que le roi envoya du côté du camp syrien, en
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:14" name="7-14">14</span>
+On prit deux chars attelés de chevaux, que le roi envoya du côté du camp syrien, en disant: "Allez voir."
 
-<span class="marginnote nb" label="7:15" name="7:15">7:15</span><span style="display:none">¤7:15¤</span>
-Ils suivirent les traces des Syriens jusqu’au Jourdain, et remarquèrent que toute la route était jonchée de vêtements et de bagages que les Syriens avaient jetés dans leur précipi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:15" name="7-15">15</span>
+Ils suivirent les traces des Syriens jusqu’au Jourdain, et remarquèrent que toute la route était jonchée de vêtements et de bagages que les Syriens avaient jetés dans leur précipitation. Les envoyés retournèrent pour en informer le roi.
 
-<span class="marginnote nb" label="7:16" name="7:16">7:16</span><span style="display:none">¤7:16¤</span>
-Alors le peuple alla piller le camp syrien, et l’on eut une mesure de fleur de farine pour un sicle, et pour un sicle aussi deux mes
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:16" name="7-16">16</span>
+Alors le peuple alla piller le camp syrien, et l’on eut une mesure de fleur de farine pour un sicle, et pour un sicle aussi deux mesures d’orge, selon la parole de l’Éternel.
 
-<span class="marginnote nb" label="7:17" name="7:17">7:17</span><span style="display:none">¤7:17¤</span>
-Le roi avait préposé à la porte de la ville l’officier sur lequel il avait l’habitude de s’a
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:17" name="7-17">17</span>
+Le roi avait préposé à la porte de la ville l’officier sur lequel il avait l’habitude de s’appuyer; écrasé par la foule à cette porte même, il périt, ainsi que l’avait annoncé l’homme de Dieu, qui avait fait cette prédiction au moment où le roi s’était avancé vers lui.
 
-<span class="marginnote nb" label="7:18" name="7:18">7:18</span><span style="display:none">¤7:18¤</span>
-En effet, lorsque l’homme de Dieu avait ainsi parlé au roi: "Demain, à pareille heure, on aura à la porte de Sa
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:18" name="7-18">18</span>
+En effet, lorsque l’homme de Dieu avait ainsi parlé au roi: "Demain, à pareille heure, on aura à la porte de Samarie deux mesures d’orge pour un sicle, et, pour un sicle aussi, une mesure de fleur de farine,"
 
-<span class="marginnote nb" label="7:19" name="7:19">7:19</span><span style="display:none">¤7:19¤</span>
-l’officier avait fait cette réponse à l’homme de Dieu: "Même si l’Éternel ouvrait des ca
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="7:19" name="7-19">19</span>
+l’officier avait fait cette réponse à l’homme de Dieu: "Même si l’Éternel ouvrait des cataractes au ciel, pareil fait se réaliserait-il? Tu le verras de tes yeux, avait alors répliqué le prophète, mais tu n’en jouiras pas."
 
-<span class="marginnote nb" label="7:20" name="7:20">7:20</span><span style="display:none">¤7:20¤</span>
+<span class="marginnote num" label="7:20" name="7-20">20</span>
 Ainsi lui arriva-t-il; la foule l’écrasa à la porte, et il périt.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:1" name="8:1">8:1</span><span style="display:none">¤8:1¤</span>
-lisée, s’adressant à la femme dont il avait rappelé le fils à la vie, lui dit: "Lève-toi, pars avec les tiens et va séjourner où tu pourras car l’Éternel a fai
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:1" name="8-1"><strong>8</strong>:1</span>
+Élisée, s’adressant à la femme dont il avait rappelé le fils à la vie, lui dit: "Lève-toi, pars avec les tiens et va séjourner où tu pourras car l’Éternel a fait appel à la famine, et déjà elle arrive dans le pays pour sévir sept années."
 
-<span class="marginnote nb" label="8:2" name="8:2">8:2</span><span style="display:none">¤8:2¤</span>
-a femme se leva et, se conformant à la parole de l’homme de Dieu, elle émigra avec les siens et élut domicile dans le pays des Philistins pendant sept années.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:2" name="8-2">2</span>
+La femme se leva et, se conformant à la parole de l’homme de Dieu, elle émigra avec les siens et élut domicile dans le pays des Philistins pendant sept années.
 
-<span class="marginnote nb" label="8:3" name="8:3">8:3</span><span style="display:none">¤8:3¤</span>
-Au bout de ces sept années, la femme revint du pays des Philistins; elle se mit en campagne pour réclame
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:3" name="8-3">3</span>
+Au bout de ces sept années, la femme revint du pays des Philistins; elle se mit en campagne pour réclamer auprès du roi au sujet de sa maison et de son champ.
 
-<span class="marginnote nb" label="8:4" name="8:4">8:4</span><span style="display:none">¤8:4¤</span>
-Or, le roi était en train de s’entretenir avec Ghéhazi, serviteur de l’homme de Dieu, et lui d
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:4" name="8-4">4</span>
+Or, le roi était en train de s’entretenir avec Ghéhazi, serviteur de l’homme de Dieu, et lui disait: "Fais-moi donc le récit des grandes choses accomplies par Élisée."
 
-<span class="marginnote nb" label="8:5" name="8:5">8:5</span><span style="display:none">¤8:5¤</span>
-Tandis qu’il racontait au roi le fait de la résurrection du mort, voici que la femme dont le fils avait été rappelé à la vie vint implorer justice pour sa maison et son champ. Ghéhazi dit: "Mon seign
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:5" name="8-5">5</span>
+Tandis qu’il racontait au roi le fait de la résurrection du mort, voici que la femme dont le fils avait été rappelé à la vie vint implorer justice pour sa maison et son champ. Ghéhazi dit: "Mon seigneur le roi, tu vois là la femme en personne et son fils qu’Élisée a rendu à la vie."
 
-<span class="marginnote nb" label="8:6" name="8:6">8:6</span><span style="display:none">¤8:6¤</span>
-Le roi interrogea la femme, qui lui raconta tout, et le roi la fit accompagner par un officier avec cette mission: "
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:6" name="8-6">6</span>
+Le roi interrogea la femme, qui lui raconta tout, et le roi la fit accompagner par un officier avec cette mission: "Qu’on lui restitue tout ce qui lui appartient ainsi que tous les produits donnés par son champ du jour où elle a quitté ce pays jusqu’à cette heure."
 
-<span class="marginnote nb" label="8:7" name="8:7">8:7</span><span style="display:none">¤8:7¤</span>
+<span class="marginnote num" label="8:7" name="8-7">7</span>
 Élisée vint à Damas, alors que Ben-Hadad, roi de Syrie, était malade. Le roi en fut informé en ces termes: "L’homme de Dieu est arrivé en ces lieux."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:8" name="8:8">8:8</span><span style="display:none">¤8:8¤</span>
-e roi dit à Hazaël: "Munis-toi d’un présent et va à la rencontre de l’homme de Dieu. Consulte l’Éternel pa
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:8" name="8-8">8</span>
+Le roi dit à Hazaël: "Munis-toi d’un présent et va à la rencontre de l’homme de Dieu. Consulte l’Éternel par son entremise pour savoir si je guérirai de cette maladie."
 
-<span class="marginnote nb" label="8:9" name="8:9">8:9</span><span style="display:none">¤8:9¤</span>
-azaël alla au-devant d’Élisée, emmenant avec lui un présent composé de tout ce qu’il y avait de meilleur à Damas, une charg
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:9" name="8-9">9</span>
+Hazaël alla au-devant d’Élisée, emmenant avec lui un présent composé de tout ce qu’il y avait de meilleur à Damas, une charge de quarante chameaux; il s’avança, et, se présentant à lui, il dit: "Ton fils Ben-Hadad, roi de Syrie, m’a envoyé vers toi et demande: Guérirai-je de ma maladie?"
 
-<span class="marginnote nb" label="8:10" name="8:10">8:10</span><span style="display:none">¤8:10¤</span>
+<span class="marginnote num" label="8:10" name="8-10">10</span>
 Élisée lui répondit: "Va lui dire: Tu guériras, mais l’Éternel m’a fait voir que sa mort est certaine."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:11" name="8:11">8:11</span><span style="display:none">¤8:11¤</span>
+<span class="marginnote num" label="8:11" name="8-11">11</span>
 Puis l’homme de Dieu leva ses regards et les tint fixés sur lui jusqu’à le rendre confus; finalement, il se mit à pleurer.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:12" name="8:12">8:12</span><span style="display:none">¤8:12¤</span>
-Hazaël l’interrogea: "Pourquoi, mon seigneur, pleures-tu? C’est que je sais, répondit-il, combien tu feras de mal aux enfants d’Israël: tu livreras aux fl
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:12" name="8-12">12</span>
+Hazaël l’interrogea: "Pourquoi, mon seigneur, pleures-tu? C’est que je sais, répondit-il, combien tu feras de mal aux enfants d’Israël: tu livreras aux flammes leurs forteresses, tu feras périr par l’épée leurs jeunes gens, tu écraseras leurs petits enfants, et tu déchireras le sein de leurs femmes enceintes."
 
-<span class="marginnote nb" label="8:13" name="8:13">8:13</span><span style="display:none">¤8:13¤</span>
-Hazaël répliqua: "Mais qu’est donc ton serviteur, ce simple chien, pour accomplir ces hauts faits? C’est que, rép
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:13" name="8-13">13</span>
+Hazaël répliqua: "Mais qu’est donc ton serviteur, ce simple chien, pour accomplir ces hauts faits? C’est que, répondit Élisée, l’Éternel t’a montré à moi régnant sur la Syrie."
 
-<span class="marginnote nb" label="8:14" name="8:14">8:14</span><span style="display:none">¤8:14¤</span>
+<span class="marginnote num" label="8:14" name="8-14">14</span>
 Il prit congé d’Élisée et revint auprès de son maître, qui lui demanda: "Que t’a dit Élisée? Il m’a dit que tu guérirais," répondit-il.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:15" name="8:15">8:15</span><span style="display:none">¤8:15¤</span>
+<span class="marginnote num" label="8:15" name="8-15">15</span>
 Le lendemain, il prit la couverture, la trempa dans l’eau et l’étendit sur la figure du roi, de sorte qu’il mourut. Hazaël s’empara de la royauté à sa place.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:16" name="8:16">8:16</span><span style="display:none">¤8:16¤</span>
-La cinquième année du règne de Joram, fils d’Achab (roi d’Israël alors que Josaphat était roi de Juda), Joram, fils de Josaphat, devint roi de J
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:16" name="8-16">16</span>
+La cinquième année du règne de Joram, fils d’Achab (roi d’Israël alors que Josaphat était roi de Juda), Joram, fils de Josaphat, devint roi de Juda.
 
-<span class="marginnote nb" label="8:17" name="8:17">8:17</span><span style="display:none">¤8:17¤</span>
+<span class="marginnote num" label="8:17" name="8-17">17</span>
 Agé de trente-deux ans à son avènement, il régna huit ans à Jérusalem.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:18" name="8:18">8:18</span><span style="display:none">¤8:18¤</span>
-Il suivit la conduite des rois d’Israël, agissant comme la maison d’Achab; car il avait pris pour femme une fil
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:18" name="8-18">18</span>
+Il suivit la conduite des rois d’Israël, agissant comme la maison d’Achab; car il avait pris pour femme une fille d’Achab. Il fit donc ce qui est mal aux yeux de l’Éternel.
 
-<span class="marginnote nb" label="8:19" name="8:19">8:19</span><span style="display:none">¤8:19¤</span>
-Cependant le Seigneur, en faveur de David, son serviteur, ne voulut pas détruire Juda, fidèle à la promesse qu’il lui ava
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:19" name="8-19">19</span>
+Cependant le Seigneur, en faveur de David, son serviteur, ne voulut pas détruire Juda, fidèle à la promesse qu’il lui avait faite de lui assurer à jamais un domaine à lui et à ses descendants.
 
-<span class="marginnote nb" label="8:20" name="8:20">8:20</span><span style="display:none">¤8:20¤</span>
+<span class="marginnote num" label="8:20" name="8-20">20</span>
 De son temps, Edom, faisant défection, se rendit indépendant de Juda et se donna un roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:21" name="8:21">8:21</span><span style="display:none">¤8:21¤</span>
-Joram passa à Çaïr, avec toute sa cavalerie. En pleine nuit, il se leva pour attaquer les Iduméens qui 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:21" name="8-21">21</span>
+Joram passa à Çaïr, avec toute sa cavalerie. En pleine nuit, il se leva pour attaquer les Iduméens qui le cernaient lui et les chefs de la cavalerie, mais le peuple chercha un refuge dans ses tentes.
 
-<span class="marginnote nb" label="8:22" name="8:22">8:22</span><span style="display:none">¤8:22¤</span>
- Edom secoua ainsi la domination de Juda jusqu’à ce jour; à la même époque, Libna se rendit également in
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:22" name="8-22">22</span>
+Edom secoua ainsi la domination de Juda jusqu’à ce jour; à la même époque, Libna se rendit également indépendante.
 
-<span class="marginnote nb" label="8:23" name="8:23">8:23</span><span style="display:none">¤8:23¤</span>
- Le reste de l’histoire de Joram et ses faits et gestes sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:23" name="8-23">23</span>
+Le reste de l’histoire de Joram et ses faits et gestes sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="8:24" name="8:24">8:24</span><span style="display:none">¤8:24¤</span>
- Joram s’endormit avec ses pères, et fut enseveli à côté d’eux dans la Cité de David. Achazia, son fils, lui succéda.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:24" name="8-24">24</span>
+Joram s’endormit avec ses pères, et fut enseveli à côté d’eux dans la Cité de David. Achazia, son fils, lui succéda.
 
-<span class="marginnote nb" label="8:25" name="8:25">8:25</span><span style="display:none">¤8:25¤</span>
- La douzième année du règne de Joram, fils d’Achab, roi d’Israël, Achazia, fils de Joram, devint roi de Juda.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:25" name="8-25">25</span>
+La douzième année du règne de Joram, fils d’Achab, roi d’Israël, Achazia, fils de Joram, devint roi de Juda.
 
-<span class="marginnote nb" label="8:26" name="8:26">8:26</span><span style="display:none">¤8:26¤</span>
- Achazia avait vingt-deux ans à son avènement, et il régna un an à Jérusalem. Le nom de sa mère était Athalie; elle était fille d’Omri, roi 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:26" name="8-26">26</span>
+Achazia avait vingt-deux ans à son avènement, et il régna un an à Jérusalem. Le nom de sa mère était Athalie; elle était fille d’Omri, roi d’Israël.
 
-<span class="marginnote nb" label="8:27" name="8:27">8:27</span><span style="display:none">¤8:27¤</span>
+<span class="marginnote num" label="8:27" name="8-27">27</span>
 Il imita la conduite de la maison d’Achab, faisant, comme elle, ce qui est mal aux yeux de l’Éternel, en digne allié de la maison d’Achab.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="8:28" name="8:28">8:28</span><span style="display:none">¤8:28¤</span>
-Il fit, de concert avec Joram, fils d’Achab, une expédition militaire contre Hazaël, roi de Syrie, du côté de Ramot-Galaad; las 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="8:28" name="8-28">28</span>
+Il fit, de concert avec Joram, fils d’Achab, une expédition militaire contre Hazaël, roi de Syrie, du côté de Ramot-Galaad; las Syriens blessèrent Joram.
 
-<span class="marginnote nb" label="8:29" name="8:29">8:29</span><span style="display:none">¤8:29¤</span>
+<span class="marginnote num" label="8:29" name="8-29">29</span>
 Alors le roi Joram s’en retourna chez lui, pour se remettre à Jezreël des blessures que lui avaient infligées les Syriens à Rama, lors de sa campagne contre Hazaël, roi de Syrie. Achazia, fils de Joram, roi de Juda, descendit pour rendre visite à Joram, fils d’Achab, à Jezreël, au cours de sa maladie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:1" name="9:1">9:1</span><span style="display:none">¤9:1¤</span>
-r, Élisée avait mandé un des jeunes prophètes pour lui dire: "Ceins tes reins, prends cette fiole d’huile en ta main et rends-toi à Ramot-Galaad.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:1" name="9-1"><strong>9</strong>:1</span>
+Or, Élisée avait mandé un des jeunes prophètes pour lui dire: "Ceins tes reins, prends cette fiole d’huile en ta main et rends-toi à Ramot-Galaad.
 
-<span class="marginnote nb" label="9:2" name="9:2">9:2</span><span style="display:none">¤9:2¤</span>
-rrivé à destination, enquiers-toi de Jéhu, fils de Josaphat, fils de Nimchi. Une fois admis en sa
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:2" name="9-2">2</span>
+Arrivé à destination, enquiers-toi de Jéhu, fils de Josaphat, fils de Nimchi. Une fois admis en sa présence, tu l’engageras à se lever du milieu de ses frères d’armes et l’introduiras dans une chambre retirée.
 
-<span class="marginnote nb" label="9:3" name="9:3">9:3</span><span style="display:none">¤9:3¤</span>
-Prends alors la fiole d’huile, répands-la sur sa tête en disant: Ainsi a parlé l’Éternel: Je te sacre roi d’Israël. Puis ouv
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:3" name="9-3">3</span>
+Prends alors la fiole d’huile, répands-la sur sa tête en disant: Ainsi a parlé l’Éternel: Je te sacre roi d’Israël. Puis ouvre la porte et enfuis-toi sans retard."
 
-<span class="marginnote nb" label="9:4" name="9:4">9:4</span><span style="display:none">¤9:4¤</span>
+<span class="marginnote num" label="9:4" name="9-4">4</span>
 Le jeune homme, le jeune prophète, alla à Ramot-Galaad.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:5" name="9:5">9:5</span><span style="display:none">¤9:5¤</span>
-Dès son arrivée, il trouva les chefs de l’armée siégeant ensemble, et il dit: "J’ai une communication pour toi, ô commanda
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:5" name="9-5">5</span>
+Dès son arrivée, il trouva les chefs de l’armée siégeant ensemble, et il dit: "J’ai une communication pour toi, ô commandant. Pour qui d’entre nous tous?" demanda Jéhu. "Pour toi, commandant," répondit-il.
 
-<span class="marginnote nb" label="9:6" name="9:6">9:6</span><span style="display:none">¤9:6¤</span>
+<span class="marginnote num" label="9:6" name="9-6">6</span>
 Jéhu se leva, entra dans la chambre, et le prophète lui versa l’huile sur la tête en lui disant: "Ainsi a parlé l’Éternel, le Dieu d’Israël: Je te sacre roi du peuple de l’Éternel, d’Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:7" name="9:7">9:7</span><span style="display:none">¤9:7¤</span>
+<span class="marginnote num" label="9:7" name="9-7">7</span>
 Tu frapperas la maison de ton maître Achab, et ainsi je vengerai sur Jézabel le sang de mes serviteurs les prophètes et le sang de tous les serviteurs du Seigneur.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:8" name="9:8">9:8</span><span style="display:none">¤9:8¤</span>
-oute la maison d’Achab doit périr: j’exterminerai la plus vile créature appartenant à Achab, tout ce qu’il possède de précieux et d’infime en Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:8" name="9-8">8</span>
+Toute la maison d’Achab doit périr: j’exterminerai la plus vile créature appartenant à Achab, tout ce qu’il possède de précieux et d’infime en Israël.
 
-<span class="marginnote nb" label="9:9" name="9:9">9:9</span><span style="display:none">¤9:9¤</span>
-e ferai ainsi de la maison d’Achab ce que j’ai fait de la maison de Jéroboam, fils de Nebat, et de la maison de Baasa, fils d’Ahiyya.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:9" name="9-9">9</span>
+Je ferai ainsi de la maison d’Achab ce que j’ai fait de la maison de Jéroboam, fils de Nebat, et de la maison de Baasa, fils d’Ahiyya.
 
-<span class="marginnote nb" label="9:10" name="9:10">9:10</span><span style="display:none">¤9:10¤</span>
+<span class="marginnote num" label="9:10" name="9-10">10</span>
 Quant à Jézabel, les chiens la dévoreront sur le domaine de Jezreël, et personne ne l’ensevelira." Puis il ouvrit la porte et s’enfuit.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:11" name="9:11">9:11</span><span style="display:none">¤9:11¤</span>
+<span class="marginnote num" label="9:11" name="9-11">11</span>
 Jéhu sortit pour rejoindre les serviteurs de son maître. On lui demanda: "Tout est-il bien? Pourquoi cet exalté est-il venu te trouver?" Il leur répondit: "Vous connaissez bien l’homme et ses discours.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:12" name="9:12">9:12</span><span style="display:none">¤9:12¤</span>
-- C’est de la dissimulation, répliquèrent-ils; de grâce, raconte-nous tout." Il repartit: "C’est de telle et
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:12" name="9-12">12</span>
+- C’est de la dissimulation, répliquèrent-ils; de grâce, raconte-nous tout." Il repartit: "C’est de telle et telle façon qu’il m’a parlé; il m’a dit: Ainsi a parlé l’Éternel: Je te sacre roi d’Israël."
 
-<span class="marginnote nb" label="9:13" name="9:13">9:13</span><span style="display:none">¤9:13¤</span>
+<span class="marginnote num" label="9:13" name="9-13">13</span>
 Aussitôt ils s’empressèrent tous de prendre leurs manteaux, les étendirent sous lui au haut de l’escalier, et sonnèrent du cor en s’écriant: "Jéhu est roi!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:14" name="9:14">9:14</span><span style="display:none">¤9:14¤</span>
+<span class="marginnote num" label="9:14" name="9-14">14</span>
 C’est de la sorte que Jéhu, fils de Josaphat, fils de Nimchi, complota contre Joram. Celui-ci avait été en observation à Ramot-Galaad, avec tout Israël, en face de Hazaël, roi de Syrie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:15" name="9:15">9:15</span><span style="display:none">¤9:15¤</span>
-Mais le roi Joram s’en était retourné pour attendre à Jezreël la guérison des blessures que lui avaient faites les Syriens au cours de sa campagne con
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:15" name="9-15">15</span>
+Mais le roi Joram s’en était retourné pour attendre à Jezreël la guérison des blessures que lui avaient faites les Syriens au cours de sa campagne contre Hazaël, roi de Syrie. Jéhu dit: "Si vous le voulez bien, qu’aucun transfuge ne sorte de la ville pour porter des nouvelles à Jezreël."
 
-<span class="marginnote nb" label="9:16" name="9:16">9:16</span><span style="display:none">¤9:16¤</span>
+<span class="marginnote num" label="9:16" name="9-16">16</span>
 Jehu monta sur son char et se rendit à Jezreël, où Joram était alité. Achazia, roi de Juda, était descendu pour rendre visite à Joram.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:17" name="9:17">9:17</span><span style="display:none">¤9:17¤</span>
-Or, le gardien qui se tenait sur la tour de Jezreël remarqua la troupe de Jéhu qui avançait, et il dit: "J’aperçois une troupe." Joram répliqua: "Prends un cavalier, dép
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:17" name="9-17">17</span>
+Or, le gardien qui se tenait sur la tour de Jezreël remarqua la troupe de Jéhu qui avançait, et il dit: "J’aperçois une troupe." Joram répliqua: "Prends un cavalier, dépêche-le au-devant d’eux pour qu’il demande: Est-ce la paix?"
 
-<span class="marginnote nb" label="9:18" name="9:18">9:18</span><span style="display:none">¤9:18¤</span>
-Le cavalier se rendit au-devant de Jéhu et dit: "Voici ce que demande le roi: Est-ce la paix?" Jéhu répondit: "Quoi de commun entre toi et la paix? Pas
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:18" name="9-18">18</span>
+Le cavalier se rendit au-devant de Jéhu et dit: "Voici ce que demande le roi: Est-ce la paix?" Jéhu répondit: "Quoi de commun entre toi et la paix? Passe derrière moi." La sentinelle en fit part en disant: "Le messager est arrivé jusqu’à eux, mais n’est point revenu."
 
-<span class="marginnote nb" label="9:19" name="9:19">9:19</span><span style="display:none">¤9:19¤</span>
-Il envoya un second cavalier, qui, arrivé auprès d’eux, dit: Voici ce que demande le roi: Est-ce la paix?" Jéhu répondit: "Quoi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:19" name="9-19">19</span>
+Il envoya un second cavalier, qui, arrivé auprès d’eux, dit: Voici ce que demande le roi: Est-ce la paix?" Jéhu répondit: "Quoi de commun entre toi et la paix? Passe derrière moi."
 
-<span class="marginnote nb" label="9:20" name="9:20">9:20</span><span style="display:none">¤9:20¤</span>
+<span class="marginnote num" label="9:20" name="9-20">20</span>
 La sentinelle en fit part en ces termes: "Il est arrivé jusqu’à eux et n’est point revenu. Or, le train ressemble au train de Jéhu, fils de Nimchi; car il dirige d’une manière désordonnée."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:21" name="9:21">9:21</span><span style="display:none">¤9:21¤</span>
-Joram dit: "Attelle!" On attela son char, et Joram, roi d’Israël, Achazia, roi de Juda, chacun sur son char, sortirent à la rencontre de Jéhu. Ils le joignirent près du domaine
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:21" name="9-21">21</span>
+Joram dit: "Attelle!" On attela son char, et Joram, roi d’Israël, Achazia, roi de Juda, chacun sur son char, sortirent à la rencontre de Jéhu. Ils le joignirent près du domaine de Nabot, le Jezreélite.
 
-<span class="marginnote nb" label="9:22" name="9:22">9:22</span><span style="display:none">¤9:22¤</span>
-Dès que Joram aperçut Jéhu, il dit: "Est-ce la paix, Jéhu?" Peut-il être question de paix, fut la réponse, tant
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:22" name="9-22">22</span>
+Dès que Joram aperçut Jéhu, il dit: "Est-ce la paix, Jéhu?" Peut-il être question de paix, fut la réponse, tant que durent les débordements de ta mère Jézabel et ses nombreux sortilèges?"
 
-<span class="marginnote nb" label="9:23" name="9:23">9:23</span><span style="display:none">¤9:23¤</span>
+<span class="marginnote num" label="9:23" name="9-23">23</span>
 Joram tourna bride et prit la fuite, en disant à Achazia: "Trahison, Achazia!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:24" name="9:24">9:24</span><span style="display:none">¤9:24¤</span>
- Jéhu saisit l’arc de sa main, et la flèche atteignit Joram entre les épaules, de façon à transpercer son cœur: il s’aff
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:24" name="9-24">24</span>
+Jéhu saisit l’arc de sa main, et la flèche atteignit Joram entre les épaules, de façon à transpercer son cœur: il s’affaissa dans son char.
 
-<span class="marginnote nb" label="9:25" name="9:25">9:25</span><span style="display:none">¤9:25¤</span>
- Jéhu dit à Bidkar, son officier: "Enlève son corps et jette-le à terre dans le champ de Nabot, le Jezreélite; car je me souviens avec toi du jour où nous chevauchions de concert à la suite d’Achab, son père, alors que l’Éternel a émis c
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:25" name="9-25">25</span>
+Jéhu dit à Bidkar, son officier: "Enlève son corps et jette-le à terre dans le champ de Nabot, le Jezreélite; car je me souviens avec toi du jour où nous chevauchions de concert à la suite d’Achab, son père, alors que l’Éternel a émis contre lui cette prédiction:
 
-<span class="marginnote nb" label="9:26" name="9:26">9:26</span><span style="display:none">¤9:26¤</span>
- A coup sûr, j’ai remarqué hier le sang de Nabot et le sang de ses enfants (dit l’Éternel); je t’en paierai le prix dans ce c
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:26" name="9-26">26</span>
+A coup sûr, j’ai remarqué hier le sang de Nabot et le sang de ses enfants (dit l’Éternel); je t’en paierai le prix dans ce champ même (dit l’Éternel); enlève-le donc et jette-le dans ce champ, conformément à la parole du Seigneur."
 
-<span class="marginnote nb" label="9:27" name="9:27">9:27</span><span style="display:none">¤9:27¤</span>
- A cette vue, Achazia, roi de Juda, se mit à fuir dans la direction de la maison du parc; Jéhu se lança à sa poursuite et dit: "Lui aussi, frappez-le!" Il 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="9:27" name="9-27">27</span>
+A cette vue, Achazia, roi de Juda, se mit à fuir dans la direction de la maison du parc; Jéhu se lança à sa poursuite et dit: "Lui aussi, frappez-le!" Il fut atteint dans son char, sur la montée de Gour du côté de Yibleam. Il se réfugia à Meghiddo et y mourut.
 
-<span class="marginnote nb" label="9:28" name="9:28">9:28</span><span style="display:none">¤9:28¤</span>
+<span class="marginnote num" label="9:28" name="9-28">28</span>
 Ses serviteurs le transportèrent à Jérusalem et l’ensevelirent dans son sépulcre, auprès de ses aïeux, dans la Cité de David.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:29" name="9:29">9:29</span><span style="display:none">¤9:29¤</span>
+<span class="marginnote num" label="9:29" name="9-29">29</span>
 (C’était dans la onzième année de Joram, fils d’Achab, qu’Achazia avait commencé à régner sur Juda.)
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:30" name="9:30">9:30</span><span style="display:none">¤9:30¤</span>
+<span class="marginnote num" label="9:30" name="9-30">30</span>
 Puis Jéhu entra à Jezreël. Or, Jézabel avait tout appris: elle s’enduisit les yeux de fard, se para la tête et regarda par la fenêtre.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:31" name="9:31">9:31</span><span style="display:none">¤9:31¤</span>
+<span class="marginnote num" label="9:31" name="9-31">31</span>
 Jéhu franchissant la porte, elle s’écria: "Est-ce la paix, Zimri, assassin de ton maître?"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:32" name="9:32">9:32</span><span style="display:none">¤9:32¤</span>
+<span class="marginnote num" label="9:32" name="9-32">32</span>
 Il leva les regards vers la fenêtre: "Qui est avec moi, qui?" dit-il. Deux ou trois officiers tournèrent les yeux vers lui,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:33" name="9:33">9:33</span><span style="display:none">¤9:33¤</span>
+<span class="marginnote num" label="9:33" name="9-33">33</span>
 et il leur dit: "Précipitez-la!" Ils la précipitèrent. Son sang rejaillit sur le mur et sur les chevaux, et il la foula aux pieds.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:34" name="9:34">9:34</span><span style="display:none">¤9:34¤</span>
+<span class="marginnote num" label="9:34" name="9-34">34</span>
 Il pénétra dans la ville, mangea et but; puis il dit: "Voyez donc après cette maudite et ensevelissez-la, puisqu’elle est fille de roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:35" name="9:35">9:35</span><span style="display:none">¤9:35¤</span>
+<span class="marginnote num" label="9:35" name="9-35">35</span>
 Ils allèrent pour l’ensevelir, mais ne trouvèrent plus d’elle que le crâne, les pieds et les paumes des mains.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:36" name="9:36">9:36</span><span style="display:none">¤9:36¤</span>
+<span class="marginnote num" label="9:36" name="9-36">36</span>
 Ils revinrent lui en faire part. Alors il s’écria: "Ainsi s’accomplit cette parole de l’Éternel, énoncée par la bouche de son serviteur, Élie le Tisbite: Sur le domaine de Jezreël, les chiens dévoreront la chair de Jézabel,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="9:37" name="9:37">9:37</span><span style="display:none">¤9:37¤</span>
+<span class="marginnote num" label="9:37" name="9-37">37</span>
 et le cadavre de Jézabel sera étendu sur le domaine de Jezreël, pareil au fumier qui couvre les champs, de telle sorte qu’on ne puisse pas dire: C’est là Jézabel!"
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="10:1" name="10:1">10:1</span><span style="display:none">¤10:1¤</span>
+<span class="marginnote num" label="10:1" name="10-1"><strong>10</strong>:1</span>
 Or, Achab avait soixante-dix fils à Samarie. Jéhu écrivit des lettres qu’il envoya à Samarie, aux chefs de Jezreël, aux anciens et aux précepteurs des enfants d’Achab, et qui étaient ainsi conçues:
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="10:2" name="10:2">10:2</span><span style="display:none">¤10:2¤</span>
+<span class="marginnote num" label="10:2" name="10-2">2</span>
 "Donc, à l’arrivée de cette épître, comme vous avez avec vous les fils de votre maître, les chars, la cavalerie, une ville fortifiée et des armes,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="10:3" name="10:3">10:3</span><span style="display:none">¤10:3¤</span>
-choisissez parmi les fils de votre maître le meilleur et le plus digne, placez-le sur le trône de son père et combattez pour la ma
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:3" name="10-3">3</span>
+choisissez parmi les fils de votre maître le meilleur et le plus digne, placez-le sur le trône de son père et combattez pour la maison de votre seigneur."
 
-<span class="marginnote nb" label="10:4" name="10:4">10:4</span><span style="display:none">¤10:4¤</span>
-Ces gens furent saisis d’une extrême frayeur et se dirent: "Eh quoi! Les deux rois n’ont pu lui résister, comm
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:4" name="10-4">4</span>
+Ces gens furent saisis d’une extrême frayeur et se dirent: "Eh quoi! Les deux rois n’ont pu lui résister, comment lui résisterions-nous?"
 
-<span class="marginnote nb" label="10:5" name="10:5">10:5</span><span style="display:none">¤10:5¤</span>
- Le préfet du palais, celui de la ville, les anciens et les précepteurs mandèrent à Jéhu: "Nous sommes tes serviteurs, et tout ce q
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:5" name="10-5">5</span>
+Le préfet du palais, celui de la ville, les anciens et les précepteurs mandèrent à Jéhu: "Nous sommes tes serviteurs, et tout ce que tu diras, nous l’exécuterons; nous n’élirons aucun roi: fais ce que bon te semble."
 
-<span class="marginnote nb" label="10:6" name="10:6">10:6</span><span style="display:none">¤10:6¤</span>
- Il leur écrivit une seconde lettre, contenant ces mots: "Si vous êtes pour moi et voulez m’obéir, prenez les têtes des fils de votre maître et rendez-vous près de moi, demain, à 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:6" name="10-6">6</span>
+Il leur écrivit une seconde lettre, contenant ces mots: "Si vous êtes pour moi et voulez m’obéir, prenez les têtes des fils de votre maître et rendez-vous près de moi, demain, à Jezreël". Or, les fils du roi étaient au nombre de soixante-dix, et c’étaient les grands de la ville qui les élevaient.
 
-<span class="marginnote nb" label="10:7" name="10:7">10:7</span><span style="display:none">¤10:7¤</span>
- Au reçu de cette lettre, ils s’emparèrent des fils du roi et
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:7" name="10-7">7</span>
+Au reçu de cette lettre, ils s’emparèrent des fils du roi et égorgèrent tous les soixante-dix. Puis ils mirent leurs têtes dans des paniers et les lui envoyèrent à Jezreël.
 
-<span class="marginnote nb" label="10:8" name="10:8">10:8</span><span style="display:none">¤10:8¤</span>
- Un émissaire étant venu lui annoncer qu’on avait apporté les têtes des princes, il commanda: "Mettez-les en deux tas, à l’entrée de la porte, j
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:8" name="10-8">8</span>
+Un émissaire étant venu lui annoncer qu’on avait apporté les têtes des princes, il commanda: "Mettez-les en deux tas, à l’entrée de la porte, jusqu’au matin."
 
-<span class="marginnote nb" label="10:9" name="10:9">10:9</span><span style="display:none">¤10:9¤</span>
- Le matin, étant sorti, il s’approcha et dit à tout le peuple: "Vous êtes sans reproche. Voici, je me suis révolté contre mon maître et l’ai tué; mais tous ceux-là, qui les a frappés?
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:9" name="10-9">9</span>
+Le matin, étant sorti, il s’approcha et dit à tout le peuple: "Vous êtes sans reproche. Voici, je me suis révolté contre mon maître et l’ai tué; mais tous ceux-là, qui les a frappés?
 
-<span class="marginnote nb" label="10:10" name="10:10">10:10</span><span style="display:none">¤10:10¤</span>
- Sachez donc qu’il ne tombera à terre aucune des paroles prononcées par le Seigneur contre la maison d’Achab. C’est le Seigneur qui a accompli
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:10" name="10-10">10</span>
+Sachez donc qu’il ne tombera à terre aucune des paroles prononcées par le Seigneur contre la maison d’Achab. C’est le Seigneur qui a accompli ce qu’il avait déclaré par l’intermédiaire de son serviteur Élie."
 
-<span class="marginnote nb" label="10:11" name="10:11">10:11</span><span style="display:none">¤10:11¤</span>
- Jéhu frappa ensuite tous ceux qui restaient à Jezreël de la famille d’Achab, tous s
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:11" name="10-11">11</span>
+Jéhu frappa ensuite tous ceux qui restaient à Jezreël de la famille d’Achab, tous ses grands, ses familiers et ses prêtres; il n’en laissa pas échapper un seul.
 
-<span class="marginnote nb" label="10:12" name="10:12">10:12</span><span style="display:none">¤10:12¤</span>
- Puis il se mit en route et se dirigea vers Samarie. A Beth-Eked-Haroïm, qui se trouvait sur la route,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:12" name="10-12">12</span>
+Puis il se mit en route et se dirigea vers Samarie. A Beth-Eked-Haroïm, qui se trouvait sur la route,
 
-<span class="marginnote nb" label="10:13" name="10:13">10:13</span><span style="display:none">¤10:13¤</span>
- Jéhu rencontra les frères d’Achazia, roi de Juda, et leur demanda: "Qui êtes-vous?" Ils rép
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:13" name="10-13">13</span>
+Jéhu rencontra les frères d’Achazia, roi de Juda, et leur demanda: "Qui êtes-vous?" Ils répondirent: "Nous sommes les frères d’Achazia, roi de Juda, nous sommes venus pour saluer les fils du roi et de la reine".
 
-<span class="marginnote nb" label="10:14" name="10:14">10:14</span><span style="display:none">¤10:14¤</span>
- Alors il commanda: "Qu’on les saisisse vivants!" et on les saisit vivants. Puis, on les jeta, égorgés, dans la citerne de Beth-Eked au nombre de quar
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:14" name="10-14">14</span>
+Alors il commanda: "Qu’on les saisisse vivants!" et on les saisit vivants. Puis, on les jeta, égorgés, dans la citerne de Beth-Eked au nombre de quarante-deux; il n’en laissa subsister aucun.
 
-<span class="marginnote nb" label="10:15" name="10:15">10:15</span><span style="display:none">¤10:15¤</span>
- Parti de là, il rencontra Jonadab, fils de Rêkhab, venant à lui; il le salua et lui dit: "As-tu pour moi d’aussi bons sentiments que j’en ai pour toi? Tout auta
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:15" name="10-15">15</span>
+Parti de là, il rencontra Jonadab, fils de Rêkhab, venant à lui; il le salua et lui dit: "As-tu pour moi d’aussi bons sentiments que j’en ai pour toi? Tout autant, répondit Jonadab. Donne-moi ta main." Jonadab lui tendit la main, et Jéhu le fit monter près de lui sur le char:
 
-<span class="marginnote nb" label="10:16" name="10:16">10:16</span><span style="display:none">¤10:16¤</span>
- "Viens avec moi, dit-il, et reconnais mon zèle pour le Seigneur." Et il le fit asseoir dans son char.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:16" name="10-16">16</span>
+"Viens avec moi, dit-il, et reconnais mon zèle pour le Seigneur." Et il le fit asseoir dans son char.
 
-<span class="marginnote nb" label="10:17" name="10:17">10:17</span><span style="display:none">¤10:17¤</span>
- Arrivé à Samarie, il fit exécuter tous ceux qui étaient restés de la famille d’Achab à Samarie, jusqu’à extinction complète, accomplissant ainsi la parole du Seigneur adressée à Élie.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:17" name="10-17">17</span>
+Arrivé à Samarie, il fit exécuter tous ceux qui étaient restés de la famille d’Achab à Samarie, jusqu’à extinction complète, accomplissant ainsi la parole du Seigneur adressée à Élie.
 
-<span class="marginnote nb" label="10:18" name="10:18">10:18</span><span style="display:none">¤10:18¤</span>
- Jéhu assembla ensuite tout le peuple et lui dit: "Achab a adoré un peu Baal; Jéhu l’adorera beaucoup.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:18" name="10-18">18</span>
+Jéhu assembla ensuite tout le peuple et lui dit: "Achab a adoré un peu Baal; Jéhu l’adorera beaucoup.
 
-<span class="marginnote nb" label="10:19" name="10:19">10:19</span><span style="display:none">¤10:19¤</span>
- Donc, qu’on me convoque tous les prophètes de Baal, tous ses adorateurs et tous ses prêtres; que personne ne manque, car, sur mon ordre, il y aura grand sacrifice en l’honneur de Baal; quiconque y manquera périra." Jéhu agissait ainsi par ruse, pour exterminer t
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:19" name="10-19">19</span>
+Donc, qu’on me convoque tous les prophètes de Baal, tous ses adorateurs et tous ses prêtres; que personne ne manque, car, sur mon ordre, il y aura grand sacrifice en l’honneur de Baal; quiconque y manquera périra." Jéhu agissait ainsi par ruse, pour exterminer tous les adorateurs de Baal.
 
-<span class="marginnote nb" label="10:20" name="10:20">10:20</span><span style="display:none">¤10:20¤</span>
- Jéhu ayant ainsi fait proclamer une fête en l’honneur de Baal, on fit les convocations.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:20" name="10-20">20</span>
+Jéhu ayant ainsi fait proclamer une fête en l’honneur de Baal, on fit les convocations.
 
-<span class="marginnote nb" label="10:21" name="10:21">10:21</span><span style="display:none">¤10:21¤</span>
- Jéhu envoya des émissaires dans tout Israël, et tous les adorateurs de Baal arrivèrent; il n’en res
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:21" name="10-21">21</span>
+Jéhu envoya des émissaires dans tout Israël, et tous les adorateurs de Baal arrivèrent; il n’en resta pas un qui ne vînt. Ils pénétrèrent dans le temple de Baal, qui fut rempli de toutes parts.
 
-<span class="marginnote nb" label="10:22" name="10:22">10:22</span><span style="display:none">¤10:22¤</span>
- Alors il dit au préposé du vestiaire: "Sors des vêtements pour tous les adorateurs de Baal." L’homme sortit les vêtements.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:22" name="10-22">22</span>
+Alors il dit au préposé du vestiaire: "Sors des vêtements pour tous les adorateurs de Baal." L’homme sortit les vêtements.
 
-<span class="marginnote nb" label="10:23" name="10:23">10:23</span><span style="display:none">¤10:23¤</span>
- Puis Jéhu et Jonadab, fils de Rêkhab, entrèrent dans le temple de Baal. Jéhu dit aux adorateurs de Baal: "Enquérez-vous et voyez s’il n’y a pas avec vous de serviteurs de l’Éternel, car seuls les adorateurs de Baal do
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:23" name="10-23">23</span>
+Puis Jéhu et Jonadab, fils de Rêkhab, entrèrent dans le temple de Baal. Jéhu dit aux adorateurs de Baal: "Enquérez-vous et voyez s’il n’y a pas avec vous de serviteurs de l’Éternel, car seuls les adorateurs de Baal doivent se trouver ici."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Ils se mirent à offrir des sacrifices et des holocaustes. Or, Jéhu avai
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:24" name="10-24">24</span>
+Ils se mirent à offrir des sacrifices et des holocaustes. Or, Jéhu avait posté au dehors quatre-vingts hommes, disant: "Quiconque échappera de ceux que je livre en vos mains, votre vie sera la rançon de la sienne."
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Lorsqu’on eut terminé l’offrande des sacrifices, Jéhu dit aux gardes et aux officiers: "Entre
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:25" name="10-25">25</span>
+Lorsqu’on eut terminé l’offrande des sacrifices, Jéhu dit aux gardes et aux officiers: "Entrez, tuez-les, que personne ne sorte!" Et ils les firent passer au fil de l’épée. Après avoir jeté leurs cadavres, les gardes et les officiers poussèrent jusqu’à la ville du temple de Baal.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Ils firent sortir les cippes du temple de Baal et les brûlèrent.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:26" name="10-26">26</span>
+Ils firent sortir les cippes du temple de Baal et les brûlèrent.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Ils abattirent aussi la statue de Baal, renversèrent le temple de Baal et le convertirent en cloaque, lequel existe encore aujourd’hui.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:27" name="10-27">27</span>
+Ils abattirent aussi la statue de Baal, renversèrent le temple de Baal et le convertirent en cloaque, lequel existe encore aujourd’hui.
 
-<span class="marginnote nb" label="10:28" name="10:28">10:28</span><span style="display:none">¤10:28¤</span>
- Jéhu extirpa ainsi Baal des rangs d’Israël.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:28" name="10-28">28</span>
+Jéhu extirpa ainsi Baal des rangs d’Israël.
 
-<span class="marginnote nb" label="10:29" name="10:29">10:29</span><span style="display:none">¤10:29¤</span>
- Seulement Jéhu ne répudia pas les péchés de Jéroboam, fils de Nebat, qui avait entraîné à l’idolâtrie Israël, à savoir les veaux d’or qui étaient à Bét
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:29" name="10-29">29</span>
+Seulement Jéhu ne répudia pas les péchés de Jéroboam, fils de Nebat, qui avait entraîné à l’idolâtrie Israël, à savoir les veaux d’or qui étaient à Béthel et à Dan.
 
-<span class="marginnote nb" label="10:30" name="10:30">10:30</span><span style="display:none">¤10:30¤</span>
- Le Seigneur dit à Jéhu: "Pour ta bonne pensée d’avoir accompli ce qui me plaisait et pour avoir fait à Achab tout ce que j’avais décidé, quatre générations de tes enfants siégeront sur le trône d’
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:30" name="10-30">30</span>
+Le Seigneur dit à Jéhu: "Pour ta bonne pensée d’avoir accompli ce qui me plaisait et pour avoir fait à Achab tout ce que j’avais décidé, quatre générations de tes enfants siégeront sur le trône d’Israël."
 
-<span class="marginnote nb" label="10:31" name="10:31">10:31</span><span style="display:none">¤10:31¤</span>
- Toutefois, Jéhu ne prit pas garde de suivre de tout son cœur
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:31" name="10-31">31</span>
+Toutefois, Jéhu ne prit pas garde de suivre de tout son cœur la loi de l’Éternel, Dieu d’Israël; il n’évita pas les fautes de Jéroboam, qui avait fait pécher Israël.
 
-<span class="marginnote nb" label="10:32" name="10:32">10:32</span><span style="display:none">¤10:32¤</span>
- En ce temps, l’Éternel commença à amoindrir Israël. Hazaël les mit en déroute sur toute la frontière d’Israël,
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:32" name="10-32">32</span>
+En ce temps, l’Éternel commença à amoindrir Israël. Hazaël les mit en déroute sur toute la frontière d’Israël,
 
-<span class="marginnote nb" label="10:33" name="10:33">10:33</span><span style="display:none">¤10:33¤</span>
- enlevant, depuis le Jourdain à l’est, tout le pays du Galaad, les territoires de Gad, Ruben et Manassé, depuis Aroër sur le torrent d’Arnôn, le Galaad et le Basan.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:33" name="10-33">33</span>
+enlevant, depuis le Jourdain à l’est, tout le pays du Galaad, les territoires de Gad, Ruben et Manassé, depuis Aroër sur le torrent d’Arnôn, le Galaad et le Basan.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Le reste de l’histoire de Jéhu, toutes ses actions et ses exploits, tout cela est consigné dans le livre des annales des r
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:34" name="10-34">34</span>
+Le reste de l’histoire de Jéhu, toutes ses actions et ses exploits, tout cela est consigné dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Jéhu s’endormit avec ses pères, et on l’ensevelit à Samarie. A sa place régna Joachaz, son fils.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:35" name="10-35">35</span>
+Jéhu s’endormit avec ses pères, et on l’ensevelit à Samarie. A sa place régna Joachaz, son fils.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ La durée du règne de Jéhu sur Israël à Samarie avait été de vingt-huit ans.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="10:36" name="10-36">36</span>
+La durée du règne de Jéhu sur Israël à Samarie avait été de vingt-huit ans.
 
-<span class="marginnote nb" label="11:1" name="11:1">11:1</span><span style="display:none">¤11:1¤</span>
- Athalie, mère d’Achazia, voyant son fils mort, se mit à exterminer toute la race royale.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:1" name="11-1"><strong>11</strong>:1</span>
+Athalie, mère d’Achazia, voyant son fils mort, se mit à exterminer toute la race royale.
 
-<span class="marginnote nb" label="11:2" name="11:2">11:2</span><span style="display:none">¤11:2¤</span>
- Mais Josabeth, fille du roi Joram et sœur d’Achazia, se saisit de Joas, fils d’Achazia, l’arracha furtivement d’entre les fils du ro
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:2" name="11-2">2</span>
+Mais Josabeth, fille du roi Joram et sœur d’Achazia, se saisit de Joas, fils d’Achazia, l’arracha furtivement d’entre les fils du roi, qui avaient été mis à mort, l’installa, lui et sa nourrice, dans la chambre des lits. On le déroba aux regards d’Athalie, et ainsi il échappa à la mort.
 
-<span class="marginnote nb" label="11:3" name="11:3">11:3</span><span style="display:none">¤11:3¤</span>
+<span class="marginnote num" label="11:3" name="11-3">3</span>
 Il resta avec elle dans le temple de l’Éternel, se tenant caché pendant six ans, tandis qu’Athalie régnait sur le pays.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="11:4" name="11:4">11:4</span><span style="display:none">¤11:4¤</span>
-La septième année, Joïada envoya convoquer les centeniers des Cariens et des gardes et les fit entrer près de lui dans le temple de l’Éternel. Il conclut un pacte avec eux et
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:4" name="11-4">4</span>
+La septième année, Joïada envoya convoquer les centeniers des Cariens et des gardes et les fit entrer près de lui dans le temple de l’Éternel. Il conclut un pacte avec eux et leur fit prêter serment dans la maison de l’Éternel; puis il leur montra le fils du roi.
 
-<span class="marginnote nb" label="11:5" name="11:5">11:5</span><span style="display:none">¤11:5¤</span>
-Il leur donna les instructions suivantes: "Voici ce que vous ferez: un tiers d’entre vous, de ceux qui prennent la semaine, montera la garde à la mai
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:5" name="11-5">5</span>
+Il leur donna les instructions suivantes: "Voici ce que vous ferez: un tiers d’entre vous, de ceux qui prennent la semaine, montera la garde à la maison du roi,
 
-<span class="marginnote nb" label="11:6" name="11:6">11:6</span><span style="display:none">¤11:6¤</span>
+<span class="marginnote num" label="11:6" name="11-6">6</span>
 un tiers à la porte de Sour et un tiers à la porte placée derrière les coureurs; vous exercerez votre surveillance sur la maison, du côté de l’entrée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="11:7" name="11:7">11:7</span><span style="display:none">¤11:7¤</span>
+<span class="marginnote num" label="11:7" name="11-7">7</span>
 Deux sections, composées de tous ceux qui quittent le service de la semaine, monteront la garde au temple de l’Éternel, à la disposition du roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="11:8" name="11:8">11:8</span><span style="display:none">¤11:8¤</span>
-Vous ferez cercle autour du roi, les armes à la main, et quiconque voudra fendre les rangs sera mis à mort; vous accompagnerez le 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:8" name="11-8">8</span>
+Vous ferez cercle autour du roi, les armes à la main, et quiconque voudra fendre les rangs sera mis à mort; vous accompagnerez le roi dans toutes ses démarches."
 
-<span class="marginnote nb" label="11:9" name="11:9">11:9</span><span style="display:none">¤11:9¤</span>
-Les centeniers exécutèrent fidèlement les ordres donnés par Joïada, le prêtre; ils p
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:9" name="11-9">9</span>
+Les centeniers exécutèrent fidèlement les ordres donnés par Joïada, le prêtre; ils prirent chacun leurs hommes, ceux qui commençaient et ceux qui avaient fini la semaine, et ils vinrent près de Joïada, le prêtre.
 
-<span class="marginnote nb" label="11:10" name="11:10">11:10</span><span style="display:none">¤11:10¤</span>
- Le prêtre délivra aux centeniers les lances et les boucliers déposés par David dans le temple de l’Éternel.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:10" name="11-10">10</span>
+Le prêtre délivra aux centeniers les lances et les boucliers déposés par David dans le temple de l’Éternel.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Les gardes, armes en main, rangés en partant du côté droit jusqu’au côté gauche du temple, devant l’autel et le sanctuaire, entouraient le roi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:11" name="11-11">11</span>
+Les gardes, armes en main, rangés en partant du côté droit jusqu’au côté gauche du temple, devant l’autel et le sanctuaire, entouraient le roi.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Joïada fit sortir le fils du roi et lui remit la couronne et le "témoignage"; on le proclama roi, on l’oignit, et, au milieu des applaudissements, on cria: "Vi
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:12" name="11-12">12</span>
+Joïada fit sortir le fils du roi et lui remit la couronne et le "témoignage"; on le proclama roi, on l’oignit, et, au milieu des applaudissements, on cria: "Vive le roi!"
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Athalie, entendant la voix des gardes et du peuple, accourut au milieu de la foule dans le temple de l’Éternel.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:13" name="11-13">13</span>
+Athalie, entendant la voix des gardes et du peuple, accourut au milieu de la foule dans le temple de l’Éternel.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Elle regarda et vit ce spectacle: le roi debout sur l’estrade selon l’usage, les chefs et les trompette
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:14" name="11-14">14</span>
+Elle regarda et vit ce spectacle: le roi debout sur l’estrade selon l’usage, les chefs et les trompettes acclamant le roi, toute la foule manifestant sa joie en sonnant de la trompette. A cette vue, Athalie déchira ses vêtements et s’écria: "Trahison, trahison!"
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Joïada, le pontife, adressa aux centeniers qui commandaient les troupes l’ordre suivant: "Faites-la sortir des rangs, et qui la suivra, qu’on l’exécute avec le glaive!" Car le pontife avait recommandé qu’elle ne fût pas mise à mort dans la maison de l’Éternel.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:15" name="11-15">15</span>
+Joïada, le pontife, adressa aux centeniers qui commandaient les troupes l’ordre suivant: "Faites-la sortir des rangs, et qui la suivra, qu’on l’exécute avec le glaive!" Car le pontife avait recommandé qu’elle ne fût pas mise à mort dans la maison de l’Éternel.
 
-<span class="marginnote nb" label="11:16" name="11:16">11:16</span><span style="display:none">¤11:16¤</span>
- On fit place devant elle, et elle prit le chemin de l’entrée des chevaux p
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:16" name="11-16">16</span>
+On fit place devant elle, et elle prit le chemin de l’entrée des chevaux pour se rendre au palais royal; là, elle fut mise à mort.
 
-<span class="marginnote nb" label="11:17" name="11:17">11:17</span><span style="display:none">¤11:17¤</span>
- Joïada conclut un pacte entre l’Éternel, le roi et le peuple, celui-ci devenant le peuple de l’Éternel, et entre le roi et le peuple.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:17" name="11-17">17</span>
+Joïada conclut un pacte entre l’Éternel, le roi et le peuple, celui-ci devenant le peuple de l’Éternel, et entre le roi et le peuple.
 
-<span class="marginnote nb" label="11:18" name="11:18">11:18</span><span style="display:none">¤11:18¤</span>
- Toute la foule pénétra dans le temple de Baal et le saccagea; on brisa complètement ses autels et ses statues, on tua 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:18" name="11-18">18</span>
+Toute la foule pénétra dans le temple de Baal et le saccagea; on brisa complètement ses autels et ses statues, on tua devant les autels Mâtan, prêtre de Baal. Le pontife plaça des surveillants dans la maison de l’Éternel.
 
-<span class="marginnote nb" label="11:19" name="11:19">11:19</span><span style="display:none">¤11:19¤</span>
- Sur son ordre, les centeniers, les Cariens, les gardes et les gens du peuple conduisirent le roi de la maison de l’Éternel, par le chemin de la porte des gardes, au palais royal; là, il s’assit sur le trône
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:19" name="11-19">19</span>
+Sur son ordre, les centeniers, les Cariens, les gardes et les gens du peuple conduisirent le roi de la maison de l’Éternel, par le chemin de la porte des gardes, au palais royal; là, il s’assit sur le trône des rois.
 
-<span class="marginnote nb" label="11:20" name="11:20">11:20</span><span style="display:none">¤11:20¤</span>
- Tout le peuple se réjouit et la ville retrouva le calme. Quant à Athalie, on l’avait fait mourir par le glaive dans le palais royal.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="11:20" name="11-20">20</span>
+Tout le peuple se réjouit et la ville retrouva le calme. Quant à Athalie, on l’avait fait mourir par le glaive dans le palais royal.
 
-<span class="marginnote nb" label="12:1" name="12:1">12:1</span><span style="display:none">¤12:1¤</span>
- Joas avait sept ans quand il devint roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:1" name="12-1"><strong>12</strong>:1</span>
+Joas avait sept ans quand il devint roi.
 
-<span class="marginnote nb" label="12:2" name="12:2">12:2</span><span style="display:none">¤12:2¤</span>
- Il monta sur le trône dans la septième année de Jéhu, et il régna quarante ans à Jérusalem. Sa mère s’appelait Cibya, de Beersabée.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:2" name="12-2">2</span>
+Il monta sur le trône dans la septième année de Jéhu, et il régna quarante ans à Jérusalem. Sa mère s’appelait Cibya, de Beersabée.
 
-<span class="marginnote nb" label="12:3" name="12:3">12:3</span><span style="display:none">¤12:3¤</span>
- Joas fit toute sa vie ce qui plaît au Seigneur, conformément aux enseignements que lui avait donnés le prêtre Joïada.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:3" name="12-3">3</span>
+Joas fit toute sa vie ce qui plaît au Seigneur, conformément aux enseignements que lui avait donnés le prêtre Joïada.
 
-<span class="marginnote nb" label="12:4" name="12:4">12:4</span><span style="display:none">¤12:4¤</span>
- Seulement, les hauts-lieux ne disparurent point; le peuple continuait d’offrir des sacrifices et de l’encens sur les hauts-l
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:4" name="12-4">4</span>
+Seulement, les hauts-lieux ne disparurent point; le peuple continuait d’offrir des sacrifices et de l’encens sur les hauts-lieux.
 
-<span class="marginnote nb" label="12:5" name="12:5">12:5</span><span style="display:none">¤12:5¤</span>
- Joas dit aux prêtres: "Tout l’argent consacré qu’on apporte dans la maison de Dieu, l’argent donné par chaque homme qui est recensé ainsi que celui qui est versé pour l’
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:5" name="12-5">5</span>
+Joas dit aux prêtres: "Tout l’argent consacré qu’on apporte dans la maison de Dieu, l’argent donné par chaque homme qui est recensé ainsi que celui qui est versé pour l’estimation des personnes, et toutes les sommes que chacun, suivant l’impulsion de son cœur, offrira au temple.
 
-<span class="marginnote nb" label="12:6" name="12:6">12:6</span><span style="display:none">¤12:6¤</span>
+<span class="marginnote num" label="12:6" name="12-6">6</span>
 que les prêtres les prennent, chacun des gens de sa connaissance, et qu’ils réparent eux-mêmes les dégradations du temple, partout où il s’en trouvera."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="12:7" name="12:7">12:7</span><span style="display:none">¤12:7¤</span>
+<span class="marginnote num" label="12:7" name="12-7">7</span>
 Or, dans la vingt-troisième année du règne de Joas, les prêtres n’avaient pas encore réparé les dégradations du temple.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="12:8" name="12:8">12:8</span><span style="display:none">¤12:8¤</span>
-Joas manda alors le pontife Joïada et les autres prêtres et leur dit: "Pourquoi ne réparez-vous pas les dégradations du temple? Dorénavant, n’acceptez plus d’argent de vos connaissances, mais affectez-le aux réfections du sa
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:8" name="12-8">8</span>
+Joas manda alors le pontife Joïada et les autres prêtres et leur dit: "Pourquoi ne réparez-vous pas les dégradations du temple? Dorénavant, n’acceptez plus d’argent de vos connaissances, mais affectez-le aux réfections du sanctuaire."
 
-<span class="marginnote nb" label="12:9" name="12:9">12:9</span><span style="display:none">¤12:9¤</span>
+<span class="marginnote num" label="12:9" name="12-9">9</span>
 Les prêtres convinrent de ne plus recevoir d’argent du peuple et de ne pas s’occuper des réparations du temple.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="12:10" name="12:10">12:10</span><span style="display:none">¤12:10¤</span>
- Joïada le prêtre, prit une caisse, perça un trou dans le couvercle, et la plaça à côté de l’autel, à droite de l’entrée du temple, et les prêtres préposés à la garde du seuil y jetaient tout l’argent qu’on apportait dans la
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:10" name="12-10">10</span>
+Joïada le prêtre, prit une caisse, perça un trou dans le couvercle, et la plaça à côté de l’autel, à droite de l’entrée du temple, et les prêtres préposés à la garde du seuil y jetaient tout l’argent qu’on apportait dans la maison de Dieu.
 
-<span class="marginnote nb" label="12:11" name="12:11">12:11</span><span style="display:none">¤12:11¤</span>
- Lorsqu’ils voyaient que l’argent était abondant dans la caisse, le secrétaire du roi et le grand prêtre allaient ramasser et compter la somme qui se trouvait dans 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:11" name="12-11">11</span>
+Lorsqu’ils voyaient que l’argent était abondant dans la caisse, le secrétaire du roi et le grand prêtre allaient ramasser et compter la somme qui se trouvait dans le temple de l’Éternel.
 
-<span class="marginnote nb" label="12:12" name="12:12">12:12</span><span style="display:none">¤12:12¤</span>
- Ils remettaient ensuite l’argent ainsi compté à ceux qui étaient chargés des travaux du temple, et ceux-ci le dépensaient en payant les
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:12" name="12-12">12</span>
+Ils remettaient ensuite l’argent ainsi compté à ceux qui étaient chargés des travaux du temple, et ceux-ci le dépensaient en payant les charpentiers et les architectes qui travaillaient à la maison de Dieu,
 
-<span class="marginnote nb" label="12:13" name="12:13">12:13</span><span style="display:none">¤12:13¤</span>
- ainsi que les maçons et les tailleurs de pierres, et en achetant le bois et les pierres de taille nécessaires aux réparations de la maison de Dieu, enfin pour toute dépense nécessitée par la 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:13" name="12-13">13</span>
+ainsi que les maçons et les tailleurs de pierres, et en achetant le bois et les pierres de taille nécessaires aux réparations de la maison de Dieu, enfin pour toute dépense nécessitée par la restauration du temple.
 
-<span class="marginnote nb" label="12:14" name="12:14">12:14</span><span style="display:none">¤12:14¤</span>
- Cependant, on ne confectionnait pour la maison de Dieu ni bassins d’argent, ni couteaux, ni cuvettes, ni trompettes, ni aucun ustensile d’or et d’argent, avec les sommes apportées au temple.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:14" name="12-14">14</span>
+Cependant, on ne confectionnait pour la maison de Dieu ni bassins d’argent, ni couteaux, ni cuvettes, ni trompettes, ni aucun ustensile d’or et d’argent, avec les sommes apportées au temple.
 
-<span class="marginnote nb" label="12:15" name="12:15">12:15</span><span style="display:none">¤12:15¤</span>
- Elles étaient remises aux directeurs des travaux, qui les consacraient aux réparations de la maison de Dieu.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:15" name="12-15">15</span>
+Elles étaient remises aux directeurs des travaux, qui les consacraient aux réparations de la maison de Dieu.
 
-<span class="marginnote nb" label="12:16" name="12:16">12:16</span><span style="display:none">¤12:16¤</span>
- On ne demandait pas de comptes aux hommes à qui l’on confiait l’argent pour le remettre aux ouvriers, car ils agissaient avec honnêteté.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:16" name="12-16">16</span>
+On ne demandait pas de comptes aux hommes à qui l’on confiait l’argent pour le remettre aux ouvriers, car ils agissaient avec honnêteté.
 
-<span class="marginnote nb" label="12:17" name="12:17">12:17</span><span style="display:none">¤12:17¤</span>
- L’argent provenant des sacrifices délictifs ou expiatoires n’était pas apporté au temple: il appartenait aux prêtres.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:17" name="12-17">17</span>
+L’argent provenant des sacrifices délictifs ou expiatoires n’était pas apporté au temple: il appartenait aux prêtres.
 
-<span class="marginnote nb" label="12:18" name="12:18">12:18</span><span style="display:none">¤12:18¤</span>
- En ce temps-là, Hazaël, roi de Syrie, alla attaquer Gath et s’en empara; puis il se prépara à monter vers Jérusalem.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:18" name="12-18">18</span>
+En ce temps-là, Hazaël, roi de Syrie, alla attaquer Gath et s’en empara; puis il se prépara à monter vers Jérusalem.
 
-<span class="marginnote nb" label="12:19" name="12:19">12:19</span><span style="display:none">¤12:19¤</span>
- Joas roi de Juda, prit tous les objets consacrés par Josaphat, 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:19" name="12-19">19</span>
+Joas roi de Juda, prit tous les objets consacrés par Josaphat, Joram et Achazia, ses aïeux, qui avaient régné sur Juda, avec les objets qu’il avait consacrés lui-même, ainsi que tout l’or contenu dans les trésors du temple, et il les fit remettre à Hazaël, roi de Syrie. Celui-ci s’éloigna alors de Jérusalem.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Pour le reste de l’histoire et des actes de Joas, ils sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:20" name="12-20">20</span>
+Pour le reste de l’histoire et des actes de Joas, ils sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Les serviteurs de Joas, en révolte contre lui, avaient formé un complot et l’avaient frappé dans la maison de Millo, sur le 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:21" name="12-21">21</span>
+Les serviteurs de Joas, en révolte contre lui, avaient formé un complot et l’avaient frappé dans la maison de Millo, sur le chemin qui descend vers Silla.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ C’étaient ses serviteurs Yozakhar, fils de Chimeat, et Yehozabad, fils de Ch
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="12:22" name="12-22">22</span>
+C’étaient ses serviteurs Yozakhar, fils de Chimeat, et Yehozabad, fils de Chomer, qui l’avaient frappé à mort; il fut inhumé avec ses pères dans la Cité de David, et eut pour successeur son fils Amacia.
 
-<span class="marginnote nb" label="13:1" name="13:1">13:1</span><span style="display:none">¤13:1¤</span>
- Dans la vingt-troisième année du règne de Joas, fils d’Achazia, roi de Juda, Joachaz, fils de Jéhu, devint roi d’Israël à Samarie; il régna dix
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:1" name="13-1"><strong>13</strong>:1</span>
+Dans la vingt-troisième année du règne de Joas, fils d’Achazia, roi de Juda, Joachaz, fils de Jéhu, devint roi d’Israël à Samarie; il régna dix-sept ans.
 
-<span class="marginnote nb" label="13:2" name="13:2">13:2</span><span style="display:none">¤13:2¤</span>
-Il fit ce qui déplaît au Seigneur, imitant, sans jamais s’en écarter, la conduite coupable de Jéroboam, fil
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:2" name="13-2">2</span>
+Il fit ce qui déplaît au Seigneur, imitant, sans jamais s’en écarter, la conduite coupable de Jéroboam, fils de Nebat, qui avait fait commettre des péchés à Israël.
 
-<span class="marginnote nb" label="13:3" name="13:3">13:3</span><span style="display:none">¤13:3¤</span>
+<span class="marginnote num" label="13:3" name="13-3">3</span>
 L’Éternel s’irrita contre les Israélites, les livra au pouvoir de Hazaël, roi de Syrie, et de Ben-Hadad, fils de Hazaël, tant que ces rois vécurent.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="13:4" name="13:4">13:4</span><span style="display:none">¤13:4¤</span>
+<span class="marginnote num" label="13:4" name="13-4">4</span>
 Mais Joachaz implora le Seigneur, qui l’exauça, parce qu’il voyait l’oppression que le roi de Syrie faisait peser sur les Israélites.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="13:5" name="13:5">13:5</span><span style="display:none">¤13:5¤</span>
+<span class="marginnote num" label="13:5" name="13-5">5</span>
 Il leur envoya donc un libérateur, qui les arracha à la tyrannie des Syriens, et les Israélites purent de nouveau demeurer dans leurs tentes, comme autrefois.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
 
-<span class="marginnote nb" label="13:6" name="13:6">13:6</span><span style="display:none">¤13:6¤</span>
-Pourtant, ils ne renoncèrent pas aux habitudes impies de la famille de Jéroboam, qui avait fait commettre des péchés à Israël, mais y persistèren
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:6" name="13-6">6</span>
+Pourtant, ils ne renoncèrent pas aux habitudes impies de la famille de Jéroboam, qui avait fait commettre des péchés à Israël, mais y persistèrent; l’Achéra aussi resta à Samarie.
 
-<span class="marginnote nb" label="13:7" name="13:7">13:7</span><span style="display:none">¤13:7¤</span>
-De toute l’armée de Joachaz, il n’était resté que cinquante cavaliers, dix chars et dix mille hommes de pied; le roi de Syrie avait fait périr les autres, en les traitant comme la pou
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:7" name="13-7">7</span>
+De toute l’armée de Joachaz, il n’était resté que cinquante cavaliers, dix chars et dix mille hommes de pied; le roi de Syrie avait fait périr les autres, en les traitant comme la poussière qu’on foule aux pieds.
 
-<span class="marginnote nb" label="13:8" name="13:8">13:8</span><span style="display:none">¤13:8¤</span>
- Pour le surplus de l’histoire de Joachaz, ses travaux et ses exploits, 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:8" name="13-8">8</span>
+Pour le surplus de l’histoire de Joachaz, ses travaux et ses exploits, ils sont mentionnés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="13:9" name="13:9">13:9</span><span style="display:none">¤13:9¤</span>
- Joachaz, s’étant endormi avec ses pères, fut inhumé à Samarie; il eut pour successeur son fils Joas.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:9" name="13-9">9</span>
+Joachaz, s’étant endormi avec ses pères, fut inhumé à Samarie; il eut pour successeur son fils Joas.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ C’est dans la trente-septième année du règne de Joas, roi de Juda, que Joas, fils de Joachaz, devint ro
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:10" name="13-10">10</span>
+C’est dans la trente-septième année du règne de Joas, roi de Juda, que Joas, fils de Joachaz, devint roi d’Israël à Samarie; il régna seize ans.
 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
-¤ Il fit ce qui déplaît au Seigneur, ne cessant d’imiter les actes coupables de Jéroboam, fils de Nebat, qui avait fait commettre des péchés aux Israélites.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:11" name="13-11">11</span>
+Il fit ce qui déplaît au Seigneur, ne cessant d’imiter les actes coupables de Jéroboam, fils de Nebat, qui avait fait commettre des péchés aux Israélites.
 
-<span class="marginnote nb" label="13:12" name="13:12">13:12</span><span style="display:none">¤13:12¤</span>
- Pour le surplus de l’histoire de Joas, ses travaux et ses exploits, lorsqu’il fit la guerre à Amacia, roi ide Juda, ils sont 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:12" name="13-12">12</span>
+Pour le surplus de l’histoire de Joas, ses travaux et ses exploits, lorsqu’il fit la guerre à Amacia, roi ide Juda, ils sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="13:13" name="13:13">13:13</span><span style="display:none">¤13:13¤</span>
- Quand Joas se fut endormi avec ses pères, Jéroboam le remplaça sur le trône; Joas fut enseveli à Samarie 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:13" name="13-13">13</span>
+Quand Joas se fut endormi avec ses pères, Jéroboam le remplaça sur le trône; Joas fut enseveli à Samarie avec les rois d’Israël.
 
-<span class="marginnote nb" label="13:14" name="13:14">13:14</span><span style="display:none">¤13:14¤</span>
- Pendant qu’Élisée souffrait de la maladie dont il mourut, Joas, roi d’Israël, lui rendit visite, se jeta sur lui en pleurant, et 
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:14" name="13-14">14</span>
+Pendant qu’Élisée souffrait de la maladie dont il mourut, Joas, roi d’Israël, lui rendit visite, se jeta sur lui en pleurant, et dit: "Mon père, mon père! Char et cavalerie d’Israël!"
 
-<span class="marginnote nb" label="13:15" name="13:15">13:15</span><span style="display:none">¤13:15¤</span>
- Élisée lui dit: "Prends un arc et des flèches!" Il prit un arc et des flèches.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:15" name="13-15">15</span>
+Élisée lui dit: "Prends un arc et des flèches!" Il prit un arc et des flèches.
 
-<span class="marginnote nb" label="13:16" name="13:16">13:16</span><span style="display:none">¤13:16¤</span>
- Puis il dit encore au roi d’Israël: "Place ta main sur l’arc"; il le fit. Élisée posa ensuite ses mains sur celles du roi.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:16" name="13-16">16</span>
+Puis il dit encore au roi d’Israël: "Place ta main sur l’arc"; il le fit. Élisée posa ensuite ses mains sur celles du roi.
 
-<span class="marginnote nb" label="13:17" name="13:17">13:17</span><span style="display:none">¤13:17¤</span>
- "Ouvre la fenêtre du côté de l’Orient," dit Élisée; Il l’ouvrit. "Tire!" et il tira. Le prophète continu
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:17" name="13-17">17</span>
+"Ouvre la fenêtre du côté de l’Orient," dit Élisée; Il l’ouvrit. "Tire!" et il tira. Le prophète continua: "C’est une flèche libératrice de la part de l’Éternel, une flèche libératrice contre la Syrie; tu battras les Syriens à Afek, et tu les extermineras.
 
-<span class="marginnote nb" label="13:18" name="13:18">13:18</span><span style="display:none">¤13:18¤</span>
- Prends maintenant les flèches," ajouta-t-il il les prit. Ensuite le prophète dit: "Frappe contre terre!" Le roi d’Israël frappa contre terre trois fois, puis s’arrêta
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:18" name="13-18">18</span>
+Prends maintenant les flèches," ajouta-t-il il les prit. Ensuite le prophète dit: "Frappe contre terre!" Le roi d’Israël frappa contre terre trois fois, puis s’arrêta.
 
-<span class="marginnote nb" label="13:19" name="13:19">13:19</span><span style="display:none">¤13:19¤</span>
- L’homme de Dieu se mit en colère et dit: "Tu aurais dû frapper cinq ou six fois! Alors tu aurais battu les Syriens jusqu’à leur complète extermination. Maintenant, tu ne les battras que trois fois..."
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:19" name="13-19">19</span>
+L’homme de Dieu se mit en colère et dit: "Tu aurais dû frapper cinq ou six fois! Alors tu aurais battu les Syriens jusqu’à leur complète extermination. Maintenant, tu ne les battras que trois fois..."
 
-<span class="marginnote nb" label="13:20" name="13:20">13:20</span><span style="display:none">¤13:20¤</span>
- Élisée mourut, et on l’enterra. L’année suivante, des bandes de Moabites faisaient des incursions dans le pays.
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:20" name="13-20">20</span>
+Élisée mourut, et on l’enterra. L’année suivante, des bandes de Moabites faisaient des incursions dans le pays.
 
-<span class="marginnote nb" label="13:21" name="13:21">13:21</span><span style="display:none">¤13:21¤</span>
- Des gens aperçurent une de ces bandes un jour qu’ils enterraient quelqu’un; ils jetèrent le corps dans le sépulcre d’Élis
-<span class="marginnote nb" label="1:1" name="1:1">1:1</span><span style="display:none">¤1:1¤</span>
+<span class="marginnote num" label="13:21" name="13-21">21</span>
+Des gens aperçurent une de ces bandes un jour qu’ils enterraient quelqu’un; ils jetèrent le corps dans le sépulcre d’Élisée. Au contact des ossements d’Élisée, le défunt ressuscita et se remit debout.
 
-<span class="marginnote nb" label="13:22" name="13:22">13:22</span><span style="display:none">¤13:22¤</span>
- Hazaël, roi de Syrie, opprima les Israélites tant que vécut Joachaz.
+<span class="marginnote num" label="13:22" name="13-22">22</span>
+Hazaël, roi de Syrie, opprima les Israélites tant que vécut Joachaz.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
- L’Éternel redevint bienveillant à leur égard et, les prenant en pitié, se tourna vers eux à cause de son alliance avec Abraham, Isaac et Jacob; car il ne voulut pas les détruire, et jusqu’à présent il ne les a jamais repoussés loin de lui.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="13:23" name="13-23">23</span>
+L’Éternel redevint bienveillant à leur égard et, les prenant en pitié, se tourna vers eux à cause de son alliance avec Abraham, Isaac et Jacob; car il ne voulut pas les détruire, et jusqu’à présent il ne les a jamais repoussés loin de lui.
 
-<span class="marginnote nb" label="13:24" name="13:24">13:24</span><span style="display:none">¤13:24¤</span>
- Hazaël, roi de Syrie, mourut, et il eut pour successeur son fils Ben-Hadad.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="13:24" name="13-24">24</span>
+Hazaël, roi de Syrie, mourut, et il eut pour successeur son fils Ben-Hadad.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Alors Joas, fils de Joachaz, reprit à Ben-Hadad, fils de Hazaël, les villes enlevées, à la suite de guerres, à son père Joachaz. J
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="13:25" name="13-25">25</span>
+Alors Joas, fils de Joachaz, reprit à Ben-Hadad, fils de Hazaël, les villes enlevées, à la suite de guerres, à son père Joachaz. Joas le battit trois fois et reconquit les villes d’Israël.
 
-<span class="marginnote nb" label="14:1" name="14:1">14:1</span><span style="display:none">¤14:1¤</span>
- Dans la deuxième année du règne de Joas, fils de Joachaz, roi d’Israël, Amacia, fils de Joas, devint roi de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:1" name="14-1"><strong>14</strong>:1</span>
+Dans la deuxième année du règne de Joas, fils de Joachaz, roi d’Israël, Amacia, fils de Joas, devint roi de Juda.
 
-<span class="marginnote nb" label="14:2" name="14:2">14:2</span><span style="display:none">¤14:2¤</span>
- Agé de vingt-cinq ans lors de son avènement, il régna vingt-neuf ans à Jérusalem. Le nom de sa mère était Yehoaddân, de Jérusalem.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:2" name="14-2">2</span>
+Agé de vingt-cinq ans lors de son avènement, il régna vingt-neuf ans à Jérusalem. Le nom de sa mère était Yehoaddân, de Jérusalem.
 
-<span class="marginnote nb" label="14:3" name="14:3">14:3</span><span style="display:none">¤14:3¤</span>
- Il fit ce qui est droit aux yeux de l’Éternel, non à la vérité autant que son aïeul David, mais il suivit en tout l’exemple d
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:3" name="14-3">3</span>
+Il fit ce qui est droit aux yeux de l’Éternel, non à la vérité autant que son aïeul David, mais il suivit en tout l’exemple de Joas, son père.
 
-<span class="marginnote nb" label="14:4" name="14:4">14:4</span><span style="display:none">¤14:4¤</span>
+<span class="marginnote num" label="14:4" name="14-4">4</span>
 Néanmoins, les hauts-lieux ne disparurent pas: le peuple continua d’offrir des sacrifices et de l’encens sur les hauts-lieux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="14:5" name="14:5">14:5</span><span style="display:none">¤14:5¤</span>
-Lorsque la royauté se trouva consolidée entre ses mains, il frappa ses serviteurs q
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:5" name="14-5">5</span>
+Lorsque la royauté se trouva consolidée entre ses mains, il frappa ses serviteurs qui avaient assassiné le roi son père.
 
-<span class="marginnote nb" label="14:6" name="14:6">14:6</span><span style="display:none">¤14:6¤</span>
-Mais il ne fit point périr les enfants des meurtriers, suivant en cela ce qui est écrit dans le livre de la Loi de Moïse, promulguée par l’Éternel: "Les parents ne seront pas mis 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:6" name="14-6">6</span>
+Mais il ne fit point périr les enfants des meurtriers, suivant en cela ce qui est écrit dans le livre de la Loi de Moïse, promulguée par l’Éternel: "Les parents ne seront pas mis à mort à cause des enfants, ni les enfants à cause des parents; mais chacun subira la mort pour son seul méfait."
 
-<span class="marginnote nb" label="14:7" name="14:7">14:7</span><span style="display:none">¤14:7¤</span>
-Le même Amacia tua à Edom, dans la vallée du Sel, dix mille hommes et conquit Séla par la guerre. Il donna à cette ville le nom de Y
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:7" name="14-7">7</span>
+Le même Amacia tua à Edom, dans la vallée du Sel, dix mille hommes et conquit Séla par la guerre. Il donna à cette ville le nom de Yokteël, qu’elle porte encore aujourd’hui.
 
-<span class="marginnote nb" label="14:8" name="14:8">14:8</span><span style="display:none">¤14:8¤</span>
-Ensuite Amacia envoya des messagers à Joas, fils de Joachaz, fils de Jéhu, lui faisant dire:
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:8" name="14-8">8</span>
+Ensuite Amacia envoya des messagers à Joas, fils de Joachaz, fils de Jéhu, lui faisant dire: "Allons nous mesurer ensemble!"
 
-<span class="marginnote nb" label="14:9" name="14:9">14:9</span><span style="display:none">¤14:9¤</span>
-Joas, roi d’Israël, adressa à son tour ce message à Amacia, roi de Juda: "Le buisson sur le Liban fit dire au c
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:9" name="14-9">9</span>
+Joas, roi d’Israël, adressa à son tour ce message à Amacia, roi de Juda: "Le buisson sur le Liban fit dire au cèdre dix Liban: Accorde ta fille comme épouse à mon fils. Mais une bête sauvage du Liban vint à passer et écrasa le buisson.
 
-<span class="marginnote nb" label="14:10" name="14:10">14:10</span><span style="display:none">¤14:10¤</span>
- A la vérité, tu as battu Edom et ton cœur s’est gonflé. Garde ton honneur et reste à la
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:10" name="14-10">10</span>
+A la vérité, tu as battu Edom et ton cœur s’est gonflé. Garde ton honneur et reste à la maison. Pourquoi courir au-devant d’un désastre et t’exposer à tomber, toi et Juda avec toi?"
 
-<span class="marginnote nb" label="14:11" name="14:11">14:11</span><span style="display:none">¤14:11¤</span>
- Mais Amacia ne voulut rien entendre. Alors Joas, roi d’Israël, monta, et ils en vinrent aux mains, lui et Amacia, roi
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:11" name="14-11">11</span>
+Mais Amacia ne voulut rien entendre. Alors Joas, roi d’Israël, monta, et ils en vinrent aux mains, lui et Amacia, roi de Juda, à Beth-Chémech, sur le territoire de Juda.
 
-<span class="marginnote nb" label="14:12" name="14:12">14:12</span><span style="display:none">¤14:12¤</span>
- Juda essuya une défaite devant Israël, et ils s’enfuirent tous dans leurs tentes.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:12" name="14-12">12</span>
+Juda essuya une défaite devant Israël, et ils s’enfuirent tous dans leurs tentes.
 
-<span class="marginnote nb" label="14:13" name="14:13">14:13</span><span style="display:none">¤14:13¤</span>
- Quant à Amacia, roi de Juda, fils de Joas, fils d’Achazia, Joas, roi d’Israël, le fit prisonnier à Beth-Chémech; ensuite, il se rendit à Jérusalem, dont il abattit le rempart, depuis la porte d’Ephraïm jusqu’à la porte de l’Angle, sur une longueur d
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:13" name="14-13">13</span>
+Quant à Amacia, roi de Juda, fils de Joas, fils d’Achazia, Joas, roi d’Israël, le fit prisonnier à Beth-Chémech; ensuite, il se rendit à Jérusalem, dont il abattit le rempart, depuis la porte d’Ephraïm jusqu’à la porte de l’Angle, sur une longueur de quatre cents coudées.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Il enleva tout l’or et l’argent, et tous les vases qui se trouvaient dans la maison de Dieu et dans le
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:14" name="14-14">14</span>
+Il enleva tout l’or et l’argent, et tous les vases qui se trouvaient dans la maison de Dieu et dans les trésors du palais royal ainsi que les otages, et s’en retourna à Samarie.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Quant au surplus des faits accomplis par Joas, ses exploits et ses luttes avec Amacia, roi d
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:15" name="14-15">15</span>
+Quant au surplus des faits accomplis par Joas, ses exploits et ses luttes avec Amacia, roi de Juda, ils sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Joas s’endormit avec ses aïeux et fut enterré à Samarie à côté des rois d’Israël. Jéroboam, son fils, lui succéda dans la royauté.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:16" name="14-16">16</span>
+Joas s’endormit avec ses aïeux et fut enterré à Samarie à côté des rois d’Israël. Jéroboam, son fils, lui succéda dans la royauté.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Après la mort de Joas, fils de Joachaz, roi d’Israël, Amacia, fils de Joas, roi de Juda, régna encore quinze ans.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:17" name="14-17">17</span>
+Après la mort de Joas, fils de Joachaz, roi d’Israël, Amacia, fils de Joas, roi de Juda, régna encore quinze ans.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le reste des actes d’Amacia se trouve consigné dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:18" name="14-18">18</span>
+Le reste des actes d’Amacia se trouve consigné dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="14:19" name="14:19">14:19</span><span style="display:none">¤14:19¤</span>
- On forma un complot contre lui à Jérusalem; il se réfugia à Lakhich. On envoya des gens à sa poursuite da
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:19" name="14-19">19</span>
+On forma un complot contre lui à Jérusalem; il se réfugia à Lakhich. On envoya des gens à sa poursuite dans cette ville, et ils l’y mirent à mort.
 
-<span class="marginnote nb" label="14:20" name="14:20">14:20</span><span style="display:none">¤14:20¤</span>
- Puis on le transporta à dos de cheval, et il fut enseveli à Jérusalem, avec ses aïeux, dans la Cité de David.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:20" name="14-20">20</span>
+Puis on le transporta à dos de cheval, et il fut enseveli à Jérusalem, avec ses aïeux, dans la Cité de David.
 
-<span class="marginnote nb" label="14:21" name="14:21">14:21</span><span style="display:none">¤14:21¤</span>
- Tout le peuple de Juda prit Azaria, alors âgé de seize ans, et le proclama roi à la place de son père Amacia.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:21" name="14-21">21</span>
+Tout le peuple de Juda prit Azaria, alors âgé de seize ans, et le proclama roi à la place de son père Amacia.
 
-<span class="marginnote nb" label="14:22" name="14:22">14:22</span><span style="display:none">¤14:22¤</span>
- Il rebâtit Elat et la restitua à Juda, après que le roi se fut endormi avec ses aïeux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:22" name="14-22">22</span>
+Il rebâtit Elat et la restitua à Juda, après que le roi se fut endormi avec ses aïeux.
 
-<span class="marginnote nb" label="14:23" name="14:23">14:23</span><span style="display:none">¤14:23¤</span>
- La quinzième année d’Amacia, fils de Joas, roi de Juda, Jéroboam, fils de Joas, devint roi d’Israël à Samarie, où il régna quarante et un ans.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:23" name="14-23">23</span>
+La quinzième année d’Amacia, fils de Joas, roi de Juda, Jéroboam, fils de Joas, devint roi d’Israël à Samarie, où il régna quarante et un ans.
 
-<span class="marginnote nb" label="14:24" name="14:24">14:24</span><span style="display:none">¤14:24¤</span>
- Il fit le mal aux yeux de l’Éternel, et n’évita aucun des pêchés de Jéroboam, fils de Nebat, qui avait égaré Isr
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:24" name="14-24">24</span>
+Il fit le mal aux yeux de l’Éternel, et n’évita aucun des pêchés de Jéroboam, fils de Nebat, qui avait égaré Israël.
 
-<span class="marginnote nb" label="14:25" name="14:25">14:25</span><span style="display:none">¤14:25¤</span>
- Il rétablit la frontière d’Israël depuis les environs de Hamat jusqu’à la mer de la Plaine, accomplissant la parole de l’Éternel, Dieu 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:25" name="14-25">25</span>
+Il rétablit la frontière d’Israël depuis les environs de Hamat jusqu’à la mer de la Plaine, accomplissant la parole de l’Éternel, Dieu d’Israël, énoncée par l’organe de son serviteur Jonas, fils d’Amittaï, le prophète originaire de Gath-Hahêfer.
 
-<span class="marginnote nb" label="14:26" name="14:26">14:26</span><span style="display:none">¤14:26¤</span>
- L’Éternel avait, en effet, vu la misère extrêmement cruelle d’Israël, son manque de ressources, grandes ou petites, sans personne pour lui prêter assistance.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:26" name="14-26">26</span>
+L’Éternel avait, en effet, vu la misère extrêmement cruelle d’Israël, son manque de ressources, grandes ou petites, sans personne pour lui prêter assistance.
 
-<span class="marginnote nb" label="14:27" name="14:27">14:27</span><span style="display:none">¤14:27¤</span>
- Ne voulant pas effacer le nom d’Israël de dessous les cieux, l’Éternel leur porta secours par la main de Jéroboam, fils de Joas.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:27" name="14-27">27</span>
+Ne voulant pas effacer le nom d’Israël de dessous les cieux, l’Éternel leur porta secours par la main de Jéroboam, fils de Joas.
 
-<span class="marginnote nb" label="14:28" name="14:28">14:28</span><span style="display:none">¤14:28¤</span>
- Le reste des actes de Jéroboam, tous les faits accomplis par lui, les victoires qu’il remporta et qui lui permirent de restituer à Israël Damas et Hamat, jadis possessions de Juda, tout cela est consigné dans le livre des
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:28" name="14-28">28</span>
+Le reste des actes de Jéroboam, tous les faits accomplis par lui, les victoires qu’il remporta et qui lui permirent de restituer à Israël Damas et Hamat, jadis possessions de Juda, tout cela est consigné dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="14:29" name="14:29">14:29</span><span style="display:none">¤14:29¤</span>
- Jéroboam s’endormit avec ses aïeux, les rois d’Israël, et son fils Zacharie lui succéda sur le trône.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="14:29" name="14-29">29</span>
+Jéroboam s’endormit avec ses aïeux, les rois d’Israël, et son fils Zacharie lui succéda sur le trône.
 
-<span class="marginnote nb" label="15:1" name="15:1">15:1</span><span style="display:none">¤15:1¤</span>
+<span class="marginnote num" label="15:1" name="15-1"><strong>15</strong>:1</span>
 La vingt-septième année du règne de Jéroboam, roi d’Israël, Azaria, fils d’Amacia, devint roi de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="15:2" name="15:2">15:2</span><span style="display:none">¤15:2¤</span>
+<span class="marginnote num" label="15:2" name="15-2">2</span>
 Agé de seize ans à son avènement, il régna cinquante-deux ans à Jérusalem; le nom de sa mère était Yekhalyahou, de Jérusalem.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="15:3" name="15:3">15:3</span><span style="display:none">¤15:3¤</span>
+<span class="marginnote num" label="15:3" name="15-3">3</span>
 Il fit ce qui est droit aux yeux de l’Éternel, suivant en tout l’exemple de son père Amacia.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="15:4" name="15:4">15:4</span><span style="display:none">¤15:4¤</span>
- Toutefois, les hauts-lieux ne disparurent point: le peuple continua d’y offrir des sacrifices et de l’e
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:4" name="15-4">4</span>
+Toutefois, les hauts-lieux ne disparurent point: le peuple continua d’y offrir des sacrifices et de l’encens.
 
-<span class="marginnote nb" label="15:5" name="15:5">15:5</span><span style="display:none">¤15:5¤</span>
- Le Seigneur frappa le roi de maladie: il resta atteint de lèpre jusqu’au jour de sa mort et demeura dans une maison d’isolement. Jotham, fils du roi, préposé au palais, gouvernait les gens
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:5" name="15-5">5</span>
+Le Seigneur frappa le roi de maladie: il resta atteint de lèpre jusqu’au jour de sa mort et demeura dans une maison d’isolement. Jotham, fils du roi, préposé au palais, gouvernait les gens du pays.
 
-<span class="marginnote nb" label="15:6" name="15:6">15:6</span><span style="display:none">¤15:6¤</span>
- Le reste de l’histoire d’Azaria et tous ses actes sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:6" name="15-6">6</span>
+Le reste de l’histoire d’Azaria et tous ses actes sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="15:7" name="15:7">15:7</span><span style="display:none">¤15:7¤</span>
- Azaria s’endormit avec ses aïeux; on l’enterra à côté d’eux dans la Cité de David, et son fils Jotham lui succéda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:7" name="15-7">7</span>
+Azaria s’endormit avec ses aïeux; on l’enterra à côté d’eux dans la Cité de David, et son fils Jotham lui succéda.
 
-<span class="marginnote nb" label="15:8" name="15:8">15:8</span><span style="display:none">¤15:8¤</span>
- La trente-huitième année du règne d’Azaria, roi de Juda, Zacharie, fils de Jéroboam, devint roi d’Israël à Samarie; il régna six mois.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:8" name="15-8">8</span>
+La trente-huitième année du règne d’Azaria, roi de Juda, Zacharie, fils de Jéroboam, devint roi d’Israël à Samarie; il régna six mois.
 
-<span class="marginnote nb" label="15:9" name="15:9">15:9</span><span style="display:none">¤15:9¤</span>
+<span class="marginnote num" label="15:9" name="15-9">9</span>
 Il fit ce qui est mal aux yeux de l’Éternel tout comme ses pères; il ne renonça point aux prévarications de Jéroboam, fils de Nebat, qui avait poussé Israël au péché.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="15:10" name="15:10">15:10</span><span style="display:none">¤15:10¤</span>
- Challoum, fils de Yabêch, complota contre lui, le frappa en présence du peuple et le mit à mort; puis il prit la royauté à sa p
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:10" name="15-10">10</span>
+Challoum, fils de Yabêch, complota contre lui, le frappa en présence du peuple et le mit à mort; puis il prit la royauté à sa place.
 
-<span class="marginnote nb" label="15:11" name="15:11">15:11</span><span style="display:none">¤15:11¤</span>
- Les autres détails de l’histoire de Zacharie sont consignés dans le livre des annales des rois d’Israël.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:11" name="15-11">11</span>
+Les autres détails de l’histoire de Zacharie sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="15:12" name="15:12">15:12</span><span style="display:none">¤15:12¤</span>
- Ainsi s’accomplit la parole du Seigneur adressée à Jéhu: "Tes descendants, jusqu’à la quatrième génération, s’asseoiront sur le trône d’Israël;" ce qui arriva en effet.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:12" name="15-12">12</span>
+Ainsi s’accomplit la parole du Seigneur adressée à Jéhu: "Tes descendants, jusqu’à la quatrième génération, s’asseoiront sur le trône d’Israël;" ce qui arriva en effet.
 
-<span class="marginnote nb" label="15:13" name="15:13">15:13</span><span style="display:none">¤15:13¤</span>
- Challoum, fils de Yabéch, devint roi la trente-neuvième année du règne d’Ouzia, roi de Juda; il 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:13" name="15-13">13</span>
+Challoum, fils de Yabéch, devint roi la trente-neuvième année du règne d’Ouzia, roi de Juda; il régna un mois à Sa-marie.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Menahem, fils de Gadi, monta de Tirça et se rendit à Samarie; là, il frappa Challoum, fils de Yabéch, le fit mourir et pri
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:14" name="15-14">14</span>
+Menahem, fils de Gadi, monta de Tirça et se rendit à Samarie; là, il frappa Challoum, fils de Yabéch, le fit mourir et prit la royauté à sa place.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le reste de l’histoire de Chailoum et le complot qu’il avait organisé sont consignés dans le livre 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:15" name="15-15">15</span>
+Le reste de l’histoire de Chailoum et le complot qu’il avait organisé sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Menahem, tout aussitôt, attaqua la ville de Tifsah et tout ce qui s’y trouvait, ainsi que sa banlieue depuis Tirça. Il s
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:16" name="15-16">16</span>
+Menahem, tout aussitôt, attaqua la ville de Tifsah et tout ce qui s’y trouvait, ainsi que sa banlieue depuis Tirça. Il sévit parce qu’elle n’avait pas ouvert ses portes et fit fendre le sein à toutes ses femmes enceintes.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ La trente-neuvième année du règne d’Azaria, roi de Juda, Menahem, fils de Gadi, devint roi d’Israël; il régna dix ans à Samarie.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:17" name="15-17">17</span>
+La trente-neuvième année du règne d’Azaria, roi de Juda, Menahem, fils de Gadi, devint roi d’Israël; il régna dix ans à Samarie.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ li fit ce qui est mal aux yeux du Seigneur, ne renonçant pas aux prévarications de Jéroboam, fils de Nebat, qui, toute sa vie durant, avait poussé Israël au péché.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:18" name="15-18">18</span>
+li fit ce qui est mal aux yeux du Seigneur, ne renonçant pas aux prévarications de Jéroboam, fils de Nebat, qui, toute sa vie durant, avait poussé Israël au péché.
 
-<span class="marginnote nb" label="15:19" name="15:19">15:19</span><span style="display:none">¤15:19¤</span>
- Phoul, roi d’Assyrie, ayant envahi le pays, Menahem lui donna mille kikkar d’argent pour obtenir son appui et affermir ainsi la royauté entre ses mains.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:19" name="15-19">19</span>
+Phoul, roi d’Assyrie, ayant envahi le pays, Menahem lui donna mille kikkar d’argent pour obtenir son appui et affermir ainsi la royauté entre ses mains.
 
-<span class="marginnote nb" label="15:20" name="15:20">15:20</span><span style="display:none">¤15:20¤</span>
- Menahem rejeta la charge de cette somme d’argent sur Israël, sur tous les gens riches, les obligeant de verser pour le roi d’Assyrie cinquante sicles par personne. Le roi d’Assyrie s’en retourna et n’occupa point le pays.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:20" name="15-20">20</span>
+Menahem rejeta la charge de cette somme d’argent sur Israël, sur tous les gens riches, les obligeant de verser pour le roi d’Assyrie cinquante sicles par personne. Le roi d’Assyrie s’en retourna et n’occupa point le pays.
 
-<span class="marginnote nb" label="15:21" name="15:21">15:21</span><span style="display:none">¤15:21¤</span>
- Le reste de l’histoire de Menahem et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:21" name="15-21">21</span>
+Le reste de l’histoire de Menahem et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="15:22" name="15:22">15:22</span><span style="display:none">¤15:22¤</span>
- Menahem s’endormit avec ses aïeux, et son fils Pekahia lui succéda sur le trône.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:22" name="15-22">22</span>
+Menahem s’endormit avec ses aïeux, et son fils Pekahia lui succéda sur le trône.
 
-<span class="marginnote nb" label="15:23" name="15:23">15:23</span><span style="display:none">¤15:23¤</span>
- Dans la cinquantième année du règne d’Azaria, roi de Juda, Pekahia, fils de Menahem, devint roi d’Israël à 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:23" name="15-23">23</span>
+Dans la cinquantième année du règne d’Azaria, roi de Juda, Pekahia, fils de Menahem, devint roi d’Israël à Samarie; il régna deux ans.
 
-<span class="marginnote nb" label="15:24" name="15:24">15:24</span><span style="display:none">¤15:24¤</span>
- Il fit ce qui est mal aux yeux du Seigneur, ne s’écartant point des prévarications de Jéroboam, fils de Nebat, qui avait poussé Israël au péché.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:24" name="15-24">24</span>
+Il fit ce qui est mal aux yeux du Seigneur, ne s’écartant point des prévarications de Jéroboam, fils de Nebat, qui avait poussé Israël au péché.
 
-<span class="marginnote nb" label="15:25" name="15:25">15:25</span><span style="display:none">¤15:25¤</span>
- Pékah, fils de Remaliahou, son général, complota contre lui et le frappa à Samarie, dans la citadelle du palais royal, de concert avec Argob et Arié et avec le concours de cinquante hommes d’entre les G
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:25" name="15-25">25</span>
+Pékah, fils de Remaliahou, son général, complota contre lui et le frappa à Samarie, dans la citadelle du palais royal, de concert avec Argob et Arié et avec le concours de cinquante hommes d’entre les Galaadites; l’ayant mis à mort, il régna à sa place.
 
-<span class="marginnote nb" label="15:26" name="15:26">15:26</span><span style="display:none">¤15:26¤</span>
- Le reste de l’histoire de Pekahia et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:26" name="15-26">26</span>
+Le reste de l’histoire de Pekahia et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="15:27" name="15:27">15:27</span><span style="display:none">¤15:27¤</span>
- Dans la cinquante-deuxième année du règne d’Azaria, roi de Juda, Pékah, fils de Remaliahou, devint roi d’Israël à Samarie; il régna vingt ans.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:27" name="15-27">27</span>
+Dans la cinquante-deuxième année du règne d’Azaria, roi de Juda, Pékah, fils de Remaliahou, devint roi d’Israël à Samarie; il régna vingt ans.
 
-<span class="marginnote nb" label="15:28" name="15:28">15:28</span><span style="display:none">¤15:28¤</span>
- Il fit ce qui est mal aux yeux du Seigneur, ne s’écartant point des prévarications de Jéroboam, fils de Nebat, qui avait poussé Israël au péché.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:28" name="15-28">28</span>
+Il fit ce qui est mal aux yeux du Seigneur, ne s’écartant point des prévarications de Jéroboam, fils de Nebat, qui avait poussé Israël au péché.
 
-<span class="marginnote nb" label="15:29" name="15:29">15:29</span><span style="display:none">¤15:29¤</span>
- Au temps de Pékah, roi d’Israël, Tiglat-Pilésser, roi d’Assyrie, survint et conquit Iyyôn, Abel-Beth-Maakha, Yanoah, Kédech, Haçor, le Galaad, la Gali
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:29" name="15-29">29</span>
+Au temps de Pékah, roi d’Israël, Tiglat-Pilésser, roi d’Assyrie, survint et conquit Iyyôn, Abel-Beth-Maakha, Yanoah, Kédech, Haçor, le Galaad, la Galilée, tout le pays de Nephtali, et en déporta les habitants en Assyrie.
 
-<span class="marginnote nb" label="15:30" name="15:30">15:30</span><span style="display:none">¤15:30¤</span>
- Osée, fils d’Ela, forma un complot contre Pékah, fils de Remaliahou, le frappa et le fit mourir il prit la royauté à sa place 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:30" name="15-30">30</span>
+Osée, fils d’Ela, forma un complot contre Pékah, fils de Remaliahou, le frappa et le fit mourir il prit la royauté à sa place la vingtième année de Jotham, fils d’Ouzia.
 
-<span class="marginnote nb" label="15:31" name="15:31">15:31</span><span style="display:none">¤15:31¤</span>
- Le reste de l’histoire de Pékah et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:31" name="15-31">31</span>
+Le reste de l’histoire de Pékah et tous ses actes sont consignés dans le livre des annales des rois d’Israël.
 
-<span class="marginnote nb" label="15:32" name="15:32">15:32</span><span style="display:none">¤15:32¤</span>
- Dans la deuxième année de Pékah, fils de Remaliahou, roi d’Israël, Jotham, fils d’Ouzia, était devenu roi de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:32" name="15-32">32</span>
+Dans la deuxième année de Pékah, fils de Remaliahou, roi d’Israël, Jotham, fils d’Ouzia, était devenu roi de Juda.
 
-<span class="marginnote nb" label="15:33" name="15:33">15:33</span><span style="display:none">¤15:33¤</span>
- Agé de vingt-cinq ans à son avènement, il régna seize ans à Jérusalem le nom de sa mère était Yeroucha, fille 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:33" name="15-33">33</span>
+Agé de vingt-cinq ans à son avènement, il régna seize ans à Jérusalem le nom de sa mère était Yeroucha, fille de Çadok.
 
-<span class="marginnote nb" label="15:34" name="15:34">15:34</span><span style="display:none">¤15:34¤</span>
- Il fit ce qui est droit aux yeux du Seigneur, agissant en tout comme avait agi Ouzia, son père.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:34" name="15-34">34</span>
+Il fit ce qui est droit aux yeux du Seigneur, agissant en tout comme avait agi Ouzia, son père.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Toutefois, les hauts-lieux ne disparurent point: le peuple continua d’offrir sacrifices et encens sur les hauts-lieux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:35" name="15-35">35</span>
+Toutefois, les hauts-lieux ne disparurent point: le peuple continua d’offrir sacrifices et encens sur les hauts-lieux. C’est Jotham qui bâtit la porte supérieure de la maison de l’Éternel.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le reste de l’histoire de Jotham et tous les actes accomplis par lui sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:36" name="15-36">36</span>
+Le reste de l’histoire de Jotham et tous les actes accomplis par lui sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ A cette époque, Dieu commença à lancer contre Juda Recîn, roi de Syrie, et Pékah, fils de Remaliahou.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:37" name="15-37">37</span>
+A cette époque, Dieu commença à lancer contre Juda Recîn, roi de Syrie, et Pékah, fils de Remaliahou.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Jotham s’endormit avec ses aïeux et fut enseveli à côté d’eux, dans la Cité de son aïeul David. Achaz, son fils, lui succéda sur le trône.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="15:38" name="15-38">38</span>
+Jotham s’endormit avec ses aïeux et fut enseveli à côté d’eux, dans la Cité de son aïeul David. Achaz, son fils, lui succéda sur le trône.
 
-<span class="marginnote nb" label="16:1" name="16:1">16:1</span><span style="display:none">¤16:1¤</span>
+<span class="marginnote num" label="16:1" name="16-1"><strong>16</strong>:1</span>
 La dix-septième année de Pékah, fils de Remaliahou, Achaz, fils de Jotham, monta sur le trône de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:2" name="16:2">16:2</span><span style="display:none">¤16:2¤</span>
+<span class="marginnote num" label="16:2" name="16-2">2</span>
 Achaz avait vingt ans à son avènement, et il régna seize ans à Jérusalem; il ne fit pas ce qui est droit aux yeux de l’Éternel, son Dieu, comme l’avait fait David, son aïeul.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:3" name="16:3">16:3</span><span style="display:none">¤16:3¤</span>
+<span class="marginnote num" label="16:3" name="16-3">3</span>
 Au contraire, il suivit l’exemple des rois d’Israël. Il fit même passer son fils par le feu, imitant les abominations des peuples que Dieu avait dépossédés au profit des enfants d’Israël.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:4" name="16:4">16:4</span><span style="display:none">¤16:4¤</span>
+<span class="marginnote num" label="16:4" name="16-4">4</span>
 Il offrit des sacrifices et de l’encens sur les hauts-lieux et les collines et sous tous les arbres verdoyants.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:5" name="16:5">16:5</span><span style="display:none">¤16:5¤</span>
-C’est alors que vinrent l’attaquer à Jérusalem Recîn, roi de Syrie, et Pékah, fils de Remaliahou, roi d’Israël; ils assiégèrent Achaz, mais ne purent le combattre victorieusemen
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:5" name="16-5">5</span>
+C’est alors que vinrent l’attaquer à Jérusalem Recîn, roi de Syrie, et Pékah, fils de Remaliahou, roi d’Israël; ils assiégèrent Achaz, mais ne purent le combattre victorieusement.
 
-<span class="marginnote nb" label="16:6" name="16:6">16:6</span><span style="display:none">¤16:6¤</span>
+<span class="marginnote num" label="16:6" name="16-6">6</span>
 Vers ce temps, Recîn, roi de Syrie, restitua Elat à la Syrie et expulsa de cette ville les Judéens. Les Syriens revinrent à Elat, qu’ils occupent encore aujourd’hui.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:7" name="16:7">16:7</span><span style="display:none">¤16:7¤</span>
+<span class="marginnote num" label="16:7" name="16-7">7</span>
 Alors Achaz envoya des ambassadeurs à Tiglat-Pilésser, roi d’Assyrie, pour lui dire "Je suis ton serviteur et ton fils. Viens et sauve-moi des mains du roi de Syrie et du roi d’Israël qui m’ont attaqué."
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:8" name="16:8">16:8</span><span style="display:none">¤16:8¤</span>
+<span class="marginnote num" label="16:8" name="16-8">8</span>
 Achaz prit l’argent et l’or qui se trouvaient dans le temple de l’Éternel et dans les trésors du palais royal et les envoya en présent au roi d’Assyrie.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:9" name="16:9">16:9</span><span style="display:none">¤16:9¤</span>
+<span class="marginnote num" label="16:9" name="16-9">9</span>
 Celui-ci, cédant à sa prière, attaqua Damas, s’en rendit maître et en déporta les habitants à Kir; quant à Recîn, il le fit mettre à mort.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="16:10" name="16:10">16:10</span><span style="display:none">¤16:10¤</span>
- Le roi Achaz alla alors à la rencontre de Tiglat-Pilésser, à Damas. Ayant remarqué l’autel de cette ville, il fit parvenir à Ouria, le pontife, le dessin et le plan 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:10" name="16-10">10</span>
+Le roi Achaz alla alors à la rencontre de Tiglat-Pilésser, à Damas. Ayant remarqué l’autel de cette ville, il fit parvenir à Ouria, le pontife, le dessin et le plan de l’autel dans tous ses détails.
 
-<span class="marginnote nb" label="16:11" name="16:11">16:11</span><span style="display:none">¤16:11¤</span>
- Ourla, le pontife, construisit un autel semblable et l’exécuta tout à fait selon le modèle que le roi Achaz lui avait expédié de Damas, avant même le retour d’Achaz de cette ville.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:11" name="16-11">11</span>
+Ourla, le pontife, construisit un autel semblable et l’exécuta tout à fait selon le modèle que le roi Achaz lui avait expédié de Damas, avant même le retour d’Achaz de cette ville.
 
-<span class="marginnote nb" label="16:12" name="16:12">16:12</span><span style="display:none">¤16:12¤</span>
- Revenu de Damas, le roi vit l’autel; il s’en approcha et y monta.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:12" name="16-12">12</span>
+Revenu de Damas, le roi vit l’autel; il s’en approcha et y monta.
 
-<span class="marginnote nb" label="16:13" name="16:13">16:13</span><span style="display:none">¤16:13¤</span>
- Il y fit consumer son holocauste et son oblation, y répandit des libations, et aspergea l’autel du sang de ses rémunératoires.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:13" name="16-13">13</span>
+Il y fit consumer son holocauste et son oblation, y répandit des libations, et aspergea l’autel du sang de ses rémunératoires.
 
-<span class="marginnote nb" label="16:14" name="16:14">16:14</span><span style="display:none">¤16:14¤</span>
- Quant à l’autel d’airain qui était devant l’Éternel, il le déplaça de devant le temple, où il se trouvait éta
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:14" name="16-14">14</span>
+Quant à l’autel d’airain qui était devant l’Éternel, il le déplaça de devant le temple, où il se trouvait établi entre le nouvel autel et le temple de l’Éternel, et il l’érigea à l’angle nord de cet autel.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le roi Achaz fit cette recommandation au pontife Ouria: "Sur le grand autel fais fumer l’holocauste du matin, l’oblation du soir,
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:15" name="16-15">15</span>
+Le roi Achaz fit cette recommandation au pontife Ouria: "Sur le grand autel fais fumer l’holocauste du matin, l’oblation du soir, l’holocauste et l’oblation du roi, et l’holocauste ainsi que l’oblation de tout le peuple, fais-y leurs libations et asperge-le de tout le sang de l’holocauste et de tout le sang des sacrifices. Pour ce qui est de l’autel d’airain, j’y réfléchirai."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le pontife Ouria exécuta tous les ordres du roi Achaz.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:16" name="16-16">16</span>
+Le pontife Ouria exécuta tous les ordres du roi Achaz.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le roi Achaz détacha les moulures des supports, en enleva l
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:17" name="16-17">17</span>
+Le roi Achaz détacha les moulures des supports, en enleva le bassin, fit descendre la Mer de dessus les taureaux d’airain qui la portaient et la déposa sur un pavé de pierres.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le portique du sabbat qu’on avait bâti dans le temple et l’entrée du roi située à l’extérieur, il les déplaça dans le temple de l’Éternel, à c
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:18" name="16-18">18</span>
+Le portique du sabbat qu’on avait bâti dans le temple et l’entrée du roi située à l’extérieur, il les déplaça dans le temple de l’Éternel, à cause du roi d’Assyrie.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Les autres actes accomplis par Achaz sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:19" name="16-19">19</span>
+Les autres actes accomplis par Achaz sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="16:20" name="16:20">16:20</span><span style="display:none">¤16:20¤</span>
- Achaz s’endormit avec ses pères et fut enterré à côté d’eux dans la Cité de David. Son fils Ezéchias lui succéda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="16:20" name="16-20">20</span>
+Achaz s’endormit avec ses pères et fut enterré à côté d’eux dans la Cité de David. Son fils Ezéchias lui succéda.
 
-<span class="marginnote nb" label="17:1" name="17:1">17:1</span><span style="display:none">¤17:1¤</span>
-La douzième année d’Achaz, roi de Juda, Osée, fils d’Ela, commença à régner à Samari
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:1" name="17-1"><strong>17</strong>:1</span>
+La douzième année d’Achaz, roi de Juda, Osée, fils d’Ela, commença à régner à Samarie sur Israël; son règne dura neuf ans.
 
-<span class="marginnote nb" label="17:2" name="17:2">17:2</span><span style="display:none">¤17:2¤</span>
+<span class="marginnote num" label="17:2" name="17-2">2</span>
 Il fit ce qui est mal aux yeux du Seigneur, mais moins que les rois d’Israël qui l’avaient précédé.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="17:3" name="17:3">17:3</span><span style="display:none">¤17:3¤</span>
-C’est lui que vint attaquer Salmanassar, roi d’Assyrie; mais Osée fit sa soumission et paya 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:3" name="17-3">3</span>
+C’est lui que vint attaquer Salmanassar, roi d’Assyrie; mais Osée fit sa soumission et paya tribut.
 
-<span class="marginnote nb" label="17:4" name="17:4">17:4</span><span style="display:none">¤17:4¤</span>
-Puis le roi d’Assyrie surprit un complot d’Osée: celui-ci, ayant envoyé des émissaires à So, roi d’Égypte, ne livrait plus au roi d’Assyrie le tribut 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:4" name="17-4">4</span>
+Puis le roi d’Assyrie surprit un complot d’Osée: celui-ci, ayant envoyé des émissaires à So, roi d’Égypte, ne livrait plus au roi d’Assyrie le tribut annuel. Le roi d’Assyrie le fit enfermer et enchaîner dans une prison.
 
-<span class="marginnote nb" label="17:5" name="17:5">17:5</span><span style="display:none">¤17:5¤</span>
+<span class="marginnote num" label="17:5" name="17-5">5</span>
 Ensuite le roi d’Assyrie fit des expéditions dans tout le pays; il attaqua Samarie et en fit le siège pendant trois ans.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="17:6" name="17:6">17:6</span><span style="display:none">¤17:6¤</span>
+<span class="marginnote num" label="17:6" name="17-6">6</span>
 La neuvième année du règne d’Osée, le roi d’Assyrie s’empara de Samarie et exila les Israélites en Assyrie; il les établit à Halah sur le Haber, fleuve du Gozân, et dans les villes de la Médie.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="17:7" name="17:7">17:7</span><span style="display:none">¤17:7¤</span>
-C’est que les enfants d’Israël avaient péché contre l’Éternel, leur Dieu, qui les avait tirés du pays d’Égypte, les délivrant de la domination de Pharaon, roi d’Égypte. Ils avaient adoré des divinités étrangères
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:7" name="17-7">7</span>
+C’est que les enfants d’Israël avaient péché contre l’Éternel, leur Dieu, qui les avait tirés du pays d’Égypte, les délivrant de la domination de Pharaon, roi d’Égypte. Ils avaient adoré des divinités étrangères,
 
-<span class="marginnote nb" label="17:8" name="17:8">17:8</span><span style="display:none">¤17:8¤</span>
-suivi les lois des nations que l’Éternel avait dépossédées au bénéfice des enfants d’Israël; et c’étaient les rois d’Israë
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:8" name="17-8">8</span>
+suivi les lois des nations que l’Éternel avait dépossédées au bénéfice des enfants d’Israël; et c’étaient les rois d’Israël qui en avaient été la cause.
 
-<span class="marginnote nb" label="17:9" name="17:9">17:9</span><span style="display:none">¤17:9¤</span>
+<span class="marginnote num" label="17:9" name="17-9">9</span>
 Les enfants d’Israël avaient commis en secret des actes illicites contre l’Éternel, leur Dieu; ils s’étaient bâti des hauts-lieux dans toutes leurs villes, depuis la tour des guetteurs jusqu’à la ville fortifiée;
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="17:10" name="17:10">17:10</span><span style="display:none">¤17:10¤</span>
- ils avaient dressé des statues et des Achêra sur toute colline élevée et sous tout arbre verdoyant.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:10" name="17-10">10</span>
+ils avaient dressé des statues et des Achêra sur toute colline élevée et sous tout arbre verdoyant.
 
-<span class="marginnote nb" label="17:11" name="17:11">17:11</span><span style="display:none">¤17:11¤</span>
- Là, sur tous les hauts-lieux, ils avaient offert de l’encens, à l’exemple des nations que Dieu avai
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:11" name="17-11">11</span>
+Là, sur tous les hauts-lieux, ils avaient offert de l’encens, à l’exemple des nations que Dieu avait chassées devant eux; ils avaient commis des actes coupables pour irriter l’Éternel.
 
-<span class="marginnote nb" label="17:12" name="17:12">17:12</span><span style="display:none">¤17:12¤</span>
- Ils avaient rendu un culte aux idoles, malgré l’ordre que l’Éternel leur avait donné de ne pas agir ainsi.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:12" name="17-12">12</span>
+Ils avaient rendu un culte aux idoles, malgré l’ordre que l’Éternel leur avait donné de ne pas agir ainsi.
 
-<span class="marginnote nb" label="17:13" name="17:13">17:13</span><span style="display:none">¤17:13¤</span>
- Dieu, cependant, avait adressé des avertissements à Israël et à Juda par l’organe de tous ses prophètes et voyants, disant: "Renoncez à vos voies mauvaises, observez mes commandements et mes statuts, selon toute la lo
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:13" name="17-13">13</span>
+Dieu, cependant, avait adressé des avertissements à Israël et à Juda par l’organe de tous ses prophètes et voyants, disant: "Renoncez à vos voies mauvaises, observez mes commandements et mes statuts, selon toute la loi que j’ai dictée à vos ancêtres et que je vous ai fait prêcher par mes serviteurs les prophètes."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Mais ils n’avaient rien écouté et avaient raidi leur cou comme leurs pè
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:14" name="17-14">14</span>
+Mais ils n’avaient rien écouté et avaient raidi leur cou comme leurs pères, qui n’avaient pas foi en l’Éternel, leur Dieu.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Ils avaient méprisé ses lois, l’alliance contractée avec leurs ancêtres et les avertissements
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:15" name="17-15">15</span>
+Ils avaient méprisé ses lois, l’alliance contractée avec leurs ancêtres et les avertissements qu’il leur avait donnés; ils avaient suivi les dieux de vanité et étaient devenus eux-mêmes vains, avaient imité les nations voisines que Dieu avait défendu d’imiter,
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ avaient abandonné tous les commandements de l’Éternel, leur Dieu, s’étaient fabriqué des idoles de fonte, deux veaux, confectionné des images d’Astarté; ils s’étaient prosternés devant toute l’armée d
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:16" name="17-16">16</span>
+avaient abandonné tous les commandements de l’Éternel, leur Dieu, s’étaient fabriqué des idoles de fonte, deux veaux, confectionné des images d’Astarté; ils s’étaient prosternés devant toute l’armée des cieux et avaient servi Baal.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Ils avaient fait passer leurs fils et leurs filles par le feu, pratiqué la magie et la sorcellerie et, sans frein, s’étaient abandonnés à la pra
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:17" name="17-17">17</span>
+Ils avaient fait passer leurs fils et leurs filles par le feu, pratiqué la magie et la sorcellerie et, sans frein, s’étaient abandonnés à la pratique du mal aux yeux de l’Éternel, pour le courroucer.
 
-<span class="marginnote nb" label="17:18" name="17:18">17:18</span><span style="display:none">¤17:18¤</span>
- Dieu s’irrita fortement contre Israël et les repoussa de devant sa face: ils ne resta que la tribu de Juda.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:18" name="17-18">18</span>
+Dieu s’irrita fortement contre Israël et les repoussa de devant sa face: ils ne resta que la tribu de Juda.
 
-<span class="marginnote nb" label="17:19" name="17:19">17:19</span><span style="display:none">¤17:19¤</span>
- Juda même n’observa pas les commandements de l’Éternel, leur Dieu ils adoptèrent les mœurs des Israélites.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:19" name="17-19">19</span>
+Juda même n’observa pas les commandements de l’Éternel, leur Dieu ils adoptèrent les mœurs des Israélites.
 
-<span class="marginnote nb" label="17:20" name="17:20">17:20</span><span style="display:none">¤17:20¤</span>
- Voilà pourquoi Dieu rejeta toute la race d’Israël, qu’il rendit malheureuse et livra au pouvoir des pillards; il alla même jusqu’à les chasser de devant lui.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:20" name="17-20">20</span>
+Voilà pourquoi Dieu rejeta toute la race d’Israël, qu’il rendit malheureuse et livra au pouvoir des pillards; il alla même jusqu’à les chasser de devant lui.
 
-<span class="marginnote nb" label="17:21" name="17:21">17:21</span><span style="display:none">¤17:21¤</span>
- C’est qu’Israël avait déchiré le pacte qui l’unissait à la m
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:21" name="17-21">21</span>
+C’est qu’Israël avait déchiré le pacte qui l’unissait à la maison de David et pris pour roi Jéroboam, fils de Nebat. Celui-ci avait éloigné Israël de l’Éternel et lui avait fait commettre de grands péchés.
 
-<span class="marginnote nb" label="17:22" name="17:22">17:22</span><span style="display:none">¤17:22¤</span>
- Les Israélites avaient imité toutes les prévarications de Jéroboam, sans s’en écarter,
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:22" name="17-22">22</span>
+Les Israélites avaient imité toutes les prévarications de Jéroboam, sans s’en écarter,
 
-<span class="marginnote nb" label="17:23" name="17:23">17:23</span><span style="display:none">¤17:23¤</span>
- au point que Dieu repoussa Israël de devant lui, suivant qu’if l’avait déclaré par l’organe de tous ses serviteurs les prophètes; il exila Israël de son pays en Assyrie, où ils sont encore aujourd’hui.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:23" name="17-23">23</span>
+au point que Dieu repoussa Israël de devant lui, suivant qu’if l’avait déclaré par l’organe de tous ses serviteurs les prophètes; il exila Israël de son pays en Assyrie, où ils sont encore aujourd’hui.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le roi d’Assyrie amena des gens de Babylone, de Ceuta, d’Ave, de Hamat et de Sefarvayim et les établit dans les villes de 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:24" name="17-24">24</span>
+Le roi d’Assyrie amena des gens de Babylone, de Ceuta, d’Ave, de Hamat et de Sefarvayim et les établit dans les villes de la Samarie pour remplacer les Israélites; ils prirent possession de la Samarie et habitèrent les villes.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Or, au commencement de leur séjour, ils n’adoraient pas l’Éternel. Aussi Dieu lâcha-t-il contre eux des lions, qui exercèrent des ravages parmi eux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:25" name="17-25">25</span>
+Or, au commencement de leur séjour, ils n’adoraient pas l’Éternel. Aussi Dieu lâcha-t-il contre eux des lions, qui exercèrent des ravages parmi eux.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ On dit alors au roi d’Assyrie: "Les nations que tu as transportées et établies dans les villes de la Sama
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:26" name="17-26">26</span>
+On dit alors au roi d’Assyrie: "Les nations que tu as transportées et établies dans les villes de la Samarie ne connaissent pas le culte du Dieu du pays. C’est pourquoi il a lancé contre eux des lions, qui les font périr à cause de l’ignorance où ils sont du culte à rendre au Dieu du pays."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le roi d’Assyrie édicta cet ordre: "Ramenez l’un des prêtres que vous avez exilés de ce pays; qu’il y retourne pour s’y établir et qu’il leur enseigne le culte du Dieu de ce pays."
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:27" name="17-27">27</span>
+Le roi d’Assyrie édicta cet ordre: "Ramenez l’un des prêtres que vous avez exilés de ce pays; qu’il y retourne pour s’y établir et qu’il leur enseigne le culte du Dieu de ce pays."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Un des prêtres exilés de Samarie vint s’établir à Béthel, et il leur enseigna comment ils devaient adorer l’Éternel.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:28" name="17-28">28</span>
+Un des prêtres exilés de Samarie vint s’établir à Béthel, et il leur enseigna comment ils devaient adorer l’Éternel.
 
-<span class="marginnote nb" label="17:29" name="17:29">17:29</span><span style="display:none">¤17:29¤</span>
- Mais chaque nation se confectionna ses divinités et les érigea dans les maisons des hauts-lieux édifiées par les Samaritains, chacune dans les villes qu’elle habitait.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:29" name="17-29">29</span>
+Mais chaque nation se confectionna ses divinités et les érigea dans les maisons des hauts-lieux édifiées par les Samaritains, chacune dans les villes qu’elle habitait.
 
-<span class="marginnote nb" label="17:30" name="17:30">17:30</span><span style="display:none">¤17:30¤</span>
- Les gens de Babel firent Souccot-Benot; ceux de Couth, Nergal; ceux de Hamat, Achima.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:30" name="17-30">30</span>
+Les gens de Babel firent Souccot-Benot; ceux de Couth, Nergal; ceux de Hamat, Achima.
 
-<span class="marginnote nb" label="17:31" name="17:31">17:31</span><span style="display:none">¤17:31¤</span>
- Les Avites firent Nibhaz et Tartak; les Sefarvites brûlaient leurs enfants dans le feu en l’honneur d’Adrammélec et d’Anammélec, dieux de Sefarvayim
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:31" name="17-31">31</span>
+Les Avites firent Nibhaz et Tartak; les Sefarvites brûlaient leurs enfants dans le feu en l’honneur d’Adrammélec et d’Anammélec, dieux de Sefarvayim.
 
-<span class="marginnote nb" label="17:32" name="17:32">17:32</span><span style="display:none">¤17:32¤</span>
- Ils adoraient l’Éternel, mais ils instituèrent des prêtres de hauts-lieux, choisis parmi eux, qui célébraient le culte dans la maison des hauts-lieux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:32" name="17-32">32</span>
+Ils adoraient l’Éternel, mais ils instituèrent des prêtres de hauts-lieux, choisis parmi eux, qui célébraient le culte dans la maison des hauts-lieux.
 
-<span class="marginnote nb" label="17:33" name="17:33">17:33</span><span style="display:none">¤17:33¤</span>
- Ils adoraient l’Éternel, tout en rendant un culte à leurs dieux, à l’exemple des nations qu’on avait exilées de ces contrées.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:33" name="17-33">33</span>
+Ils adoraient l’Éternel, tout en rendant un culte à leurs dieux, à l’exemple des nations qu’on avait exilées de ces contrées.
 
-<span class="marginnote nb" label="17:34" name="17:34">17:34</span><span style="display:none">¤17:34¤</span>
- Encore aujourd’hui, ils suivent ces premières habitudes; ils n’adorent pas Dieu et n’observent ni leurs lois et leurs statuts, ni
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:34" name="17-34">34</span>
+Encore aujourd’hui, ils suivent ces premières habitudes; ils n’adorent pas Dieu et n’observent ni leurs lois et leurs statuts, ni la loi et le commandement dictés par l’Éternel aux enfants de Jacob, qu’il avait surnommé Israël.
 
-<span class="marginnote nb" label="17:35" name="17:35">17:35</span><span style="display:none">¤17:35¤</span>
- Dieu avait conclu avec ceux-ci une alliance et leur avait fait cette recommandation
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:35" name="17-35">35</span>
+Dieu avait conclu avec ceux-ci une alliance et leur avait fait cette recommandation: "Ne vénérez pas de divinités étrangères, ne vous prosternez pas devant elles, ne les adorez point et ne leur offrez pas de sacrifices.
 
-<span class="marginnote nb" label="17:36" name="17:36">17:36</span><span style="display:none">¤17:36¤</span>
- C’est l’Éternel, qui vous a fait sortir du pays d’Égypte par sa grande force et sa puissance déployée, c’est lui seul qu
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:36" name="17-36">36</span>
+C’est l’Éternel, qui vous a fait sortir du pays d’Égypte par sa grande force et sa puissance déployée, c’est lui seul que vous vénérerez, c’est devant lui que vous vous prosternerez et à lui que vous sacrifierez.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Les statuts, les ordonnances, la loi et les commandements qu’il vous a donnés par écrit, vous aurez soin de les observer toujours et vous ne r
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:37" name="17-37">37</span>
+Les statuts, les ordonnances, la loi et les commandements qu’il vous a donnés par écrit, vous aurez soin de les observer toujours et vous ne révérerez pas d’autres divinités.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ L’alliance que j’ai contractée avec vous, vous ne l’oublierez pas et vous n’adorerez pas de dieux étrangers.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:38" name="17-38">38</span>
+L’alliance que j’ai contractée avec vous, vous ne l’oublierez pas et vous n’adorerez pas de dieux étrangers.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ C’est l’Éternel, votre Dieu, lui seul que vous vénérerez, et il vous sauvera de la main de tous vos ennemis."
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:39" name="17-39">39</span>
+C’est l’Éternel, votre Dieu, lui seul que vous vénérerez, et il vous sauvera de la main de tous vos ennemis."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Mais ils n’obéirent point, et ils suivirent leurs premiers errements.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:40" name="17-40">40</span>
+Mais ils n’obéirent point, et ils suivirent leurs premiers errements.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Ces peuples adorèrent donc l’Éternel tout en rendant un culte à leurs Idoles. Pareillement, leurs enfants et petits-enfants agissent comme leurs pères encore aujourd’hui.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="17:41" name="17-41">41</span>
+Ces peuples adorèrent donc l’Éternel tout en rendant un culte à leurs Idoles. Pareillement, leurs enfants et petits-enfants agissent comme leurs pères encore aujourd’hui.
 
-<span class="marginnote nb" label="18:1" name="18:1">18:1</span><span style="display:none">¤18:1¤</span>
-Ce fut dans la troisième année du règne d’Osée, fils d’Ela, roi d’Israël, q
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:1" name="18-1"><strong>18</strong>:1</span>
+Ce fut dans la troisième année du règne d’Osée, fils d’Ela, roi d’Israël, qu’Ezéchias, fils d’Achaz, roi de Juda, monta sur le trône.
 
-<span class="marginnote nb" label="18:2" name="18:2">18:2</span><span style="display:none">¤18:2¤</span>
+<span class="marginnote num" label="18:2" name="18-2">2</span>
 Agé de vingt-cinq ans à son avènement, il régna vingt-neuf ans à Jérusalem; sa mère se nommait Abi, fille de Zacharie.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="18:3" name="18:3">18:3</span><span style="display:none">¤18:3¤</span>
+<span class="marginnote num" label="18:3" name="18-3">3</span>
 Il fit ce qui est droit aux yeux de l’Éternel, absolument comme avait agi David, son aïeul.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="18:4" name="18:4">18:4</span><span style="display:none">¤18:4¤</span>
-C’est lui qui fit disparaître les hauts-lieux, qui brisa les stèles, détruisit les Achêra et broya le serpent d’airain érigé par Moïse. Jusqu’à cette époque, en effet, les Israélites lui offraient de l’encen
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:4" name="18-4">4</span>
+C’est lui qui fit disparaître les hauts-lieux, qui brisa les stèles, détruisit les Achêra et broya le serpent d’airain érigé par Moïse. Jusqu’à cette époque, en effet, les Israélites lui offraient de l’encens; on l’appelait nehouchtân.
 
-<span class="marginnote nb" label="18:5" name="18:5">18:5</span><span style="display:none">¤18:5¤</span>
+<span class="marginnote num" label="18:5" name="18-5">5</span>
 C’est en l’Éternel, Dieu d’Israël, qu’il mit sa foi. Aucun ne l’égala parmi les rois de Juda qui lui succédèrent ou parmi ceux qui l’avaient précédé.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="18:6" name="18:6">18:6</span><span style="display:none">¤18:6¤</span>
- Il resta attaché à l’Éternel, sans se détourner de lui, observant ses commandements, que l
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:6" name="18-6">6</span>
+Il resta attaché à l’Éternel, sans se détourner de lui, observant ses commandements, que l’Éternel avait prescrits à Moïse.
 
-<span class="marginnote nb" label="18:7" name="18:7">18:7</span><span style="display:none">¤18:7¤</span>
- Aussi l’Éternel fut-il avec lui; tout ce qu’il entreprenait réussissait il se révolta contre le roi d’Assyrie et ne lui fut plus assujetti.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:7" name="18-7">7</span>
+Aussi l’Éternel fut-il avec lui; tout ce qu’il entreprenait réussissait il se révolta contre le roi d’Assyrie et ne lui fut plus assujetti.
 
-<span class="marginnote nb" label="18:8" name="18:8">18:8</span><span style="display:none">¤18:8¤</span>
- C’est lui qui battit les Philistins jusqu’à ce qu’il se fût emparé de Gaza et de son territoire, depuis la tour des guetteurs jusqu’à la ville fortifiée.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:8" name="18-8">8</span>
+C’est lui qui battit les Philistins jusqu’à ce qu’il se fût emparé de Gaza et de son territoire, depuis la tour des guetteurs jusqu’à la ville fortifiée.
 
-<span class="marginnote nb" label="18:9" name="18:9">18:9</span><span style="display:none">¤18:9¤</span>
- Ce fut pendant la quatrième année du règne d’Ezéchias, la septième d’Osée, fils d’Ela, roi d’Israël, que Salmanassar, roi d’
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:9" name="18-9">9</span>
+Ce fut pendant la quatrième année du règne d’Ezéchias, la septième d’Osée, fils d’Ela, roi d’Israël, que Salmanassar, roi d’Assyrie, fit campagne contre Samarie et l’assiégea.
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ On s’en empara au bout de trois ans, dans la sixième année du règne d’Ezéchias; ce fut dans la neuvième année d’Osée, roi d’Israël, que Samarie fut prise.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:10" name="18-10">10</span>
+On s’en empara au bout de trois ans, dans la sixième année du règne d’Ezéchias; ce fut dans la neuvième année d’Osée, roi d’Israël, que Samarie fut prise.
 
-<span class="marginnote nb" label="18:11" name="18:11">18:11</span><span style="display:none">¤18:11¤</span>
- Le roi d’Assyrie emmena Israël en exil dans le pays d’Assyrie; il le transporta à Halah, sur le Haber, rivière de Gozân, et dans les villes de la Médie,
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:11" name="18-11">11</span>
+Le roi d’Assyrie emmena Israël en exil dans le pays d’Assyrie; il le transporta à Halah, sur le Haber, rivière de Gozân, et dans les villes de la Médie,
 
-<span class="marginnote nb" label="18:12" name="18:12">18:12</span><span style="display:none">¤18:12¤</span>
- parce qu’ils n’avaient pas obéi aux ordres de l’Éternel, leur Dieu, qu’ils avaient transgressé son alliance, tout ce qu’avait prescrit Moïse, serviteur de l’Éternel: ils n’avaient rien écouté ni pratiqué.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:12" name="18-12">12</span>
+parce qu’ils n’avaient pas obéi aux ordres de l’Éternel, leur Dieu, qu’ils avaient transgressé son alliance, tout ce qu’avait prescrit Moïse, serviteur de l’Éternel: ils n’avaient rien écouté ni pratiqué.
 
-<span class="marginnote nb" label="18:13" name="18:13">18:13</span><span style="display:none">¤18:13¤</span>
- Dans la quatorzième année du règne d’Ezéchias, Sennachérib, roi d’Assyrie, marcha contre toutes les villes fortes de la Judée et s’en empara.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:13" name="18-13">13</span>
+Dans la quatorzième année du règne d’Ezéchias, Sennachérib, roi d’Assyrie, marcha contre toutes les villes fortes de la Judée et s’en empara.
 
-<span class="marginnote nb" label="18:14" name="18:14">18:14</span><span style="display:none">¤18:14¤</span>
- Ezéchias, roi de Juda, fit alors transmettre au roi d’Assyrie, à Lakhich, la déclaration suivante: "Je suis coupable; rebrousse chemin, et j’accepterai toutes les conditions que tu m’imposeras." Le roi d’Assyrie exige
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:14" name="18-14">14</span>
+Ezéchias, roi de Juda, fit alors transmettre au roi d’Assyrie, à Lakhich, la déclaration suivante: "Je suis coupable; rebrousse chemin, et j’accepterai toutes les conditions que tu m’imposeras." Le roi d’Assyrie exigea alors d’Ezéchias, roi de Juda, trois cents kikkar d’argent et trente kikkar d’or.
 
-<span class="marginnote nb" label="18:15" name="18:15">18:15</span><span style="display:none">¤18:15¤</span>
- Ezéchias livra tout l’argent qui se trouvait dans la maison de l’Éternel et dans les trésors du palais royal.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:15" name="18-15">15</span>
+Ezéchias livra tout l’argent qui se trouvait dans la maison de l’Éternel et dans les trésors du palais royal.
 
-<span class="marginnote nb" label="18:16" name="18:16">18:16</span><span style="display:none">¤18:16¤</span>
- Ce fut en ce temps qu’Ezéchias dépouilla de leur or, pour le remettre au roi d’Assyrie, les portes du sanctuaire de Dieu et les linteaux que lui, Ezéchias, roi de 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:16" name="18-16">16</span>
+Ce fut en ce temps qu’Ezéchias dépouilla de leur or, pour le remettre au roi d’Assyrie, les portes du sanctuaire de Dieu et les linteaux que lui, Ezéchias, roi de Juda, avait fait revêtir de plaques.
 
-<span class="marginnote nb" label="18:17" name="18:17">18:17</span><span style="display:none">¤18:17¤</span>
- De Lakhich, le roi d’Assyrie envoya Tartân, Rabsaris et Rabchakè, avec une puissante armée, contre le roi Ezéchias à Jérusalem. Ils se 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:17" name="18-17">17</span>
+De Lakhich, le roi d’Assyrie envoya Tartân, Rabsaris et Rabchakè, avec une puissante armée, contre le roi Ezéchias à Jérusalem. Ils se mirent donc en marche et atteignirent Jérusalem. Arrivés là, ils s’établirent près de l’aqueduc de la Piscine supérieure, sur la route qui conduit au Champ des foulons.
 
-<span class="marginnote nb" label="18:18" name="18:18">18:18</span><span style="display:none">¤18:18¤</span>
- Ils mandèrent le roi; ce furent Elyakim, fils de Hilkiyyahou, l’intendant du palais, Chebna, le secrétaire, et Yoah, fils d’Assaf, l’archiviste, qui se rendirent auprès d’eux.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:18" name="18-18">18</span>
+Ils mandèrent le roi; ce furent Elyakim, fils de Hilkiyyahou, l’intendant du palais, Chebna, le secrétaire, et Yoah, fils d’Assaf, l’archiviste, qui se rendirent auprès d’eux.
 
-<span class="marginnote nb" label="18:19" name="18:19">18:19</span><span style="display:none">¤18:19¤</span>
- Rabchakè leur dit: "Veuillez rapporter à Ezéchias ces paroles du grand roi, le roi d’Assyrie: Quel est donc l’appui dans lequel tu mets ta confiance?
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:19" name="18-19">19</span>
+Rabchakè leur dit: "Veuillez rapporter à Ezéchias ces paroles du grand roi, le roi d’Assyrie: Quel est donc l’appui dans lequel tu mets ta confiance?
 
-<span class="marginnote nb" label="18:20" name="18:20">18:20</span><span style="display:none">¤18:20¤</span>
- Tu n’as proféré que de vaines paroles, lorsque la guerre exige, au contraire, de la prudence et de la force. Sur qui donc comptes-tu pour t’être révolté contre moi?
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:20" name="18-20">20</span>
+Tu n’as proféré que de vaines paroles, lorsque la guerre exige, au contraire, de la prudence et de la force. Sur qui donc comptes-tu pour t’être révolté contre moi?
 
-<span class="marginnote nb" label="18:21" name="18:21">18:21</span><span style="display:none">¤18:21¤</span>
- Ah oui, tu espères prendre pour soutien ce roseau brisé, l’Égypte, qui, lorsque quelqu’un s’y appuie, pénètre dans la main et la transperce! Car te
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:21" name="18-21">21</span>
+Ah oui, tu espères prendre pour soutien ce roseau brisé, l’Égypte, qui, lorsque quelqu’un s’y appuie, pénètre dans la main et la transperce! Car tel est Pharaon, roi d’Égypte, pour tous ceux qui se fient à lui.
 
-<span class="marginnote nb" label="18:22" name="18:22">18:22</span><span style="display:none">¤18:22¤</span>
- Vous me répliquerez peut-être: "Nous mettons notre confiance dans l’Éternel, notre Dieu!" Mais n’est-ce pas ce Dieu dont Ezéchias a fait disparaître les hauts-lieux et les autels en prescrivant
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:22" name="18-22">22</span>
+Vous me répliquerez peut-être: "Nous mettons notre confiance dans l’Éternel, notre Dieu!" Mais n’est-ce pas ce Dieu dont Ezéchias a fait disparaître les hauts-lieux et les autels en prescrivant aux gens de Juda et de Jérusalem de ne se prosterner que devant cet autel, à Jérusalem?
 
-<span class="marginnote nb" label="18:23" name="18:23">18:23</span><span style="display:none">¤18:23¤</span>
- Eh bien! Prends donc cet engagement envers mon maître, le roi d’Assyrie: je te fournirai deux mille chevaux, si tu peux trouver des cavaliers pour les monter.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:23" name="18-23">23</span>
+Eh bien! Prends donc cet engagement envers mon maître, le roi d’Assyrie: je te fournirai deux mille chevaux, si tu peux trouver des cavaliers pour les monter.
 
-<span class="marginnote nb" label="18:24" name="18:24">18:24</span><span style="display:none">¤18:24¤</span>
- Tu ne serais pas capable de repousser un simple gouverneur, un 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:24" name="18-24">24</span>
+Tu ne serais pas capable de repousser un simple gouverneur, un des moindres serviteurs de mon maître, et tu comptes sur l’Égypte pour avoir des chars et des cavaliers!
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ D’ailleurs, est-ce sans l’assentiment de l’Éternel que j’ai envahi ce pays pour le ravager? C’est Dieu qui m’a dit: Marche contre cette région et saccage-la."
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:25" name="18-25">25</span>
+D’ailleurs, est-ce sans l’assentiment de l’Éternel que j’ai envahi ce pays pour le ravager? C’est Dieu qui m’a dit: Marche contre cette région et saccage-la."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Elyakim, fils de Hilkiyyahou, Chebna et Yoah dirent alors à Rabchakè: "Daigne parler à tes serviteurs en araméen, nous le co
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:26" name="18-26">26</span>
+Elyakim, fils de Hilkiyyahou, Chebna et Yoah dirent alors à Rabchakè: "Daigne parler à tes serviteurs en araméen, nous le comprenons; mais ne nous parle pas en judéen, qu’entendent les gens qui se trouvent sur les remparts."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Rabchakè leur répondit: "Est-ce à ton maître et à toi que mon souverain m’a 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:27" name="18-27">27</span>
+Rabchakè leur répondit: "Est-ce à ton maître et à toi que mon souverain m’a donné le mandat de tenir ces discours? N’est-ce pas plutôt à ceux qui sont installés sur les remparts, condamnés en votre compagnie à manger leurs excréments et à boire leur urine?
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Puis, se mettant debout, il prononça d’une voix retentissante et avec insistance ces paroles en langue judaïque: "Ecoutez le message du grand 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:28" name="18-28">28</span>
+Puis, se mettant debout, il prononça d’une voix retentissante et avec insistance ces paroles en langue judaïque: "Ecoutez le message du grand roi, le roi d’Assyrie!
 
-<span class="marginnote nb" label="18:29" name="18:29">18:29</span><span style="display:none">¤18:29¤</span>
- Voici ce qu’il dit: Ne vous laissez pas abuser par Ezéchias, car il est incapable de vous sauver de sa mai
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:29" name="18-29">29</span>
+Voici ce qu’il dit: Ne vous laissez pas abuser par Ezéchias, car il est incapable de vous sauver de sa main.
 
-<span class="marginnote nb" label="18:30" name="18:30">18:30</span><span style="display:none">¤18:30¤</span>
- Ne vous lassez pas non plus induire par lui à mettre votre confiance en Dieu, lorsqu’il vous déclare: L’Éternel nous délivrera certainement, et cette ville ne tombera pas au pouvoir du roi d’Assyrie
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:30" name="18-30">30</span>
+Ne vous lassez pas non plus induire par lui à mettre votre confiance en Dieu, lorsqu’il vous déclare: L’Éternel nous délivrera certainement, et cette ville ne tombera pas au pouvoir du roi d’Assyrie.
 
-<span class="marginnote nb" label="18:31" name="18:31">18:31</span><span style="display:none">¤18:31¤</span>
- N’écoutez pas Ezéchias, car voici ce que propose le roi d’Assyrie: Manifestez à mon égard des sentiments pacifiques, rendez-vous auprès de moi, et chacun mangera les produits de sa vigne et de son figuier, et chacun boira l’eau de sa cite
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:31" name="18-31">31</span>
+N’écoutez pas Ezéchias, car voici ce que propose le roi d’Assyrie: Manifestez à mon égard des sentiments pacifiques, rendez-vous auprès de moi, et chacun mangera les produits de sa vigne et de son figuier, et chacun boira l’eau de sa citerne,
 
-<span class="marginnote nb" label="18:32" name="18:32">18:32</span><span style="display:none">¤18:32¤</span>
- jusqu’à ce que je vienne vous emmener dans un pays semblable au vôtre, un pays de blé et de vin, un pays de pain et de vignes, un pays produisant l’huile d’olives et le miel. Vivez donc, ne vous laissez pas mouri
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:32" name="18-32">32</span>
+jusqu’à ce que je vienne vous emmener dans un pays semblable au vôtre, un pays de blé et de vin, un pays de pain et de vignes, un pays produisant l’huile d’olives et le miel. Vivez donc, ne vous laissez pas mourir, et n’écoutez pas Ezéchias quand il vous abuse par ces paroles: L’Éternel vous enverra le salut.
 
-<span class="marginnote nb" label="18:33" name="18:33">18:33</span><span style="display:none">¤18:33¤</span>
- Quelque dieu des autres nations a-t-il pu protéger son pays contre le roi d’Assyrie?
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:33" name="18-33">33</span>
+Quelque dieu des autres nations a-t-il pu protéger son pays contre le roi d’Assyrie?
 
-<span class="marginnote nb" label="18:34" name="18:34">18:34</span><span style="display:none">¤18:34¤</span>
- Où sont donc les dieux de Hamat et d’Arpad, les dieux de Sefarvayim, de Hèna et d’Ivva? Ont-ils arraché Samarie à ma domination?
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:34" name="18-34">34</span>
+Où sont donc les dieux de Hamat et d’Arpad, les dieux de Sefarvayim, de Hèna et d’Ivva? Ont-ils arraché Samarie à ma domination?
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ De tous les dieux de ces contrées, quel est celui qui a soustrait son 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:35" name="18-35">35</span>
+De tous les dieux de ces contrées, quel est celui qui a soustrait son pays à mon pouvoir? Et l’Éternel protègerait Jérusalem contre moi!"
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Le peuple garda le silence, personne ne dit mot, car tel était l’ordre du roi: "Vous ne lui répondrez rien."
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:36" name="18-36">36</span>
+Le peuple garda le silence, personne ne dit mot, car tel était l’ordre du roi: "Vous ne lui répondrez rien."
 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
-¤ Elyakim, fils de Hilkiyyahou, l’intendant du palais, Chebna, le secrétaire, et Yoah, fils d’Assaf, l’ar
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="18:37" name="18-37">37</span>
+Elyakim, fils de Hilkiyyahou, l’intendant du palais, Chebna, le secrétaire, et Yoah, fils d’Assaf, l’archiviste, retournèrent alors auprès d’Ezéchias, les vêtements déchirés, et lui rapportèrent les paroles de Rabchakè.
 
-<span class="marginnote nb" label="19:1" name="19:1">19:1</span><span style="display:none">¤19:1¤</span>
- Lorsque le roi Ezéchias les eut entendus, il déchira ses vêtements, et, couvert d’un cilice, il se rendit dans la maison de Dieu.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:1" name="19-1"><strong>19</strong>:1</span>
+Lorsque le roi Ezéchias les eut entendus, il déchira ses vêtements, et, couvert d’un cilice, il se rendit dans la maison de Dieu.
 
-<span class="marginnote nb" label="19:2" name="19:2">19:2</span><span style="display:none">¤19:2¤</span>
-Puis il envoya Elyakim, l’intendant du palais, Chebna, le secrétaire, et les plus anciens des prêtres, enveloppés d’un cilice,
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:2" name="19-2">2</span>
+Puis il envoya Elyakim, l’intendant du palais, Chebna, le secrétaire, et les plus anciens des prêtres, enveloppés d’un cilice, auprès du prophète Isaïe, fils d’Amoç,
 
-<span class="marginnote nb" label="19:3" name="19:3">19:3</span><span style="display:none">¤19:3¤</span>
-avec ce message: "Ainsi parle Ezéchias: C’est aujourd’hui un jour d’angoisse, de châtiment et d’humiliatio
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:3" name="19-3">3</span>
+avec ce message: "Ainsi parle Ezéchias: C’est aujourd’hui un jour d’angoisse, de châtiment et d’humiliation; les enfants sont près, de naître, mais point de force pour enfanter!
 
-<span class="marginnote nb" label="19:4" name="19:4">19:4</span><span style="display:none">¤19:4¤</span>
-Peut-être l’Éternel, ton Dieu, accordera-t-il son attention à toutes les paroles de Rabchakè, envoyé par le roi d’Assyrie, son maî
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:4" name="19-4">4</span>
+Peut-être l’Éternel, ton Dieu, accordera-t-il son attention à toutes les paroles de Rabchakè, envoyé par le roi d’Assyrie, son maître, pour outrager le Dieu vivant, et voudra-t-il demander compte de ces paroles qu’il a entendues. Prie donc en faveur des débris qui subsistent encore."
 
-<span class="marginnote nb" label="19:5" name="19:5">19:5</span><span style="display:none">¤19:5¤</span>
+<span class="marginnote num" label="19:5" name="19-5">5</span>
 Les serviteurs du roi Ezéchias se rendirent auprès d’Isaïe.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="19:6" name="19:6">19:6</span><span style="display:none">¤19:6¤</span>
-Celui-ci leur dit: "Vous parlerez ainsi à votre maître: Ne sois pas effrayé, dit l’Éternel, des paroles que tu as entendues, des blasphèmes prof
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:6" name="19-6">6</span>
+Celui-ci leur dit: "Vous parlerez ainsi à votre maître: Ne sois pas effrayé, dit l’Éternel, des paroles que tu as entendues, des blasphèmes proférés contre moi par les jeunes gens du roi d’Assyrie.
 
-<span class="marginnote nb" label="19:7" name="19:7">19:7</span><span style="display:none">¤19:7¤</span>
-Je lui inspirerai la résolution de retourner dans son pays à la suite d’une nouvelle qui lui parviendra; 
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:7" name="19-7">7</span>
+Je lui inspirerai la résolution de retourner dans son pays à la suite d’une nouvelle qui lui parviendra; là, je le ferai périr par le glaive."
 
-<span class="marginnote nb" label="19:8" name="19:8">19:8</span><span style="display:none">¤19:8¤</span>
+<span class="marginnote num" label="19:8" name="19-8">8</span>
 Lorsque Rabchakè revint auprès du roi d’Assyrie, il le trouva aux prises avec Libna; il avait, en effet, appris son départ de Lakhich.
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="19:9" name="19:9">19:9</span><span style="display:none">¤19:9¤</span>
+<span class="marginnote num" label="19:9" name="19-9">9</span>
 Or, le roi d’Assyrie reçut l’information suivante "Tirhaka, roi d’Ethiopie, marche contre toi pour te combattre." Il envoya alors de nouveaux messagers auprès d’Ezéchias avec cet ordre:
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
 
-<span class="marginnote nb" label="19:10" name="19:10">19:10</span><span style="display:none">¤19:10¤</span>
- "Vous parlerez à Ezéchias, roi de Juda, en ces termes: Ne te laisse pas tromper par ton Dieu, en qui tu mets ta confiance, en te disa
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:10" name="19-10">10</span>
+"Vous parlerez à Ezéchias, roi de Juda, en ces termes: Ne te laisse pas tromper par ton Dieu, en qui tu mets ta confiance, en te disant que Jérusalem ne tombera pas au pouvoir du roi d’Assyrie.
 
-<span class="marginnote nb" label="19:11" name="19:11">19:11</span><span style="display:none">¤19:11¤</span>
- Certes, toi aussi tu as appris les exploits accomplis par les rois d’Assyrie dans tous les pays qu’ils ont dévastés. Et t
-<span class="marginnote nb" label="13:23" name="13:23">13:23</span><span style="display:none">¤13:23¤</span>
+<span class="marginnote num" label="19:11" name="19-11">11</span>
+Certes, toi aussi tu as appris les exploits accomplis par les rois d’Assyrie dans tous les pays qu’ils ont dévastés. Et toi tu serais sauvé!
 
-<span class="marginnote nb" label="19:12" name="19:12">19:12</span><span style="display:none">¤19:12¤</span>
- Les dieux ont-ils pu assurer le salut des peuplades que mes ancêtres ont anéanties: Gozân et Haran, Récéf et les Benê-Eden établis à Telassar?
+<span class="marginnote num" label="19:12" name="19-12">12</span>
+Les dieux ont-ils pu assurer le salut des peuplades que mes ancêtres ont anéanties: Gozân et Haran, Récéf et les Benê-Eden établis à Telassar?
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
- Où est le roi de Hamat, le roi d’Arpad, le roi de Laïr. Sefarvayim, Hèna et Ivva?"
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:13" name="19-13">13</span>
+Où est le roi de Hamat, le roi d’Arpad, le roi de Laïr. Sefarvayim, Hèna et Ivva?"
 
-<span class="marginnote nb" label="19:14" name="19:14">19:14</span><span style="display:none">¤19:14¤</span>
- Ezéchias prit la lettre de la main des messagers et, après l’avoir lue, il se rendit dans la maison de Dieu et déploya cette lettre devant l’Éternel.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:14" name="19-14">14</span>
+Ezéchias prit la lettre de la main des messagers et, après l’avoir lue, il se rendit dans la maison de Dieu et déploya cette lettre devant l’Éternel.
 
-<span class="marginnote nb" label="19:15" name="19:15">19:15</span><span style="display:none">¤19:15¤</span>
- Puis Ezéchias adressa la prière suivante à l’Éternel "Éternel, Dieu d’Israël, toi qui trône
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:15" name="19-15">15</span>
+Puis Ezéchias adressa la prière suivante à l’Éternel "Éternel, Dieu d’Israël, toi qui trônes sur les chérubins, tu es le seul Dieu de tous les royaumes de l’univers, c’est toi qui as créé le ciel et la terre.
 
-<span class="marginnote nb" label="19:16" name="19:16">19:16</span><span style="display:none">¤19:16¤</span>
- Seigneur, prête l’oreille et écoute, ouvre les yeux et regarde! Accorde ton attention au message envoyé par Sennachérib pour blasphémer le Dieu vivan
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:16" name="19-16">16</span>
+Seigneur, prête l’oreille et écoute, ouvre les yeux et regarde! Accorde ton attention au message envoyé par Sennachérib pour blasphémer le Dieu vivant!
 
-<span class="marginnote nb" label="19:17" name="19:17">19:17</span><span style="display:none">¤19:17¤</span>
- Il est vrai, Éternel, que les rois d’Assyrie ont ruiné les peuples avec leurs territoires,
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:17" name="19-17">17</span>
+Il est vrai, Éternel, que les rois d’Assyrie ont ruiné les peuples avec leurs territoires,
 
-<span class="marginnote nb" label="19:18" name="19:18">19:18</span><span style="display:none">¤19:18¤</span>
- et ont livré leurs divinités aux flammes. Mais ce n’étaient point des dieux, c’étaient des œuvres fabriquées par l’homme, du bois et de la pierre; on les a donc anéanties.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:18" name="19-18">18</span>
+et ont livré leurs divinités aux flammes. Mais ce n’étaient point des dieux, c’étaient des œuvres fabriquées par l’homme, du bois et de la pierre; on les a donc anéanties.
 
-<span class="marginnote nb" label="19:19" name="19:19">19:19</span><span style="display:none">¤19:19¤</span>
- Et maintenant, protège-nous contre lui, Éternel, notre Dieu, afin que tous les royaumes de la terre reconnaissent que seul, ô Seigneur, tu es Dieu."
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:19" name="19-19">19</span>
+Et maintenant, protège-nous contre lui, Éternel, notre Dieu, afin que tous les royaumes de la terre reconnaissent que seul, ô Seigneur, tu es Dieu."
 
-<span class="marginnote nb" label="19:20" name="19:20">19:20</span><span style="display:none">¤19:20¤</span>
- Isaïe, fils d’Amoç, manda à Ezéchias: "Ainsi parle l’Éternel, le Dieu d’Israël: J’ai entendu la prière que tu m’as adress
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:20" name="19-20">20</span>
+Isaïe, fils d’Amoç, manda à Ezéchias: "Ainsi parle l’Éternel, le Dieu d’Israël: J’ai entendu la prière que tu m’as adressée au sujet de Sennachérib, roi d’Assyrie.
 
-<span class="marginnote nb" label="19:21" name="19:21">19:21</span><span style="display:none">¤19:21¤</span>
- Voici l’oracle prononcé sur lui par l’Éternel: "Elle te dédaigne, se rit de toi, la vierge, fille de Sion; elle hoche la tête après toi, la fille de Jérusalem.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:21" name="19-21">21</span>
+Voici l’oracle prononcé sur lui par l’Éternel: "Elle te dédaigne, se rit de toi, la vierge, fille de Sion; elle hoche la tête après toi, la fille de Jérusalem.
 
-<span class="marginnote nb" label="19:22" name="19:22">19:22</span><span style="display:none">¤19:22¤</span>
- A qui vont tes blasphèmes et insultes? Contre qui élèves-tu la voix? Tu as porté haut tes regards contre le Saint d’Israël.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:22" name="19-22">22</span>
+A qui vont tes blasphèmes et insultes? Contre qui élèves-tu la voix? Tu as porté haut tes regards contre le Saint d’Israël.
 
-<span class="marginnote nb" label="19:23" name="19:23">19:23</span><span style="display:none">¤19:23¤</span>
- Par tes émissaires, tu as outragé Dieu; tu as dit: "Avec mes nombreux chars j’ai escaladé la cime d
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:23" name="19-23">23</span>
+Par tes émissaires, tu as outragé Dieu; tu as dit: "Avec mes nombreux chars j’ai escaladé la cime des montagnes, les pentes escarpées du Liban; j’abats ses cèdres superbes, ses plus beaux cyprès; j’atteins le gîte de son dernier sommet, ses taillis les plus touffus.
 
-<span class="marginnote nb" label="19:24" name="19:24">19:24</span><span style="display:none">¤19:24¤</span>
- J’ai fait jaillir des sources, et bu des eaux étrangères; sous la plante de mes pieds je mets à sec tous les canaux de l’Égypte.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:24" name="19-24">24</span>
+J’ai fait jaillir des sources, et bu des eaux étrangères; sous la plante de mes pieds je mets à sec tous les canaux de l’Égypte.
 
-<span class="marginnote nb" label="19:25" name="19:25">19:25</span><span style="display:none">¤19:25¤</span>
- N’as-tu pas compris que j’ai tout résolu de loin, préparé ces événements dès les temps antiques? Maintenant je les ai suscités, pour que, détruites par toi, des villes fortes se changent en monceaux de ruines.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:25" name="19-25">25</span>
+N’as-tu pas compris que j’ai tout résolu de loin, préparé ces événements dès les temps antiques? Maintenant je les ai suscités, pour que, détruites par toi, des villes fortes se changent en monceaux de ruines.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Leurs habitants, réduits à l’impuissance, ont été frappés de terreur et
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:26" name="19-26">26</span>
+Leurs habitants, réduits à l’impuissance, ont été frappés de terreur et de confusion, semblables à l’herbe des champs, au vert gazon, à la mousse des toits et au blé flétri avant de monter en épis.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Que tu demeures chez toi, que tu entreprennes des expéditions, je le saisi comme je connais t
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:27" name="19-27">27</span>
+Que tu demeures chez toi, que tu entreprennes des expéditions, je le saisi comme je connais tes emportements contre moi.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Puisque tu t’emportes contre moi, et que tes discours arrogants sont montés à mes oreilles, je fixerai mon anneau à ton nez et mon mors entre tes lèvres, et te ferai reprendre le chemin par où tu es v
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:28" name="19-28">28</span>
+Puisque tu t’emportes contre moi, et que tes discours arrogants sont montés à mes oreilles, je fixerai mon anneau à ton nez et mon mors entre tes lèvres, et te ferai reprendre le chemin par où tu es venu."
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Et ceci te servira de signe: cette année on mangera le produit spontané des champs, la seconde année ce qui repoussera encore de soi-même, mais 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:29" name="19-29">29</span>
+Et ceci te servira de signe: cette année on mangera le produit spontané des champs, la seconde année ce qui repoussera encore de soi-même, mais la troisième année, vous ferez des semailles et des récoltes, vous planterez des vignes et en consommerez le produit.
 
-<span class="marginnote nb" label="19:30" name="19:30">19:30</span><span style="display:none">¤19:30¤</span>
- Les débris qui ont survécu de la maison de Juda étendront de nouvelles racines sous la terre et porteront des fruits au-dessus
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:30" name="19-30">30</span>
+Les débris qui ont survécu de la maison de Juda étendront de nouvelles racines sous la terre et porteront des fruits au-dessus.
 
-<span class="marginnote nb" label="19:31" name="19:31">19:31</span><span style="display:none">¤19:31¤</span>
- Oui, un reste refleurira à Jérusalem et des débris sur la montagne de Sion: voilà ce que réalisera l’amour de l’Éternel-Cebaot.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:31" name="19-31">31</span>
+Oui, un reste refleurira à Jérusalem et des débris sur la montagne de Sion: voilà ce que réalisera l’amour de l’Éternel-Cebaot.
 
-<span class="marginnote nb" label="19:32" name="19:32">19:32</span><span style="display:none">¤19:32¤</span>
- Aussi l’Éternel a-t-il fait cette déclaration au sujet du roi d’Assyrie: "Il ne pénétrera pas dans cette ville, n’y lancera aucune flèche, ne lui opposera pas un seul bouclier, et n’établira pas d
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:32" name="19-32">32</span>
+Aussi l’Éternel a-t-il fait cette déclaration au sujet du roi d’Assyrie: "Il ne pénétrera pas dans cette ville, n’y lancera aucune flèche, ne lui opposera pas un seul bouclier, et n’établira pas de redoute contre elle.
 
-<span class="marginnote nb" label="19:33" name="19:33">19:33</span><span style="display:none">¤19:33¤</span>
- Il reprendra le chemin par où il est venu, mais dans cette v
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:33" name="19-33">33</span>
+Il reprendra le chemin par où il est venu, mais dans cette ville (dit l’Éternel) Il n’entrera pas.
 
-<span class="marginnote nb" label="19:34" name="19:34">19:34</span><span style="display:none">¤19:34¤</span>
- Car je la protégerai, cette ville, pour son salut, en faveur de moi et de mon serviteur David."
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:34" name="19-34">34</span>
+Car je la protégerai, cette ville, pour son salut, en faveur de moi et de mon serviteur David."
 
-<span class="marginnote nb" label="19:35" name="19:35">19:35</span><span style="display:none">¤19:35¤</span>
- Cette même nuit, un ange du Seigneur se rendit au camp assyrien et y fit périr cent quatre-vingt-cinq mille hommes; en se levant le matin, on aperçut tous ces cadavres.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:35" name="19-35">35</span>
+Cette même nuit, un ange du Seigneur se rendit au camp assyrien et y fit périr cent quatre-vingt-cinq mille hommes; en se levant le matin, on aperçut tous ces cadavres.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Sennachérib, roi d’Assyrie, leva alors le camp, prit le chemin du retour et s’arrêta à Ninive.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:36" name="19-36">36</span>
+Sennachérib, roi d’Assyrie, leva alors le camp, prit le chemin du retour et s’arrêta à Ninive.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Là, pendant qu’il était prosterné dans le temple de son dieu Nisrokh, Adrammélec et Charécér, ses fils, le frappèrent de leur glaive et s’enfuirent dans le pays d’Ararat. Ce fut son fils Essar-Haddôn qui lui succéd
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="19:37" name="19-37">37</span>
+Là, pendant qu’il était prosterné dans le temple de son dieu Nisrokh, Adrammélec et Charécér, ses fils, le frappèrent de leur glaive et s’enfuirent dans le pays d’Ararat. Ce fut son fils Essar-Haddôn qui lui succéda.
 
-<span class="marginnote nb" label="20:1" name="20:1">20:1</span><span style="display:none">¤20:1¤</span>
- En ce temps-là, Ezéchias fut atteint d’une maladie mortelle. Le prophète Isaïe, fils d’Amoç, lui rendit vi
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:1" name="20-1"><strong>20</strong>:1</span>
+En ce temps-là, Ezéchias fut atteint d’une maladie mortelle. Le prophète Isaïe, fils d’Amoç, lui rendit visite et lui dit: "Ainsi parle l’Éternel: Donne tes ordres à ta maison, car tu vas mourir; tu ne te rétabliras pas."
 
-<span class="marginnote nb" label="20:2" name="20:2">20:2</span><span style="display:none">¤20:2¤</span>
- Ezéchias tourna la face vers le mur et implora l’Éternel en ces termes:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:2" name="20-2">2</span>
+Ezéchias tourna la face vers le mur et implora l’Éternel en ces termes:
 
-<span class="marginnote nb" label="20:3" name="20:3">20:3</span><span style="display:none">¤20:3¤</span>
- "De grâce, Seigneur, daigne te souvenir que j’ai marché devant toi fidèlement et d’un cœur sincère, et que j’ai fait ce qui te plaît
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:3" name="20-3">3</span>
+"De grâce, Seigneur, daigne te souvenir que j’ai marché devant toi fidèlement et d’un cœur sincère, et que j’ai fait ce qui te plaît!" Puis il éclata en longs sanglots.
 
-<span class="marginnote nb" label="20:4" name="20:4">20:4</span><span style="display:none">¤20:4¤</span>
+<span class="marginnote num" label="20:4" name="20-4">4</span>
 Isaïe n’avait pas encore quitté la cour du milieu quand l’Éternel s’adressa de nouveau à lui:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="20:5" name="20:5">20:5</span><span style="display:none">¤20:5¤</span>
-"Retourne pour dire à Ezéchias, le souverain de mon peuple: Ainsi parle l’Éternel, le Dieu de David, ton père: J’ai entendu ta prière et vu tes larmes, je te guérirai, et dès
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:5" name="20-5">5</span>
+"Retourne pour dire à Ezéchias, le souverain de mon peuple: Ainsi parle l’Éternel, le Dieu de David, ton père: J’ai entendu ta prière et vu tes larmes, je te guérirai, et dès le troisième jour tu monteras dans la maison de Dieu.
 
-<span class="marginnote nb" label="20:6" name="20:6">20:6</span><span style="display:none">¤20:6¤</span>
-Je prolongerai ta vie de quinze ans, je te délivrerai ainsi que cette ville de la main du roi d’Assyrie, et j’étendrai ma protection sur cette ville,
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:6" name="20-6">6</span>
+Je prolongerai ta vie de quinze ans, je te délivrerai ainsi que cette ville de la main du roi d’Assyrie, et j’étendrai ma protection sur cette ville, à cause de moi et à cause de mon serviteur David."
 
-<span class="marginnote nb" label="20:7" name="20:7">20:7</span><span style="display:none">¤20:7¤</span>
+<span class="marginnote num" label="20:7" name="20-7">7</span>
 Isaïe dit: "Qu’on prenne un gâteau de figues." On le prit, on l’appliqua sur l’ulcère, et Ezéchias se rétablit.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="20:8" name="20:8">20:8</span><span style="display:none">¤20:8¤</span>
+<span class="marginnote num" label="20:8" name="20-8">8</span>
 Ezéchias dit à Isaïe: "A quel signe reconnaîtrai-je que l’Éternel me guérira et que je pourrai monter le troisième jour dans la maison de Dieu?"
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="20:9" name="20:9">20:9</span><span style="display:none">¤20:9¤</span>
-Isaïe répondit: "Voici le signe que l’Éternel te propose pour te prouver qu’il réalisera la promesse qu’il a faite: Faut-il que l’
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:9" name="20-9">9</span>
+Isaïe répondit: "Voici le signe que l’Éternel te propose pour te prouver qu’il réalisera la promesse qu’il a faite: Faut-il que l’ombre avance de dix degrés ou recule de dix degrés?
 
-<span class="marginnote nb" label="20:10" name="20:10">20:10</span><span style="display:none">¤20:10¤</span>
- C’est chose facile, répliqua Ezéchias, que l’ombre descende de dix degrés; qu’elle 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:10" name="20-10">10</span>
+C’est chose facile, répliqua Ezéchias, que l’ombre descende de dix degrés; qu’elle revienne plutôt en arrière de dix degrés!"
 
-<span class="marginnote nb" label="20:11" name="20:11">20:11</span><span style="display:none">¤20:11¤</span>
- Le prophète Isaïe invoqua alors l’Éternel, qui ramena l’ombre de dix degrés en arrière sur le cadran où elle était desce
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:11" name="20-11">11</span>
+Le prophète Isaïe invoqua alors l’Éternel, qui ramena l’ombre de dix degrés en arrière sur le cadran où elle était descendue, sur le cadran d’Achaz.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Berodac-Baladan, fils de Baladan, roi de la Babylonie, ayant appris en ce temps-là qu’Ezéchias avait été malade, lui envoya des lettres et un 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:12" name="20-12">12</span>
+Berodac-Baladan, fils de Baladan, roi de la Babylonie, ayant appris en ce temps-là qu’Ezéchias avait été malade, lui envoya des lettres et un présent.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Ezéchias écouta avec complaisance les messagers et leur fit voir en entier la maison où il conservait ses objets de prix, argent, or, aromates et huiles précie
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:13" name="20-13">13</span>
+Ezéchias écouta avec complaisance les messagers et leur fit voir en entier la maison où il conservait ses objets de prix, argent, or, aromates et huiles précieuses, ainsi que son arsenal et toute ce que contenaient ses trésors; il n’y eut rien dans son palais et dans toutes ses possessions qu’il ne leur montrât.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Le prophète Isaïe, rendant visite au roi Ezéchias, lui demanda: "Qu’ont dit ces hommes et d’où viennent-ils pour te voir? Ils viennent d’une région lointaine, de la Babylonie," répl
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:14" name="20-14">14</span>
+Le prophète Isaïe, rendant visite au roi Ezéchias, lui demanda: "Qu’ont dit ces hommes et d’où viennent-ils pour te voir? Ils viennent d’une région lointaine, de la Babylonie," répliqua Ezéchias.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ "Qu’ont-ils vu dans ta demeure?" demanda encore Isaïe. "Ils ont vu tout ce qui se trouve dans mon palai
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:15" name="20-15">15</span>
+"Qu’ont-ils vu dans ta demeure?" demanda encore Isaïe. "Ils ont vu tout ce qui se trouve dans mon palais, repartit Ezéchias; mes trésors ne contiennent pas un objet que je ne leur aie montré."
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Isaïe dit alors à Ezéchias: "Ecoute ce que dit le Seigneur:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:16" name="20-16">16</span>
+Isaïe dit alors à Ezéchias: "Ecoute ce que dit le Seigneur:
 
-<span class="marginnote nb" label="20:17" name="20:17">20:17</span><span style="display:none">¤20:17¤</span>
- Il viendra un temps où l’on emportera en Babylonie tout ce que renferme to
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:17" name="20-17">17</span>
+Il viendra un temps où l’on emportera en Babylonie tout ce que renferme ton palais avec tes trésors amassés par tes aïeux; il n’en restera rien, dit l’Éternel.
 
-<span class="marginnote nb" label="20:18" name="20:18">20:18</span><span style="display:none">¤20:18¤</span>
- On emmènera aussi une partie de tes fils qui te devront le jour, de ceux que tu engendreras, pour les employer comme fonctionnaires au palais du roi d’Assyrie."
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:18" name="20-18">18</span>
+On emmènera aussi une partie de tes fils qui te devront le jour, de ceux que tu engendreras, pour les employer comme fonctionnaires au palais du roi d’Assyrie."
 
-<span class="marginnote nb" label="20:19" name="20:19">20:19</span><span style="display:none">¤20:19¤</span>
- Ezéchias dit alors à Isaïe: "Bienveillante est la sentence de l’Éternel que tu m’as transmise." Et il ajouta: "Au moin
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:19" name="20-19">19</span>
+Ezéchias dit alors à Isaïe: "Bienveillante est la sentence de l’Éternel que tu m’as transmise." Et il ajouta: "Au moins, la paix et l’ordre régneront tant que je vivrai!"
 
-<span class="marginnote nb" label="20:20" name="20:20">20:20</span><span style="display:none">¤20:20¤</span>
- Pour les autres faits concernant Ezéchias, tous ses exploits, la piscine et l’aqueduc qu’il a fait établir pour amener l’eau dans la ville, tout cela, est consigné dans le livre des annales des rois de Juda
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:20" name="20-20">20</span>
+Pour les autres faits concernant Ezéchias, tous ses exploits, la piscine et l’aqueduc qu’il a fait établir pour amener l’eau dans la ville, tout cela, est consigné dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="20:21" name="20:21">20:21</span><span style="display:none">¤20:21¤</span>
- Ezéchias, s’étant endormi avec ses pères, eut pour successeur son fils Manassé.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="20:21" name="20-21">21</span>
+Ezéchias, s’étant endormi avec ses pères, eut pour successeur son fils Manassé.
 
-<span class="marginnote nb" label="21:1" name="21:1">21:1</span><span style="display:none">¤21:1¤</span>
- Manassé avait douze ans en montant sur le trône, et il régna cinquante-cinq ans à Jérusale
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:1" name="21-1"><strong>21</strong>:1</span>
+Manassé avait douze ans en montant sur le trône, et il régna cinquante-cinq ans à Jérusalem; sa mère s’appelait Hefci-Bah.
 
-<span class="marginnote nb" label="21:2" name="21:2">21:2</span><span style="display:none">¤21:2¤</span>
- Il fit le mal aux yeux de l’Éternel, imitant les abominations des peuples que l’Éternel avait dépossédés au profit des enfants d’Israël.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:2" name="21-2">2</span>
+Il fit le mal aux yeux de l’Éternel, imitant les abominations des peuples que l’Éternel avait dépossédés au profit des enfants d’Israël.
 
-<span class="marginnote nb" label="21:3" name="21:3">21:3</span><span style="display:none">¤21:3¤</span>
- Il rétablit de nouveau les hauts-lieux qu’Ezéchias, son père, avait détruits, érigea des autels à Baal, institua une Achêra à l’exemple d’Achab, roi d’Israël, se prosterna devant toute la milice céleste et l’adora.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:3" name="21-3">3</span>
+Il rétablit de nouveau les hauts-lieux qu’Ezéchias, son père, avait détruits, érigea des autels à Baal, institua une Achêra à l’exemple d’Achab, roi d’Israël, se prosterna devant toute la milice céleste et l’adora.
 
-<span class="marginnote nb" label="21:4" name="21:4">21:4</span><span style="display:none">¤21:4¤</span>
- Il construisit des autels dans le temple du Seigneur, malgré cette parole de l’Éternel: "C’est à Jérusalem que je ferai domi
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:4" name="21-4">4</span>
+Il construisit des autels dans le temple du Seigneur, malgré cette parole de l’Éternel: "C’est à Jérusalem que je ferai dominer mon nom."
 
-<span class="marginnote nb" label="21:5" name="21:5">21:5</span><span style="display:none">¤21:5¤</span>
- Or, c’est en l’honneur de toute la milice céleste qu’il érigea des autels dans les deux parvis du temple.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:5" name="21-5">5</span>
+Or, c’est en l’honneur de toute la milice céleste qu’il érigea des autels dans les deux parvis du temple.
 
-<span class="marginnote nb" label="21:6" name="21:6">21:6</span><span style="display:none">¤21:6¤</span>
+<span class="marginnote num" label="21:6" name="21-6">6</span>
 Il fit passer son fils par le feu, s’adonna aux augures et aux sortilèges, et pratiqua les évocations et les divinations. Immense fut le mal qu’il fit aux yeux de l’Éternel pour l’irriter.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="21:7" name="21:7">21:7</span><span style="display:none">¤21:7¤</span>
-L’idole d’Astarté qu’il avait fabriquée, il la plaça dans le temple, dont l’Éternel avait dit à David et à son fils Salomon: "C’est dans ce temple, à Jérusalem, la ville élue entre toutes les tribus d’Israël, que je ferai à jamais résider mo
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:7" name="21-7">7</span>
+L’idole d’Astarté qu’il avait fabriquée, il la plaça dans le temple, dont l’Éternel avait dit à David et à son fils Salomon: "C’est dans ce temple, à Jérusalem, la ville élue entre toutes les tribus d’Israël, que je ferai à jamais résider mon nom.
 
-<span class="marginnote nb" label="21:8" name="21:8">21:8</span><span style="display:none">¤21:8¤</span>
+<span class="marginnote num" label="21:8" name="21-8">8</span>
 Je ne ferai plus errer les pas d’Israël loin du pays que j’ai donné à ses ancêtres, pourvu qu’il accomplisse scrupuleusement mes commandements, ainsi que toute la loi que mon serviteur Moïse lui a prescrite."
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="21:9" name="21:9">21:9</span><span style="display:none">¤21:9¤</span>
+<span class="marginnote num" label="21:9" name="21-9">9</span>
 Mais ils désobéirent; Manassé les induisit à agir plus mal que les peuples exterminés par l’Éternel au profit des enfants d’Israël.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="21:10" name="21:10">21:10</span><span style="display:none">¤21:10¤</span>
- C’est pourquoi, l’Éternel parla ainsi par l’organe des prophètes, ses serviteurs:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:10" name="21-10">10</span>
+C’est pourquoi, l’Éternel parla ainsi par l’organe des prophètes, ses serviteurs:
 
-<span class="marginnote nb" label="21:11" name="21:11">21:11</span><span style="display:none">¤21:11¤</span>
- "Puisque Manassé, roi de Juda, s’est rendu coupable de ces abominations en faisant le mal plus que les Amorréens qui l’avaient précédé, et qu’il a entraîné même Ju
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:11" name="21-11">11</span>
+"Puisque Manassé, roi de Juda, s’est rendu coupable de ces abominations en faisant le mal plus que les Amorréens qui l’avaient précédé, et qu’il a entraîné même Juda au péché par ses idoles,
 
-<span class="marginnote nb" label="21:12" name="21:12">21:12</span><span style="display:none">¤21:12¤</span>
- moi, l’Éternel, Dieu d’Israël, je susciterai contre Jérusalem et contre Juda des calamités telles que les deux oreilles tinteront à qui
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:12" name="21-12">12</span>
+moi, l’Éternel, Dieu d’Israël, je susciterai contre Jérusalem et contre Juda des calamités telles que les deux oreilles tinteront à qui les apprendra.
 
-<span class="marginnote nb" label="21:13" name="21:13">21:13</span><span style="display:none">¤21:13¤</span>
- Je passerai sur Jérusalem le cordeau de Samarie et le niveau de la maison d’Achab, et je nettoierai Jérusalem comme on nettoie un vase qu’on retourne après l’avoir nettoyé.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:13" name="21-13">13</span>
+Je passerai sur Jérusalem le cordeau de Samarie et le niveau de la maison d’Achab, et je nettoierai Jérusalem comme on nettoie un vase qu’on retourne après l’avoir nettoyé.
 
-<span class="marginnote nb" label="21:14" name="21:14">21:14</span><span style="display:none">¤21:14¤</span>
- J’abandonnerai les débris de mon héritage, je les livrerai au pouvoir de leurs ennemis, qui tous les pilleront et les dépouilleront,
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:14" name="21-14">14</span>
+J’abandonnerai les débris de mon héritage, je les livrerai au pouvoir de leurs ennemis, qui tous les pilleront et les dépouilleront,
 
-<span class="marginnote nb" label="21:15" name="21:15">21:15</span><span style="display:none">¤21:15¤</span>
- en raison du mal qu’ils ont fait à mes yeux, de façon à m’irriter, depuis le jour où leurs ancêtres sont sortis de l’Égypte jusqu’au jour présent."
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:15" name="21-15">15</span>
+en raison du mal qu’ils ont fait à mes yeux, de façon à m’irriter, depuis le jour où leurs ancêtres sont sortis de l’Égypte jusqu’au jour présent."
 
-<span class="marginnote nb" label="21:16" name="21:16">21:16</span><span style="display:none">¤21:16¤</span>
- Manassé répandit aussi le sang innocent en si grande abondance que Jérusalem en était remplie d’une extrémité à l’autre, sans parler du crime d’avo
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:16" name="21-16">16</span>
+Manassé répandit aussi le sang innocent en si grande abondance que Jérusalem en était remplie d’une extrémité à l’autre, sans parler du crime d’avoir induit Juda à faire le mal aux yeux de l’Éternel.
 
-<span class="marginnote nb" label="21:17" name="21:17">21:17</span><span style="display:none">¤21:17¤</span>
- Le reste de l’histoire de Manassé, les œuvres qu’il a accomplies et les péchés qu’il a commis, tout cela est consigné dans les arme es des rois de Juda.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:17" name="21-17">17</span>
+Le reste de l’histoire de Manassé, les œuvres qu’il a accomplies et les péchés qu’il a commis, tout cela est consigné dans les arme es des rois de Juda.
 
-<span class="marginnote nb" label="21:18" name="21:18">21:18</span><span style="display:none">¤21:18¤</span>
- Manassé s’endormit avec ses pères, et fut enseveli dans le jardin de son palais, dans le jardin d’Ouzza. Son fils Amon lui succéda.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:18" name="21-18">18</span>
+Manassé s’endormit avec ses pères, et fut enseveli dans le jardin de son palais, dans le jardin d’Ouzza. Son fils Amon lui succéda.
 
-<span class="marginnote nb" label="21:19" name="21:19">21:19</span><span style="display:none">¤21:19¤</span>
- Aman avait vingt-deux ans en montant sur le trône, et il régna 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:19" name="21-19">19</span>
+Aman avait vingt-deux ans en montant sur le trône, et il régna deux ans à Jérusalem;sa mère s’appelait Mechoullémet, fille de Harouç, de Yotba.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Il fit le mal aux yeux de l’Éternel, à l’exemple de Manassé, son père.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:20" name="21-20">20</span>
+Il fit le mal aux yeux de l’Éternel, à l’exemple de Manassé, son père.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Il suivit en tout la voie où celui-ci avait marché, Il adora les idoles que son père avait servies et se prosterna devant el
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:21" name="21-21">21</span>
+Il suivit en tout la voie où celui-ci avait marché, Il adora les idoles que son père avait servies et se prosterna devant elles;
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ il abandonna l’Éternel, le Dieu de ses ancêtres, et ne marcha pas dans ses v
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:22" name="21-22">22</span>
+il abandonna l’Éternel, le Dieu de ses ancêtres, et ne marcha pas dans ses voies.
 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
-¤ Les officiers d’Amon conspirèrent contre lui, et le mirent à mort dans son palais.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:23" name="21-23">23</span>
+Les officiers d’Amon conspirèrent contre lui, et le mirent à mort dans son palais.
 
-<span class="marginnote nb" label="21:24" name="21:24">21:24</span><span style="display:none">¤21:24¤</span>
- La population du pays massacra tous ceux qui s’étaient conjurés contre le roi Amon, et proclama roi à sa p
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:24" name="21-24">24</span>
+La population du pays massacra tous ceux qui s’étaient conjurés contre le roi Amon, et proclama roi à sa place son fils Josias.
 
-<span class="marginnote nb" label="21:25" name="21:25">21:25</span><span style="display:none">¤21:25¤</span>
- Le reste de l’histoire d’Amon et les faits accomplis par lui sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:25" name="21-25">25</span>
+Le reste de l’histoire d’Amon et les faits accomplis par lui sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="21:26" name="21:26">21:26</span><span style="display:none">¤21:26¤</span>
- On l’ensevelit dans son sépulcre du jardin d’Ouzza, et Josias le remplaça sur le trône.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="21:26" name="21-26">26</span>
+On l’ensevelit dans son sépulcre du jardin d’Ouzza, et Josias le remplaça sur le trône.
 
-<span class="marginnote nb" label="22:1" name="22:1">22:1</span><span style="display:none">¤22:1¤</span>
+<span class="marginnote num" label="22:1" name="22-1"><strong>22</strong>:1</span>
 Josias avait huit ans en montant sur le trône, et il régna trente et un ans à Jérusalem; sa mère s’appelait Yedida, fille d’Adaya, de Bocekat.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="22:2" name="22:2">22:2</span><span style="display:none">¤22:2¤</span>
+<span class="marginnote num" label="22:2" name="22-2">2</span>
 Il fit ce qui plaît aux yeux de l’Éternel, suivant en tout la voie de son aïeul David, sans s’en écarter à droite ni à gauche.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="22:3" name="22:3">22:3</span><span style="display:none">¤22:3¤</span>
+<span class="marginnote num" label="22:3" name="22-3">3</span>
 La dix-huitième année de son règne, le roi Josias envoya son secrétaire Chafan, fils d’Açalyahou, fils de Mechoullam, dans la maison du Seigneur en lui disant:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
 
-<span class="marginnote nb" label="22:4" name="22:4">22:4</span><span style="display:none">¤22:4¤</span>
- "Va auprès de Hilkiyyahou, le grand-prêtre, et qu’il réunisse tout l’ar
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:4" name="22-4">4</span>
+"Va auprès de Hilkiyyahou, le grand-prêtre, et qu’il réunisse tout l’argent qui a été apporté dans la maison du Seigneur et recueilli des mains du peuple par les gardiens du seuil,
 
-<span class="marginnote nb" label="22:5" name="22:5">22:5</span><span style="display:none">¤22:5¤</span>
- afin qu’on le remette aux directeurs des travaux, chargés de l’entretien du temple, lesquels l’emploieront à payer les ouvriers occupés dans la maison de Dieu à restaurer l’édifice:
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:5" name="22-5">5</span>
+afin qu’on le remette aux directeurs des travaux, chargés de l’entretien du temple, lesquels l’emploieront à payer les ouvriers occupés dans la maison de Dieu à restaurer l’édifice:
 
-<span class="marginnote nb" label="22:6" name="22:6">22:6</span><span style="display:none">¤22:6¤</span>
- charpentiers, constructeurs, maçons; ils achèteront aussi le bois et les pierres de taille destinés à la
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:6" name="22-6">6</span>
+charpentiers, constructeurs, maçons; ils achèteront aussi le bois et les pierres de taille destinés à la réparation du temple.
 
-<span class="marginnote nb" label="22:7" name="22:7">22:7</span><span style="display:none">¤22:7¤</span>
- Mais on ne demandera pas de comptes aux hommes à qui on confie l’argent, car ils agissent avec loyauté.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:7" name="22-7">7</span>
+Mais on ne demandera pas de comptes aux hommes à qui on confie l’argent, car ils agissent avec loyauté.
 
-<span class="marginnote nb" label="22:8" name="22:8">22:8</span><span style="display:none">¤22:8¤</span>
-A cette occasion, Hilkiyyahou, le grand-prêtre, dit à Chafan, le secrétaire: "Le livre de la loi a été trouvé par moi dans le 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:8" name="22-8">8</span>
+A cette occasion, Hilkiyyahou, le grand-prêtre, dit à Chafan, le secrétaire: "Le livre de la loi a été trouvé par moi dans le temple du Seigneur et il le remit à Chafan, qui le lut.
 
-<span class="marginnote nb" label="22:9" name="22:9">22:9</span><span style="display:none">¤22:9¤</span>
-Chafan, le secrétaire, revint auprès du roi et lui rendit compte de sa mission: "Tes serviteurs, dit-il, s
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:9" name="22-9">9</span>
+Chafan, le secrétaire, revint auprès du roi et lui rendit compte de sa mission: "Tes serviteurs, dit-il, se sont fait verser l’argent qui se trouvait dans le temple, et l’ont remis entre les mains des directeurs des travaux, chargés de l’entretien de la maison du Seigneur."
 
-<span class="marginnote nb" label="22:10" name="22:10">22:10</span><span style="display:none">¤22:10¤</span>
- Il compléta ainsi son récit: "Hilkiyya, le pontife, m’a remis un livre;" et Chafan en fit la lecture devant le roi.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:10" name="22-10">10</span>
+Il compléta ainsi son récit: "Hilkiyya, le pontife, m’a remis un livre;" et Chafan en fit la lecture devant le roi.
 
-<span class="marginnote nb" label="22:11" name="22:11">22:11</span><span style="display:none">¤22:11¤</span>
- En entendant les termes du livre de la loi, le roi déchira ses vêtements,
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:11" name="22-11">11</span>
+En entendant les termes du livre de la loi, le roi déchira ses vêtements,
 
-<span class="marginnote nb" label="22:12" name="22:12">22:12</span><span style="display:none">¤22:12¤</span>
- et donna cet ordre à Hilkiyya, le pontife, à Ahikam, fils de Chafan, à Akhbor, fils de Mikhaya, à Chafan, le secrétaire, et à Assaya, officier 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:12" name="22-12">12</span>
+et donna cet ordre à Hilkiyya, le pontife, à Ahikam, fils de Chafan, à Akhbor, fils de Mikhaya, à Chafan, le secrétaire, et à Assaya, officier royal:
 
-<span class="marginnote nb" label="22:13" name="22:13">22:13</span><span style="display:none">¤22:13¤</span>
- "Allez consulter l’Éternel pour moi, pour le peuple, pour tout Juda, au sujet de ce livre qu’on vient de
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:13" name="22-13">13</span>
+"Allez consulter l’Éternel pour moi, pour le peuple, pour tout Juda, au sujet de ce livre qu’on vient de trouver, car grande est la colère divine allumée contre nous par le refus de nos ancêtres à écouter et à pratiquer les commandements qui nous sont prescrits dans ce livre."
 
-<span class="marginnote nb" label="22:14" name="22:14">22:14</span><span style="display:none">¤22:14¤</span>
- Hilkiyyahou, le pontife, Ahikam, Akhbor, Chafan et Assaya se rendirent auprès de la prophétesse Houlda, femme du gardien des vêtements, Challoum, fils de Tikva, fils 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:14" name="22-14">14</span>
+Hilkiyyahou, le pontife, Ahikam, Akhbor, Chafan et Assaya se rendirent auprès de la prophétesse Houlda, femme du gardien des vêtements, Challoum, fils de Tikva, fils de Harhas; elle demeurait à Jérusalem dans le deuxième quartier. Quand ils lui eurent parlé,
 
-<span class="marginnote nb" label="22:15" name="22:15">22:15</span><span style="display:none">¤22:15¤</span>
- elle leur répliqua: "Voici ce qu’a dit l’Éternel, Dieu d’Israël: Annoncez à l’homme qui vous a envoyés auprès de moi.
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:15" name="22-15">15</span>
+elle leur répliqua: "Voici ce qu’a dit l’Éternel, Dieu d’Israël: Annoncez à l’homme qui vous a envoyés auprès de moi.
 
-<span class="marginnote nb" label="22:16" name="22:16">22:16</span><span style="display:none">¤22:16¤</span>
- Ainsi a parlé l’Éternel: Je vais amener le malheur sur cette contrée et ses habitants, toutes les choses prédites dans le livre qu’a 
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:16" name="22-16">16</span>
+Ainsi a parlé l’Éternel: Je vais amener le malheur sur cette contrée et ses habitants, toutes les choses prédites dans le livre qu’a lu le roi de Juda,
 
-<span class="marginnote nb" label="22:17" name="22:17">22:17</span><span style="display:none">¤22:17¤</span>
- parce qu’ils m’ont abandonné et ont offert l’encens à des dieux étrangers, m’irritant par toutes les œuvres de leurs main
-<span class="marginnote nb" label="19:13" name="19:13">19:13</span><span style="display:none">¤19:13¤</span>
+<span class="marginnote num" label="22:17" name="22-17">17</span>
+parce qu’ils m’ont abandonné et ont offert l’encens à des dieux étrangers, m’irritant par toutes les œuvres de leurs mains; aussi ma colère s’est-elle allumée contre cette contrée, pour ne plus s’éteindre.
 
-<span class="marginnote nb" label="22:18" name="22:18">22:18</span><span style="display:none">¤22:18¤</span>
- Quant au roi de Juda qui vous envoie pour consulter l’Éternel, voici ce que vous lui direz: Ainsi a parlé l’Éternel, Dieu d’Israël, au sujet de ce que tu viens d’entendre:
+<span class="marginnote num" label="22:18" name="22-18">18</span>
+Quant au roi de Juda qui vous envoie pour consulter l’Éternel, voici ce que vous lui direz: Ainsi a parlé l’Éternel, Dieu d’Israël, au sujet de ce que tu viens d’entendre:
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
- Puisque ton cœur s’est attendri, et que tu t’es humilié devant l’Éternel en entendant que j’ai décrété la désolation et la malédiction contre cette contrée et ses habitants, puisque tu as déchiré tes vêtements et versé des larmes devant moi, de mon côté, je t’ai exaucé, dit l’Éternel.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="22:19" name="22-19">19</span>
+Puisque ton cœur s’est attendri, et que tu t’es humilié devant l’Éternel en entendant que j’ai décrété la désolation et la malédiction contre cette contrée et ses habitants, puisque tu as déchiré tes vêtements et versé des larmes devant moi, de mon côté, je t’ai exaucé, dit l’Éternel.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Je te réunirai donc à tes ancêtres, tu iras les rejoindre en paix dans la tombe, et tes y
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="22:20" name="22-20">20</span>
+Je te réunirai donc à tes ancêtres, tu iras les rejoindre en paix dans la tombe, et tes yeux ne verront pas les malheurs que je déchaînerai sur cette contrée." Ils rendirent compte de leur mission au roi.
 
-<span class="marginnote nb" label="23:1" name="23:1">23:1</span><span style="display:none">¤23:1¤</span>
- Sur l’ordre du roi, l’on convoqua auprès de lui tous les anciens de Juda et de Jérusalem.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:1" name="23-1"><strong>23</strong>:1</span>
+Sur l’ordre du roi, l’on convoqua auprès de lui tous les anciens de Juda et de Jérusalem.
 
-<span class="marginnote nb" label="23:2" name="23:2">23:2</span><span style="display:none">¤23:2¤</span>
- Le roi monta au temple du Seigneur, accompagné de tous les Judéens et de tous les habitants de Jérusalem, prêtres, prophètes et tout!e peuple, petits et grands, et il leur donna lecture de toutes les paroles du livre de l’alliance, trouvé dans le temple du Seigneur.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:2" name="23-2">2</span>
+Le roi monta au temple du Seigneur, accompagné de tous les Judéens et de tous les habitants de Jérusalem, prêtres, prophètes et tout!e peuple, petits et grands, et il leur donna lecture de toutes les paroles du livre de l’alliance, trouvé dans le temple du Seigneur.
 
-<span class="marginnote nb" label="23:3" name="23:3">23:3</span><span style="display:none">¤23:3¤</span>
- Le roi se plaça sur l’estrade, et s’engagea par un pacte, devant l’Éternel, à marcher dans ses voies, à observer ses command
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:3" name="23-3">3</span>
+Le roi se plaça sur l’estrade, et s’engagea par un pacte, devant l’Éternel, à marcher dans ses voies, à observer ses commandements, ses lois et ses statuts, de tout cœur et de toute âme, afin d’accomplir les paroles de cette alliance, inscrites dans ce livre. Tout le peuple adhéra au pacte.
 
-<span class="marginnote nb" label="23:4" name="23:4">23:4</span><span style="display:none">¤23:4¤</span>
- Alors le roi ordonna à Hilkiyyahou, le grand pontife, aux pontifes suppléants et aux gardiens du seuil, d’enlever du temple de l’Éternel tous les objets destinés au cult
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:4" name="23-4">4</span>
+Alors le roi ordonna à Hilkiyyahou, le grand pontife, aux pontifes suppléants et aux gardiens du seuil, d’enlever du temple de l’Éternel tous les objets destinés au culte de Baal, d’Achêra et de toute la milice du ciel; il les fit brûler hors de Jérusalem, dans la campagne du Cédron, et l’on en transporta la cendre à Béthel.
 
-<span class="marginnote nb" label="23:5" name="23:5">23:5</span><span style="display:none">¤23:5¤</span>
-Il supprima les prêtres des idoles, institués par les rois de Juda, et qui offraient l’encens sur les hauts-lieux, dans les villes de Juda et dans les alentours de Jérusalem, ceux aussi qui encensaient Baal, le soleil, la lune, 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:5" name="23-5">5</span>
+Il supprima les prêtres des idoles, institués par les rois de Juda, et qui offraient l’encens sur les hauts-lieux, dans les villes de Juda et dans les alentours de Jérusalem, ceux aussi qui encensaient Baal, le soleil, la lune, les constellations et toute la milice du ciel.
 
-<span class="marginnote nb" label="23:6" name="23:6">23:6</span><span style="display:none">¤23:6¤</span>
+<span class="marginnote num" label="23:6" name="23-6">6</span>
 Il fit transporter l’Achêra du temple de l’Éternel à l’extérieur de Jérusalem, dans la vallée du Cédron; on la brûla dans la vallée du Cédron et on la réduisit en menue poussière, qu’on dispersa sur les tombeaux des gens du peuple.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="23:7" name="23:7">23:7</span><span style="display:none">¤23:7¤</span>
+<span class="marginnote num" label="23:7" name="23-7">7</span>
 Il démolit les salles des prostitués attenantes à la maison du Seigneur, où les femmes tissaient des pavillons pour Achêra.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="23:8" name="23:8">23:8</span><span style="display:none">¤23:8¤</span>
-Il fit venir tous les prêtres des villes de Juda, déclara impurs les hauts-lieux où ces prêtres avaient offert l’encens depuis Ghéba jusqu’à Bersabée et fit abattre les hauts-lieux des portes, placés à l’entrée de la p
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:8" name="23-8">8</span>
+Il fit venir tous les prêtres des villes de Juda, déclara impurs les hauts-lieux où ces prêtres avaient offert l’encens depuis Ghéba jusqu’à Bersabée et fit abattre les hauts-lieux des portes, placés à l’entrée de la porte de Josué, gouverneur de la ville, qu’on avait sur sa gauche en arrivant à la porte de la ville.
 
-<span class="marginnote nb" label="23:9" name="23:9">23:9</span><span style="display:none">¤23:9¤</span>
+<span class="marginnote num" label="23:9" name="23-9">9</span>
 Toutefois, les pontifes des hauts-lieux ne devaient point monter sur l’autel du Seigneur, dans Jérusalem; ils mangeaient seulement les azymes au milieu de leurs frères.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="23:10" name="23:10">23:10</span><span style="display:none">¤23:10¤</span>
- Il déclara impur le Tofèth qui se trouve dans la vallée de Ben-Hinnom, afin que personne n’y fit plus passer son fils ni sa fille par le feu, en l’honneur de Moloc
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:10" name="23-10">10</span>
+Il déclara impur le Tofèth qui se trouve dans la vallée de Ben-Hinnom, afin que personne n’y fit plus passer son fils ni sa fille par le feu, en l’honneur de Moloch.
 
-<span class="marginnote nb" label="23:11" name="23:11">23:11</span><span style="display:none">¤23:11¤</span>
- Il fit enlever les chevaux que les rois de Juda avaient consacrés au soleil, à l’entrée du temple, les relégua près de la cellule du fo
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:11" name="23-11">11</span>
+Il fit enlever les chevaux que les rois de Juda avaient consacrés au soleil, à l’entrée du temple, les relégua près de la cellule du fonctionnaire Nétân-Mélec, située dans l’annexe, et il livra aux flammes les chars du soleil.
 
-<span class="marginnote nb" label="23:12" name="23:12">23:12</span><span style="display:none">¤23:12¤</span>
- Les autels bâtis par les rois de Juda sur la terrasse supérieure du palais d’Achaz, et ceux que Manassé avait élevés dans les deux parvis du temple du Seigneur, le roi les abattit, les fit br
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:12" name="23-12">12</span>
+Les autels bâtis par les rois de Juda sur la terrasse supérieure du palais d’Achaz, et ceux que Manassé avait élevés dans les deux parvis du temple du Seigneur, le roi les abattit, les fit broyer et en enlever la poussière pour la disperser dans la vallée du Cédron.
 
-<span class="marginnote nb" label="23:13" name="23:13">23:13</span><span style="display:none">¤23:13¤</span>
- Les hauts-lieux construits par Salomon, roi d’Israël, en face de Jérusalem, au sud du Mont de la Perdition, en l’honneur d’Astarté, idole des Sidoniens, de Khamoch, idole des Moabites, et de Milkom, ido
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:13" name="23-13">13</span>
+Les hauts-lieux construits par Salomon, roi d’Israël, en face de Jérusalem, au sud du Mont de la Perdition, en l’honneur d’Astarté, idole des Sidoniens, de Khamoch, idole des Moabites, et de Milkom, idole des Ammonites, le roi les souilla;
 
-<span class="marginnote nb" label="23:14" name="23:14">23:14</span><span style="display:none">¤23:14¤</span>
- il brisa aussi les stèles, abattit les Achéra, et en couvrit l’emplacement d’ossements humains.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:14" name="23-14">14</span>
+il brisa aussi les stèles, abattit les Achéra, et en couvrit l’emplacement d’ossements humains.
 
-<span class="marginnote nb" label="23:15" name="23:15">23:15</span><span style="display:none">¤23:15¤</span>
- De plus, l’autel de Béthel, le haut-lieu qu’avait établi Jéroboam, fils de Nebat, le corrupteur d’Israël, autel et haut-lieu, il les détruisit; il 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:15" name="23-15">15</span>
+De plus, l’autel de Béthel, le haut-lieu qu’avait établi Jéroboam, fils de Nebat, le corrupteur d’Israël, autel et haut-lieu, il les détruisit; il brûla le haut-lieu qui fut réduit en cendres et livra aux flammes l’Achêra.
 
-<span class="marginnote nb" label="23:16" name="23:16">23:16</span><span style="display:none">¤23:16¤</span>
- Josias, regardant de côté et d’autre, remarqua les tombeaux qui couvraient la montagne; il ordonna de retirer les ossements des tombeaux, de les brûler sur l’autel pour le souiller, selon la pr
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:16" name="23-16">16</span>
+Josias, regardant de côté et d’autre, remarqua les tombeaux qui couvraient la montagne; il ordonna de retirer les ossements des tombeaux, de les brûler sur l’autel pour le souiller, selon la prédiction divine de l’homme de Dieu qui avait annoncé ces événements.
 
-<span class="marginnote nb" label="23:17" name="23:17">23:17</span><span style="display:none">¤23:17¤</span>
- Il demanda aussi: "Quel est ce monument que je vois là-bas?" Et les habitants lui répondirent: "C’est le tombeau de l’homme de Dieu venu de Juda pour annoncer les faits que tu viens d’accomplir sur l’autel de Béthel.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:17" name="23-17">17</span>
+Il demanda aussi: "Quel est ce monument que je vois là-bas?" Et les habitants lui répondirent: "C’est le tombeau de l’homme de Dieu venu de Juda pour annoncer les faits que tu viens d’accomplir sur l’autel de Béthel.
 
-<span class="marginnote nb" label="23:18" name="23:18">23:18</span><span style="display:none">¤23:18¤</span>
- Laissez-le reposer en paix, dit le roi; que personne ne déplace
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:18" name="23-18">18</span>
+Laissez-le reposer en paix, dit le roi; que personne ne déplace ses ossements." Et l’on respecta ses ossements ainsi que ceux du prophète venu de Samarie.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Les édifices des hauts-lieux, dans les villes de la Samarie, élevés par les rois d’Israël pour exciter la colère divine, Josias les fit également disparaître; il les traita, exactement comme il avait traité ceux de Béthel.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:19" name="23-19">19</span>
+Les édifices des hauts-lieux, dans les villes de la Samarie, élevés par les rois d’Israël pour exciter la colère divine, Josias les fit également disparaître; il les traita, exactement comme il avait traité ceux de Béthel.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Il immola sur les autels tous les prêtres des hauts-lieux qui étaient présents, puis il y brûla des ossements humains. Enfin
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:20" name="23-20">20</span>
+Il immola sur les autels tous les prêtres des hauts-lieux qui étaient présents, puis il y brûla des ossements humains. Enfin il retourna à Jérusalem.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Le roi donna à tout le peuple l’ordre suivant: "Célébrez la Pâque en l’honne
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:21" name="23-21">21</span>
+Le roi donna à tout le peuple l’ordre suivant: "Célébrez la Pâque en l’honneur de l’Éternel, votre Dieu, telle qu’elle est prescrite dans ce livre de l’alliance."
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ De fait, on n’avait point encore célébré une telle Pâque depuis l’époque des Juges qui avaient gouverné Israël, ni dans toute la période des r
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:22" name="23-22">22</span>
+De fait, on n’avait point encore célébré une telle Pâque depuis l’époque des Juges qui avaient gouverné Israël, ni dans toute la période des rois d’Israël et des rois de Juda.
 
-<span class="marginnote nb" label="23:23" name="23:23">23:23</span><span style="display:none">¤23:23¤</span>
- Ce ne fut que cette année, la dix-huitième du règne de Josias, que la Pâque fut ainsi célébrée en l’honneu
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:23" name="23-23">23</span>
+Ce ne fut que cette année, la dix-huitième du règne de Josias, que la Pâque fut ainsi célébrée en l’honneur de l’Éternel, à Jérusalem.
 
-<span class="marginnote nb" label="23:24" name="23:24">23:24</span><span style="display:none">¤23:24¤</span>
- De plus, les évocations et les sortilèges, les dieux domestiques, les idoles, et toutes les abominations qui se voyaient dans la Judée et à Jérusalem, Josias les fit disparaître, afin de se conforme
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:24" name="23-24">24</span>
+De plus, les évocations et les sortilèges, les dieux domestiques, les idoles, et toutes les abominations qui se voyaient dans la Judée et à Jérusalem, Josias les fit disparaître, afin de se conformer aux termes de la loi, consignés dans le livre que le pontife Hilkiyyahou avait trouvé dans la maison du Seigneur.
 
-<span class="marginnote nb" label="23:25" name="23:25">23:25</span><span style="display:none">¤23:25¤</span>
- Nul roi encore n’était, autant que lui, revenu à l’Éternel de tout son cœur, de toute son âme et de tout son pouvoir, selon la doctrine entière de Moïse, et nul, depuis, ne s’éleva son égal.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:25" name="23-25">25</span>
+Nul roi encore n’était, autant que lui, revenu à l’Éternel de tout son cœur, de toute son âme et de tout son pouvoir, selon la doctrine entière de Moïse, et nul, depuis, ne s’éleva son égal.
 
-<span class="marginnote nb" label="23:26" name="23:26">23:26</span><span style="display:none">¤23:26¤</span>
- Néanmoins, l’Éternel ne revint point de la grande indignation qui s’était allumée en lui contre la Judée, à cause des nombreuses offenses de Manassé à son égard.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:26" name="23-26">26</span>
+Néanmoins, l’Éternel ne revint point de la grande indignation qui s’était allumée en lui contre la Judée, à cause des nombreuses offenses de Manassé à son égard.
 
-<span class="marginnote nb" label="23:27" name="23:27">23:27</span><span style="display:none">¤23:27¤</span>
- Car l’Éternel dit: "Juda aussi, je l’écarterai de devant moi, comme j’ai écarté Israël; et je rejetterai cette ville que j’avais élue Jérusalem 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:27" name="23-27">27</span>
+Car l’Éternel dit: "Juda aussi, je l’écarterai de devant moi, comme j’ai écarté Israël; et je rejetterai cette ville que j’avais élue Jérusalem et cette maison dont j’avais dit: "Mon nom y résidera..."
 
-<span class="marginnote nb" label="23:28" name="23:28">23:28</span><span style="display:none">¤23:28¤</span>
- Pour le surplus des faits et gestes de Josias, ils sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:28" name="23-28">28</span>
+Pour le surplus des faits et gestes de Josias, ils sont consignés dans le livre des annales des rois de Juda.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Sous son règne, Pharaon Nekho, roi d’Égypte, fit une expédition contre
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:29" name="23-29">29</span>
+Sous son règne, Pharaon Nekho, roi d’Égypte, fit une expédition contre le roi d’Assyrie, vers l’Euphrate. Le roi Josias s’avança contre Nekho, qui le fit périr à Meghiddo dès qu’il l’eut aperçu.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Ses serviteurs déposèrent son corps sur un char, le transportèrent de Meghiddo à Jérusalem, et l’inhumèrent dans son sépulcre. La population du pays choisit Joachaz, fils de Josias; on lui donna l’onction, et on le proclama roi à la plac
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:30" name="23-30">30</span>
+Ses serviteurs déposèrent son corps sur un char, le transportèrent de Meghiddo à Jérusalem, et l’inhumèrent dans son sépulcre. La population du pays choisit Joachaz, fils de Josias; on lui donna l’onction, et on le proclama roi à la place de son père.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Joachaz avait vingt-trois ans en montant sur le trône et il régna trois mois à Jérusalem; sa mère s’app
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:31" name="23-31">31</span>
+Joachaz avait vingt-trois ans en montant sur le trône et il régna trois mois à Jérusalem; sa mère s’appelait Hamoutal, fille de Jérémie, de Libna.
 
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
-¤ Il fit le mal aux yeux de l’Éternel, à l’exemple de ses aïeux.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:32" name="23-32">32</span>
+Il fit le mal aux yeux de l’Éternel, à l’exemple de ses aïeux.
 
-<span class="marginnote nb" label="23:33" name="23:33">23:33</span><span style="display:none">¤23:33¤</span>
- Pharaon Nekho le fit jeter dans les fers à Ribla, sur le territoire de Hamat, pour l’empêcher de régner à Jérusalem, et il im
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:33" name="23-33">33</span>
+Pharaon Nekho le fit jeter dans les fers à Ribla, sur le territoire de Hamat, pour l’empêcher de régner à Jérusalem, et il imposa au pays un tribut de cent kikkar d’argent et d’un kikkar d’or.
 
-<span class="marginnote nb" label="23:34" name="23:34">23:34</span><span style="display:none">¤23:34¤</span>
- Puis Pharaon Nekho mit Elyakim, fils de Josias, sur le trône de son père et changea son nom en celui de J
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:34" name="23-34">34</span>
+Puis Pharaon Nekho mit Elyakim, fils de Josias, sur le trône de son père et changea son nom en celui de Joïakim. Quant à Joachaz, il l’emmena captif en Égypte, où il mourut.
 
-<span class="marginnote nb" label="23:35" name="23:35">23:35</span><span style="display:none">¤23:35¤</span>
- Joïakim remit à Pharaon l’or et l’argent, mais pour le lui donner suivant ses exigences, il dut taxer le pays et contraindre le p
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:35" name="23-35">35</span>
+Joïakim remit à Pharaon l’or et l’argent, mais pour le lui donner suivant ses exigences, il dut taxer le pays et contraindre le peuple, chacun selon ses facultés, à fournir l’argent et l’or destinés à Pharaon Nekho.
 
-<span class="marginnote nb" label="23:36" name="23:36">23:36</span><span style="display:none">¤23:36¤</span>
- Joïakim avait vingt-cinq ans en montant sur le trône et il régna onze ans à Jérusalem; sa mère s’appelait Zebouda, fille de Pedaya, de Rouma.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:36" name="23-36">36</span>
+Joïakim avait vingt-cinq ans en montant sur le trône et il régna onze ans à Jérusalem; sa mère s’appelait Zebouda, fille de Pedaya, de Rouma.
 
-<span class="marginnote nb" label="23:37" name="23:37">23:37</span><span style="display:none">¤23:37¤</span>
- Il fit le mal aux yeux de l’Éternel, à l’exemple de ses aïeux.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="23:37" name="23-37">37</span>
+Il fit le mal aux yeux de l’Éternel, à l’exemple de ses aïeux.
 
-<span class="marginnote nb" label="24:1" name="24:1">24:1</span><span style="display:none">¤24:1¤</span>
-Sous son règne, Nabuchodonozor, roi de Babylone, fit une invasion, et Joïakim devint son vassal pendant t
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="24:1" name="24-1"><strong>24</strong>:1</span>
+Sous son règne, Nabuchodonozor, roi de Babylone, fit une invasion, et Joïakim devint son vassal pendant trois ans; ensuite il se révolta contre lui.
 
-<span class="marginnote nb" label="24:2" name="24:2">24:2</span><span style="display:none">¤24:2¤</span>
-Alors l’Éternel lâcha contre lui les bandes des Chaldéens, des Syriens, des Moabites et des Ammonites: tous ceux-ci, il les mit en mouvement contre Juda pour amener sa
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
+<span class="marginnote num" label="24:2" name="24-2">2</span>
+Alors l’Éternel lâcha contre lui les bandes des Chaldéens, des Syriens, des Moabites et des Ammonites: tous ceux-ci, il les mit en mouvement contre Juda pour amener sa ruine, selon la parole divine qu’il avait fait annoncer par l’organe de ses serviteurs les prophètes.
 
-<span class="marginnote nb" label="24:3" name="24:3">24:3</span><span style="display:none">¤24:3¤</span>
+<span class="marginnote num" label="24:3" name="24-3">3</span>
 Oui, c’était une sentence prononcée par l’Éternel contre Juda, de l’écarter de devant sa face, à cause de tous les péchés commis par Manassé,
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="24:4" name="24:4">24:4</span><span style="display:none">¤24:4¤</span>
+<span class="marginnote num" label="24:4" name="24-4">4</span>
 et aussi à cause du sang innocent qu’il avait répandu et dont il avait inondé Jérusalem: l’Éternel ne voulut plus pardonner.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="24:5" name="24:5">24:5</span><span style="display:none">¤24:5¤</span>
+<span class="marginnote num" label="24:5" name="24-5">5</span>
 Les autres faits et gestes de Joïakim sont consignés dans le livre des annales des rois de Juda.
-<span class="marginnote nb" label="22:19" name="22:19">22:19</span><span style="display:none">¤22:19¤</span>
 
-<span class="marginnote nb" label="24:6" name="24:6">24:6</span><span style="display:none">¤24:6¤</span>
+<span class="marginnote num" label="24:6" name="24-6">6</span>
 Joiakim s’endormit avec ses ancêtres, et son fils Joïachin régna à sa place.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
- Dès lors, le roi d’Égypte ne continua plus à sortir de son pays, le roi de Babylone ayant conquis toutes les possessions du roi d’Égypte, depuis le torrent d’Égypte jusqu’au fleuve de l’Euphrate.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:7" name="24-7">7</span>
+Dès lors, le roi d’Égypte ne continua plus à sortir de son pays, le roi de Babylone ayant conquis toutes les possessions du roi d’Égypte, depuis le torrent d’Égypte jusqu’au fleuve de l’Euphrate.
 
-<span class="marginnote nb" label="24:8" name="24:8">24:8</span><span style="display:none">¤24:8¤</span>
- Agé de dix-huit ans à son avènement, Joïachin régna trois mois à Jérusalem; 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:8" name="24-8">8</span>
+Agé de dix-huit ans à son avènement, Joïachin régna trois mois à Jérusalem; le nom de sa mère était Nehouchta, fille d’Elnathan, de Jérusalem.
 
-<span class="marginnote nb" label="24:9" name="24:9">24:9</span><span style="display:none">¤24:9¤</span>
+<span class="marginnote num" label="24:9" name="24-9">9</span>
 Il fit ce qui est mal aux yeux de l’Éternel, tout comme avait agi son père.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="24:10" name="24:10">24:10</span><span style="display:none">¤24:10¤</span>
- En ce temps, les serviteurs de Nabuchodonozor marchèrent contre Jérusalem, et cette ville subit un siège.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:10" name="24-10">10</span>
+En ce temps, les serviteurs de Nabuchodonozor marchèrent contre Jérusalem, et cette ville subit un siège.
 
-<span class="marginnote nb" label="24:11" name="24:11">24:11</span><span style="display:none">¤24:11¤</span>
- Nabuchodonozor, roi de Babylone, arriva lui-même pour attaquer la ville, pendant que ses serviteurs l’assiégeaient.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:11" name="24-11">11</span>
+Nabuchodonozor, roi de Babylone, arriva lui-même pour attaquer la ville, pendant que ses serviteurs l’assiégeaient.
 
-<span class="marginnote nb" label="24:12" name="24:12">24:12</span><span style="display:none">¤24:12¤</span>
- Alors Joïachin, roi de Juda, sortit pour se rendre au roi de Babylone avec sa mère, ses serviteurs, ses grands et ses officiers
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:12" name="24-12">12</span>
+Alors Joïachin, roi de Juda, sortit pour se rendre au roi de Babylone avec sa mère, ses serviteurs, ses grands et ses officiers; le roi de Babylone le fit prisonnier la huitième année de son règne.
 
-<span class="marginnote nb" label="24:13" name="24:13">24:13</span><span style="display:none">¤24:13¤</span>
- Il emporta de Jérusalem tous les trésors de la maison de Dieu, ainsi que le
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:13" name="24-13">13</span>
+Il emporta de Jérusalem tous les trésors de la maison de Dieu, ainsi que les trésors du palais royal, et il mit en pièces tous les vases d’or faits par Salomon pour le sanctuaire divin. C’est ce que l’Éternel avait prédit.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
-¤ Il emmena en exil tout Jérusalem, tous les grands et tous les vaillants hommes de guerre, au nombre de dix mille exilés, ainsi que tous les forgerons et serruriers; il ne resta sur place que la classe inférieure de la population du pays.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:14" name="24-14">14</span>
+Il emmena en exil tout Jérusalem, tous les grands et tous les vaillants hommes de guerre, au nombre de dix mille exilés, ainsi que tous les forgerons et serruriers; il ne resta sur place que la classe inférieure de la population du pays.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
-¤ Il envoya aussi Joïachin captif à Babylone; de même la mère du roi, les femmes du roi, s
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:15" name="24-15">15</span>
+Il envoya aussi Joïachin captif à Babylone; de même la mère du roi, les femmes du roi, ses eunuques et les personnages d’élite du pays, il les emmena en exil de Jérusalem à Babylone.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
-¤ En outre, tous les hommes de guerre, au nombre de sept mille, les forgerons et serruriers, au nombre de mille, tous gens vaillants, habitués à la guer
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:16" name="24-16">16</span>
+En outre, tous les hommes de guerre, au nombre de sept mille, les forgerons et serruriers, au nombre de mille, tous gens vaillants, habitués à la guerre, le roi de Babylone les conduisit en captivité à Babylone.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
-¤ Le roi de Babylone établit comme roi, à la place de Joïachin, son oncle Mathania, dont il changea le nom en celui de Sédécias.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:17" name="24-17">17</span>
+Le roi de Babylone établit comme roi, à la place de Joïachin, son oncle Mathania, dont il changea le nom en celui de Sédécias.
 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
-¤ Sédécias avait vingt et un ans à son avènement, et il régna onze ans à Jérusalem; le nom de sa mère était Hamoutal, fille de Jérémie, de Libna.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:18" name="24-18">18</span>
+Sédécias avait vingt et un ans à son avènement, et il régna onze ans à Jérusalem; le nom de sa mère était Hamoutal, fille de Jérémie, de Libna.
 
-<span class="marginnote nb" label="24:19" name="24:19">24:19</span><span style="display:none">¤24:19¤</span>
- Il fit ce qui est mal aux yeux de l’Éternel, tout comme avait agi Joïakim.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:19" name="24-19">19</span>
+Il fit ce qui est mal aux yeux de l’Éternel, tout comme avait agi Joïakim.
 
-<span class="marginnote nb" label="24:20" name="24:20">24:20</span><span style="display:none">¤24:20¤</span>
- C’est ainsi que la colère de Dieu se manifesta contre Jérusalem et Juda, jusqu’à ce qu’il les eût rejetés de devant sa face. Or, Sédécias entra en révolte contre le roi de Ba
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="24:20" name="24-20">20</span>
+C’est ainsi que la colère de Dieu se manifesta contre Jérusalem et Juda, jusqu’à ce qu’il les eût rejetés de devant sa face. Or, Sédécias entra en révolte contre le roi de Babylone.
 
-<span class="marginnote nb" label="25:1" name="25:1">25:1</span><span style="display:none">¤25:1¤</span>
-Alors, dans la neuvième année de son règne, le dixième mois et le dixième jour du mois, Na
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="25:1" name="25-1"><strong>25</strong>:1</span>
+Alors, dans la neuvième année de son règne, le dixième mois et le dixième jour du mois, Nabuchodonozor, roi de Babylone, marcha avec toute son armée contre Jérusalem; il campa sous ses murs et on éleva des retranchements sur tout son circuit.
 
-<span class="marginnote nb" label="25:2" name="25:2">25:2</span><span style="display:none">¤25:2¤</span>
+<span class="marginnote num" label="25:2" name="25-2">2</span>
 La ville subit le siège jusqu’à la onzième année du règne de Sédécias.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="25:3" name="25:3">25:3</span><span style="display:none">¤25:3¤</span>
+<span class="marginnote num" label="25:3" name="25-3">3</span>
 Le neuf du mois, la famine sévit dans la ville et les gens du peuple manquèrent de pain.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="25:4" name="25:4">25:4</span><span style="display:none">¤25:4¤</span>
-Alors la ville fut ouverte par une brèche; aussitôt tous les gens de guerre s’échappèrent de nuit par la porte du double rempart attenante 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="25:4" name="25-4">4</span>
+Alors la ville fut ouverte par une brèche; aussitôt tous les gens de guerre s’échappèrent de nuit par la porte du double rempart attenante au parc du roi, tandis que les Chaldéens cernaient la ville, et prirent la direction de la Plaine.
 
-<span class="marginnote nb" label="25:5" name="25:5">25:5</span><span style="display:none">¤25:5¤</span>
+<span class="marginnote num" label="25:5" name="25-5">5</span>
 L’armée chaldéenne se mit à la poursuite du roi et l’atteignit dans la plaine de Jéricho, alors que sa propre armée s’était débandée en l’abandonnant.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="25:6" name="25:6">25:6</span><span style="display:none">¤25:6¤</span>
+<span class="marginnote num" label="25:6" name="25-6">6</span>
 On fit le roi prisonnier et on l’amena auprès du roi de Babylone à Ribla, où l’on prononça sa sentence.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="25:7" name="25:7">25:7</span><span style="display:none">¤25:7¤</span>
+<span class="marginnote num" label="25:7" name="25-7">7</span>
 D’abord on égorgea les fils de Sédécias à sa vue, puis on lui creva les yeux, on le jeta dans les fers et on le transporta à Babylone.
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
 
-<span class="marginnote nb" label="25:8" name="25:8">25:8</span><span style="display:none">¤25:8¤</span>
-Le septième jour du cinquième mois, qui correspond à la dix-neuvième année du règne de Nabuchodonozor, 
-<span class="marginnote nb" label="24:7" name="24:7">24:7</span><span style="display:none">¤24:7¤</span>
+<span class="marginnote num" label="25:8" name="25-8">8</span>
+Le septième jour du cinquième mois, qui correspond à la dix-neuvième année du règne de Nabuchodonozor, roi de Babylone, Nebouzaradan, chef des gardes, serviteur du roi de Babylone, entra dans Jérusalem.
 
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
- Il mit le feu au temple du Seigneur et au palais du roi; de même, il livra aux flammes toutes les maisons de Jérusalem, à savoir toute maison d’un personnage important.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:9" name="25-9">9</span>
+Il mit le feu au temple du Seigneur et au palais du roi; de même, il livra aux flammes toutes les maisons de Jérusalem, à savoir toute maison d’un personnage important.
 
-<span class="marginnote nb" label="25:10" name="25:10">25:10</span><span style="display:none">¤25:10¤</span>
- Et les remparts qui entouraient Jérusalem, toute l’armée chaldéenne, placée sous les ordres du chef des gardes, les démolit.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:10" name="25-10">10</span>
+Et les remparts qui entouraient Jérusalem, toute l’armée chaldéenne, placée sous les ordres du chef des gardes, les démolit.
 
-<span class="marginnote nb" label="25:11" name="25:11">25:11</span><span style="display:none">¤25:11¤</span>
- Nebouzaradan, chef des gardes, envoya en exil le reste de la population qui était demeurée dans la ville, les transfuges qui s’étaient jetés entre les bras du roi de Babylone
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:11" name="25-11">11</span>
+Nebouzaradan, chef des gardes, envoya en exil le reste de la population qui était demeurée dans la ville, les transfuges qui s’étaient jetés entre les bras du roi de Babylone et le surplus de la multitude.
 
-<span class="marginnote nb" label="25:12" name="25:12">25:12</span><span style="display:none">¤25:12¤</span>
- Le chef des gardes ne laissa dans le pays que des gens de la basse classe comme vignerons
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:12" name="25-12">12</span>
+Le chef des gardes ne laissa dans le pays que des gens de la basse classe comme vignerons et laboureurs.
 
-<span class="marginnote nb" label="25:13" name="25:13">25:13</span><span style="display:none">¤25:13¤</span>
- Les colonnes d’airain qui se trouvaient dans la maison de Dieu, les supports et la Mer d’airain du temple, les Chaldéens les brisèrent et en emportèrent l’airain à Babylone.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:13" name="25-13">13</span>
+Les colonnes d’airain qui se trouvaient dans la maison de Dieu, les supports et la Mer d’airain du temple, les Chaldéens les brisèrent et en emportèrent l’airain à Babylone.
 
-<span class="marginnote nb" label="25:14" name="25:14">25:14</span><span style="display:none">¤25:14¤</span>
- Ils prirent aussi les cendriers, les pelles, les couteaux, les cuillers, et tous les ustensiles d’airain qui servaient au culte.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:14" name="25-14">14</span>
+Ils prirent aussi les cendriers, les pelles, les couteaux, les cuillers, et tous les ustensiles d’airain qui servaient au culte.
 
-<span class="marginnote nb" label="25:15" name="25:15">25:15</span><span style="display:none">¤25:15¤</span>
- Le chef des gardes s’empara encore des brasiers et des bassins, tant en or qu’en argent.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:15" name="25-15">15</span>
+Le chef des gardes s’empara encore des brasiers et des bassins, tant en or qu’en argent.
 
-<span class="marginnote nb" label="25:16" name="25:16">25:16</span><span style="display:none">¤25:16¤</span>
- Quant aux deux colonnes, à la Mer unique et aux supports que Salomon avait faits pour le temple du Seigneur, le poids de l’airain de tous ces objets ne peut être évalué.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:16" name="25-16">16</span>
+Quant aux deux colonnes, à la Mer unique et aux supports que Salomon avait faits pour le temple du Seigneur, le poids de l’airain de tous ces objets ne peut être évalué.
 
-<span class="marginnote nb" label="25:17" name="25:17">25:17</span><span style="display:none">¤25:17¤</span>
- La hauteur d’une des colonnes était de dix-huit coudées; elle était surmontée d’un chapiteau d’airain haut de trois coudées et entouré d’un treillage et de grenades, le tout en airain. Telle la deuxième colonne, treilla
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:17" name="25-17">17</span>
+La hauteur d’une des colonnes était de dix-huit coudées; elle était surmontée d’un chapiteau d’airain haut de trois coudées et entouré d’un treillage et de grenades, le tout en airain. Telle la deuxième colonne, treillage compris.
 
-<span class="marginnote nb" label="25:18" name="25:18">25:18</span><span style="display:none">¤25:18¤</span>
- Le chef des gardes s’assura de la personne de Seraïa, le grand-prêtre, de Cephania, le grand prêtre suppléant, et des trois gardiens du seuil.
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:18" name="25-18">18</span>
+Le chef des gardes s’assura de la personne de Seraïa, le grand-prêtre, de Cephania, le grand prêtre suppléant, et des trois gardiens du seuil.
 
-<span class="marginnote nb" label="25:19" name="25:19">25:19</span><span style="display:none">¤25:19¤</span>
- Des habitants de la ville, il arrêta un officier, préposé aux gens de guerre, cinq des conseillers int
-<span class="marginnote nb" label="25:9" name="25:9">25:9</span><span style="display:none">¤25:9¤</span>
+<span class="marginnote num" label="25:19" name="25-19">19</span>
+Des habitants de la ville, il arrêta un officier, préposé aux gens de guerre, cinq des conseillers intimes du roi qui furent surpris dans la ville, le secrétaire, chef du recrutement, chargé d’enrôler la population du pays, ainsi que soixante hommes de cette population qui se trouvaient dans la ville.
 
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
- Nebouzaradan, chef des gardes, emmena tous ces prisonniers et les conduisit au roi de Babylone à Ribla.
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
+<span class="marginnote num" label="25:20" name="25-20">20</span>
+Nebouzaradan, chef des gardes, emmena tous ces prisonniers et les conduisit au roi de Babylone à Ribla.
 
-<span class="marginnote nb" label="25:21" name="25:21">25:21</span><span style="display:none">¤25:21¤</span>
- Le roi de Babylone les fit frapper et mettre à mort à Ribla, dans le district de Hamat. Ainsi s’accomplit l’exil de Juda loin de son sol.
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
+<span class="marginnote num" label="25:21" name="25-21">21</span>
+Le roi de Babylone les fit frapper et mettre à mort à Ribla, dans le district de Hamat. Ainsi s’accomplit l’exil de Juda loin de son sol.
 
-<span class="marginnote nb" label="25:22" name="25:22">25:22</span><span style="display:none">¤25:22¤</span>
- Quant à la population restée dans le pays de Juda, et que Nabuchodonozor, roi de Babylone, y avait laissée, il mit à sa tête Guedalia, fils d’Ahikam, fils de Chafan.
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
+<span class="marginnote num" label="25:22" name="25-22">22</span>
+Quant à la population restée dans le pays de Juda, et que Nabuchodonozor, roi de Babylone, y avait laissée, il mit à sa tête Guedalia, fils d’Ahikam, fils de Chafan.
 
-<span class="marginnote nb" label="25:23" name="25:23">25:23</span><span style="display:none">¤25:23¤</span>
- Lorsque les chefs d’armée et leurs hommes apprirent que Nabuchodonozor avait nommé Ghedalia gouverneur, ils se rendirent auprès de ce
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
+<span class="marginnote num" label="25:23" name="25-23">23</span>
+Lorsque les chefs d’armée et leurs hommes apprirent que Nabuchodonozor avait nommé Ghedalia gouverneur, ils se rendirent auprès de celui-ci à Miçpa, à savoir Ismaël, fils de Netania, Johanan, fils de Karéah, Seraïa, fils de Tanhoumet, de Netofa, et Yaazania, fils du Maakhatite, eux et leurs hommes.
 
-<span class="marginnote nb" label="25:24" name="25:24">25:24</span><span style="display:none">¤25:24¤</span>
- Ghedalia leur fit un serment à eux et à leurs hommes en disant: "Ne craignez rien des serviteurs des Chaldéens; demeurez 
-<span class="marginnote nb" label="25:20" name="25:20">25:20</span><span style="display:none">¤25:20¤</span>
+<span class="marginnote num" label="25:24" name="25-24">24</span>
+Ghedalia leur fit un serment à eux et à leurs hommes en disant: "Ne craignez rien des serviteurs des Chaldéens; demeurez dans le pays, soyez soumis au roi de Babylone, et vous vous en trouverez bien."
 
-<span class="marginnote nb" label="25:25" name="25:25">25:25</span><span style="display:none">¤25:25¤</span>
- Mais le septième mois, Ismaël, fils de Netania, fils d’Élichama, de la race royale, vint accompagné de dix hommes, et ils frappèrent à mort Ghedalia, ainsi que les Judéens et les Chaldéens qui étaient avec lui à Miçpa.
+<span class="marginnote num" label="25:25" name="25-25">25</span>
+Mais le septième mois, Ismaël, fils de Netania, fils d’Élichama, de la race royale, vint accompagné de dix hommes, et ils frappèrent à mort Ghedalia, ainsi que les Judéens et les Chaldéens qui étaient avec lui à Miçpa.
 
-<span class="marginnote nb" label="25:26" name="25:26">25:26</span><span style="display:none">¤25:26¤</span>
- Aussitôt tout le peuple, grands et petits, et les chefs d’armée se mirent en route et entrèrent en Égypte par crainte des Chaldéens.
-<span class="marginnote nb" label="25:26" name="25:26">25:26</span><span style="display:none">¤25:26¤</span>
+<span class="marginnote num" label="25:26" name="25-26">26</span>
+Aussitôt tout le peuple, grands et petits, et les chefs d’armée se mirent en route et entrèrent en Égypte par crainte des Chaldéens.
 
-<span class="marginnote nb" label="25:27" name="25:27">25:27</span><span style="display:none">¤25:27¤</span>
- La trente-septième année de l’exil de Joïachin, roi de Juda, le douzième mois et le vingt-septième jour du mois, Evil-Mer
-<span class="marginnote nb" label="25:26" name="25:26">25:26</span><span style="display:none">¤25:26¤</span>
+<span class="marginnote num" label="25:27" name="25-27">27</span>
+La trente-septième année de l’exil de Joïachin, roi de Juda, le douzième mois et le vingt-septième jour du mois, Evil-Merodac, roi de Babylone, dans l’année même de son avènement, gracia Joïachin, roi de Juda, et le libéra de la maison de détention.
 
-<span class="marginnote nb" label="25:28" name="25:28">25:28</span><span style="display:none">¤25:28¤</span>
- Il lui parla avec bienveillance et lui donna un siège placé au-dessus du siège des rois qui étaient avec lui à Babylone.
+<span class="marginnote num" label="25:28" name="25-28">28</span>
+Il lui parla avec bienveillance et lui donna un siège placé au-dessus du siège des rois qui étaient avec lui à Babylone.
 
-<span class="marginnote nb" label="25:29" name="25:29">25:29</span><span style="display:none">¤25:29¤</span>
- Il lui fit changer ses vêtements de détention et l’admit constamment à sa table, toute sa vie durant.
-<span class="marginnote nb" label="25:29" name="25:29">25:29</span><span style="display:none">¤25:29¤</span>
+<span class="marginnote num" label="25:29" name="25-29">29</span>
+Il lui fit changer ses vêtements de détention et l’admit constamment à sa table, toute sa vie durant.
 
-<span class="marginnote nb" label="25:30" name="25:30">25:30</span><span style="display:none">¤25:30¤</span>
- Son entretien, entretien permanent, lui fut assuré de la part du roi, suivant les besoins de chaque jour, tant qu’il vécut.
+<span class="marginnote num" label="25:30" name="25-30">30</span>
+Son entretien, entretien permanent, lui fut assuré de la part du roi, suivant les besoins de chaque jour, tant qu’il vécut.
