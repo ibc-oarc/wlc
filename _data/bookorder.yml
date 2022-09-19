@@ -1,0 +1,78 @@
+- order: 1
+  titleid: Genesis
+- order: 2
+  titleid: Exodus
+- order: 3
+  titleid: Leviticus
+- order: 4
+  titleid: Numbers
+- order: 5
+  titleid: Deuteronomy
+- order: 6
+  titleid: Joshua
+- order: 7
+  titleid: Judges
+- order: 8
+  titleid: 1 Samuel
+- order: 9
+  titleid: 2 Samuel
+- order: 10
+  titleid: 1 Kings
+- order: 11
+  titleid: 2 Kings
+- order: 12
+  titleid: Isaiah
+- order: 13
+  titleid: Jeremiah
+- order: 14
+  titleid: Ezekiel
+- order: 15
+  titleid: Hosea
+- order: 16
+  titleid: Joel
+- order: 17
+  titleid: Amos
+- order: 18
+  titleid: Obadiah
+- order: 19
+  titleid: Jonah
+- order: 20
+  titleid: Micah
+- order: 21
+  titleid: Nahum
+- order: 22
+  titleid: Habakkuk
+- order: 23
+  titleid: Zephaniah
+- order: 24
+  titleid: Haggai
+- order: 25
+  titleid: Zechariah
+- order: 26
+  titleid: Malachi
+- order: 27
+  titleid: Psalms
+- order: 28
+  titleid: Proverbs
+- order: 29
+  titleid: Job
+- order: 30
+  titleid: Song of Songs
+- order: 31
+  titleid: Ruth
+- order: 32
+  titleid: Lamentations
+- order: 33
+  titleid: Ecclesiastes
+- order: 34
+  titleid: Esther
+- order: 35
+  titleid: Daniel
+- order: 36
+  titleid: Ezra
+- order: 37
+  titleid: Nehemiah
+- order: 38
+  titleid: 1 Chronicles
+- order: 39
+  titleid: 2 Chronicles

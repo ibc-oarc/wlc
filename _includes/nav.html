@@ -1,0 +1,12 @@
+{% assign lang = page.dir | replace: "/", ""%}
+{%- capture order %}{{ site.data.bookorder | where: "titleid", page.id | map: "order"}}{% endcapture  -%}
+{%- assign nextorder = order | plus: 1 -%}
+{%- assign prevorder = order | minus: 1 -%}
+{%- assign nextpage = site.data.bookorder | where: "order", nextorder | map: "titleid" | first -%}
+{%- assign prevpage = site.data.bookorder | where: "order", prevorder | map: "titleid" | first -%}
+{%- assign nextpagename = site.data.booknames[nextpage][lang] %}
+{%- assign prevpagename = site.data.booknames[prevpage][lang] %}
+<div style="display:flex;"><p style="display:block;font-size:1rem;margin:0;">
+    {% if prevpage.size > 0 %}<a class="shadow" id="prev" style="float:left;"  href="{{prevpage}}">« {{prevpagename}}</a>{% endif %}
+    {% if nextpage.size > 0 %}<a class="shadow" id="next" style="float:right;" href="{{nextpage}}">{{nextpagename}} »</a>{% endif %}
+</p></div>

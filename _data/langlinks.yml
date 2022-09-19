@@ -2,7 +2,7 @@
   print: eng
 - lang: fr
   print: fra
-- lang: ru
-  print: рус
-- lang: be
-  print: бел
+#- lang: ru
+#  print: рус
+#- lang: be
+#  print: бел

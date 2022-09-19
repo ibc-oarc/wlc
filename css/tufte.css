@@ -31,6 +31,23 @@
       font-size: 131%;
 }
 
+.num {
+}
+
+.na::before { /*numbering anchor*/
+  content: " ";
+}
+
+.na:hover::before { /*numbering anchor*/
+  background-color: red;
+  box-shadow: 15px 2px 20px 12px #ff7f2a;
+}
+
+.poeticverse {
+  background-color: pink;
+  font-variant: small-caps;
+}
+
 /* This file contains all the constants for colors and font styles */
 /**
  * Syntax highlighting styles
@@ -484,13 +501,13 @@ img {
 
 .sidenote, .marginnote {
   float: right;
-  clear: right;
-  margin-right: -60%;
-  width: 50%;
-  margin-top: 0;
-  margin-bottom: 1.96rem;
+  clear: both;
+  margin-right: -29%;
+  width: 20%;
+  margin-top: 1rem;
+  margin-bottom: 0;
   font-size: 1.0rem;
-  line-height: 1.96;
+  line-height: 0.1rem;
   vertical-align: baseline;
   position: relative; }
 
@@ -520,9 +537,13 @@ blockquote .sidenote, blockquote .marginnote {
   content: counter(sidenote-counter) ". ";
   color: #001663;
   top: 0rem; }
+  
+  h1, h2 {
+    text-align: center;
+  }
 
-p, footer, div.table-wrapper, div.mathblock {
-  width: 55%; }
+  h1, h2, p, footer, div.table-wrapper, div.mathblock {
+  width: 70%; }
 
 div.table-wrapper {
   overflow-x: auto; }

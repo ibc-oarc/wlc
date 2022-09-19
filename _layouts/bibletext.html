@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign lang = page.dir | replace: "/", ""%}
+{%- assign langtitle = site.data.booknames[page.title][lang] %}
+<h1 style="margin-bottom:0;">{{langtitle}}</h1>
+{% include nav.html %}
+{{site.data.parclose[page.id]}}
+<p>{% for elem in page.verses %}{% assign number = elem.first[0] | split: "."%}{% assign ch = number[0] | plus: 0 %}{% assign v = number[1] | plus: 0%}
+    {%- if site.data.poeticverses[page.id] contains elem.first[0] -%}{% assign poetic = 1 %}{% else %}{% assign poetic = false %}{% endif %}
+    <span class="{{page.id}}-{{ch}}-{{v}} {% if poetic %} poeticverse {% endif %}">{% include margnum.html ch=ch v=v p=poetic %}{{elem.first[1]}}</span>
+    {% if site.data.parnun[page.id] contains elem.first[0] %} ║ {% endif %}
+    {% if site.data.parstuma[page.id] contains elem.first[0] %} &emsp; ~ &emsp; ~ &emsp; ~ &emsp; ~ &emsp; ~ &emsp; ~ &emsp; ~ &emsp;
+    {% elsif site.data.parptuha[page.id] contains elem.first[0] %}</p><p> {% endif %}
+{% endfor %}
+{{ content }}
+</p>
+{% include nav.html %}

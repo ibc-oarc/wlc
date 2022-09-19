@@ -1,45 +1,15 @@
-footer: '<a href="https://ibc.oarc.science/" target="_blank">Institut pour le  contenu biblique</a>. <strong>Hébreu biblique pour linguistes : lexique analytique multilingue de l’hébreu biblique</strong>.<br>Mis en œuvre par <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD initialement dans le cadre du projet de recherche à l’<a href="https://ens.fr" target="_blank">ENS</a>. Utilise <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l’audio</a> | Dans d’autres langues:'
-firstyear: 2014
+footer:
+  fr: '<a href="https://ibc.oarc.science/" target="_blank">Institut pour le  contenu biblique</a>. <strong>Hébreu biblique pour linguistes : lexique analytique multilingue de l’hébreu biblique</strong>.<br>Mis en œuvre par <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a>, PhD initialement dans le cadre du projet de recherche à l’<a href="https://ens.fr" target="_blank">ENS</a>. Utilise <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l’audio</a> | Dans d’autres langues:'
+firstyear:
+  fr: 2014
 github: "https://github.com/ibc-oarc/Lexique_hebreu"
 keyboardreminder: 'Pour naviguer en avant et en arrière, utiliser les touches fléchées <span class="shadow">←</span> et <span class="shadow">→</span> du clavier<br>'
 
 website: "https://lex.ibc.oarc.science"
 readersite: "https://wlc.ibc.oarc.science"
-0readersiteprefix: fr
-0siteprefix: fr
-lang: fr
-sitename: Hébreu biblique pour linguistes
+
+sitename: 
+  fr: Hébreu biblique pour linguistes
 heading1: Strong's
-subname: Lexique analytique de l'hébreu biblique
-lexicon1entries: entrées
-lexicon2marked: marquées
-lexicalentry1etymology: Étymologie
-lexicalentry2roots: Racines
-lexicalentry3variants: Variantes
-lexicalentry4letternumbering: " ABCDEFG"
-lexicalentry5mentionedin: "Apparitions dans le texte biblique :"
-index1title: Page principale
-index2intro: Les lexiques ordonnés par fréquence sont marqués
-index3intro: ceux classés par ordre alphabétique
-index4general: Lexique général
-index5contentful: Parties du discours lexicales
-index6functional: Parties du discours grammaticales
-index7proper: Noms propres par classe sémantique
-grid4: 4
-grid5: 3
-grid6: 3
-grid7: 4
-coefficient4: 0.9
-coefficient5: 1
-coefficient6: 1.2
-coefficient7: 1.05
-size4: 1.17
-size5: 1.17
-size6: 0.9
-size7: 1.1
-landingpartial1: ordered alphabetically
-landingpartial2: ordre alphabétique
-landingpartial3: ordered by frequency
-landingpartial4: fréquence décroissante
-landingpartial5: par ordre alphabétique
-landingpartial6: par ordre décroissant de fréquence
+subname: 
+  fr: Lexique analytique de l'hébreu biblique

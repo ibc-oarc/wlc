@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% assign lang = page.dir | replace: "/", ""%}
+{% capture indexpage %}
+<h2 style="text-align:left;">{{page.law}}</h2>
+
+[{{site.data.booknames["Genesis"][lang]}}](Genesis) · 
+[{{site.data.booknames["Exodus"][lang]}}](Exodus) · 
+[{{site.data.booknames["Leviticus"][lang]}}](Leviticus) · 
+[{{site.data.booknames["Numbers"][lang]}}](Numbers) · 
+[{{site.data.booknames["Deuteronomy"][lang]}}](Deuteronomy)
+
+<h2 style="text-align:left;">{{page.prophets}}</h2>
+
+
+[{{site.data.booknames["Joshua"][lang]}}](Joshua) · 
+[{{site.data.booknames["Judges"][lang]}}](Judges) · 
+[{{site.data.booknames["1 Samuel"][lang]}}](1 Samuel) · 
+[{{site.data.booknames["2 Samuel"][lang]}}](2 Samuel) · 
+[{{site.data.booknames["1 Kings"][lang]}}](1 Kings) · 
+[{{site.data.booknames["2 Kings"][lang]}}](2 Kings) · 
+[{{site.data.booknames["Isaiah"][lang]}}](Isaiah) · 
+[{{site.data.booknames["Jeremiah"][lang]}}](Jeremiah) · 
+[{{site.data.booknames["Ezekiel"][lang]}}](Ezekiel) · 
+[{{site.data.booknames["Hosea"][lang]}}](Hosea) · 
+[{{site.data.booknames["Joel"][lang]}}](Joel) · 
+[{{site.data.booknames["Amos"][lang]}}](Amos) · 
+[{{site.data.booknames["Obadiah"][lang]}}](Obadiah) · 
+[{{site.data.booknames["Jonah"][lang]}}](Jonah) · 
+[{{site.data.booknames["Micah"][lang]}}](Micah) · 
+[{{site.data.booknames["Nahum"][lang]}}](Nahum)
+
+<h2 style="text-align:left;">{{page.writings}}</h2>
+
+[{{site.data.booknames["Habakkuk"][lang]}}](Habakkuk) · 
+[{{site.data.booknames["Zephaniah"][lang]}}](Zephaniah) · 
+[{{site.data.booknames["Haggai"][lang]}}](Haggai) · 
+[{{site.data.booknames["Zechariah"][lang]}}](Zechariah) · 
+[{{site.data.booknames["Malachi"][lang]}}](Malachi) · 
+[{{site.data.booknames["Psalms"][lang]}}](Psalms) · 
+[{{site.data.booknames["Proverbs"][lang]}}](Proverbs) · 
+[{{site.data.booknames["Job"][lang]}}](Job) · 
+[{{site.data.booknames["Song of Songs"][lang]}}](Song of Songs) · 
+[{{site.data.booknames["Ruth"][lang]}}](Ruth) · 
+[{{site.data.booknames["Lamentations"][lang]}}](Lamentations) · 
+[{{site.data.booknames["Ecclesiastes"][lang]}}](Ecclesiastes) · 
+[{{site.data.booknames["Esther"][lang]}}](Esther) · 
+[{{site.data.booknames["Daniel"][lang]}}](Daniel) · 
+[{{site.data.booknames["Ezra"][lang]}}](Ezra) · 
+[{{site.data.booknames["Nehemiah"][lang]}}](Nehemiah) · 
+[{{site.data.booknames["1 Chronicles"][lang]}}](1 Chronicles) · 
+[{{site.data.booknames["2 Chronicles"][lang]}}](2 Chronicles)
+
+
+{% endcapture %}
+
+{{indexpage | markdownify }}
+
+{{content}}
