@@ -3,7 +3,9 @@
 <body>
     <header>{% assign lang = page.dir | replace: "/", ""%}
     <nav class="group"><a href="/{{lang}}">
-    <h3>{{site.sitename[lang]}}</h3><h4>{{site.subname[lang]}}</h4></a></nav>
+    <h3>{{site.sitename[lang]}}</h3><h4>{{site.subname[lang]}}</h4></a>
+    {% if page.layout == "index" %}<span style="float:right"><a title="{{site.texttomainpage[lang]}}" href="{{site.mainurl}}"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M18.41 16.59L13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z"/><path d="M24 24H0V0h24v24z" fill="none"/></svg></a></span>{% endif %}
+    </nav>
     </header>
     <article class="group">
     <p class="bar1"></p><p class="bar2"></p><p class="bar3"></p>
