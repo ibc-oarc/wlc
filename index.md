@@ -5,7 +5,7 @@ subtitle: Multilingual Open Access tools
 ---
 <style>h2 {text-align: left;}</style>
 
-<span style="font-size:1.3rem;">The <a href="https://ibc.oarc.science">Institute for Biblical Content</a> maintains and makes available online a number of multilingual resources and tools aimed at helping researchers who work with biblical text. All this resources are inter-linked.</span>
+<span style="font-size:1.3rem;">The <a href="https://ibc.oarc.science">Institute for Biblical Content</a> maintains and makes available online a number of multilingual resources and tools aimed at helping researchers who work with biblical text. All these resources are interlinked.</span>
 
 ### Analytical biblical Hebrew lexicons
 
