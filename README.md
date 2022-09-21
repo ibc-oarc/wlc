@@ -1,1 +1,1 @@
-“Biblical Hebrew for linguists: Westminster Leningrad Codex & Hebrew Lexicon” at https://lex.ibc.oarc.science.
+“Biblical Hebrew for linguists: Westminster Leningrad Codex & Hebrew Lexicon” at https://wlc.ibc.oarc.science.
