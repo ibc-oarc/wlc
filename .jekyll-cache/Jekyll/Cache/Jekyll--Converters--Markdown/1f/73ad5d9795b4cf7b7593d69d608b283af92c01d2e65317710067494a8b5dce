@@ -1,0 +1,27 @@
+I""	<style>h2 {text-align: left;}</style>
+
+<p><span style="font-size:1.3rem;">The <a href="https://ibc.oarc.science">Institute for Biblical Content</a> maintains and makes available online a number of multilingual resources and tools aimed at helping researchers who work with biblical text. All these resources are interlinked.</span></p>
+
+<h3 id="analytical-biblical-hebrew-lexicons">Analytical biblical Hebrew lexicons</h3>
+
+<style>.box {border:5px gray solid; width:fit-content; padding:0.5rem; margin: 1rem; font-family:Inter}</style>
+
+<div style="display:flex">
+<div class="box"><a href="https://lex.ibc.oarc.science/fr" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">français</span><br /><strong>Lexique analytique</strong><br />de l'hébreu biblique</a></div>
+<div class="box"><a href="https://lex.ibc.oarc.science/en" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">English</span><br /><strong>Analytical biblical</strong><br />Hebrew lexicon</a></div>
+<div class="box"><a href="https://lex.ibc.oarc.science/ru" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">по-русски</span><br /><strong>Аналитический лексикон</strong><br />библейского иврита</a></div>
+</div>
+
+<h3 id="syntax-and-gloss-lookup-engine-verse-scale">Syntax and gloss lookup engine <span style="color:gray">(verse-scale)</span></h3>
+
+<div style="display:flex">
+<div class="box"><a href="https://bh.seveleu.com" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">English</span><br /><strong>Analytical biblical</strong><br />Hebrew lexicon</a></div>
+</div>
+
+<h3 id="narrative-and-poetry-lookup-engine-book-scale">Narrative and poetry lookup engine <span style="color:gray">(book-scale)</span></h3>
+
+<div style="display:flex">
+<div class="box"><a href="/fr" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">français</span><br /><strong>Récit et poésie bibliques</strong><br />en contexte</a></div>
+<div class="box"><a href="/en" target="_blank"><span style="font-size:1rem;font-family:'EB Garamond';font-style:italic">English</span><br /><strong>Biblical narrative and poetry</strong><br />in context</a></div>
+</div>
+:ET

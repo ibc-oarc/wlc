@@ -27,4 +27,5 @@ subtitle: Multilingual Open Access tools
 
 <div style="display:flex">
 {% include box.html lang="français" t="<strong>Récit et poésie bibliques</strong><br>en contexte" u="/fr" %}
+{% include box.html lang="English" t="<strong>Biblical narrative and poetry</strong><br>in context" u="/en" %}
 </div>
