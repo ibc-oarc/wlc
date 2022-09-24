@@ -1,117 +1,156 @@
 "Genesis" : 
   "en": "Genesis"
   "fr": "Genèse"
+  "ru": "Бытие"
 "Exodus" : 
   "en": "Exodus"
   "fr": "Exode"
+  "ru": "Исход"
 "Leviticus" : 
   "en": "Leviticus"
   "fr": "Code lévitique"
+  "ru": "Левит"
 "Numbers" : 
   "en": "Numbers"
   "fr": "Nombres"
+  "ru": "Числа"
 "Deuteronomy" : 
   "en": "Deuteronomy"
   "fr": "Deutéronome"
+  "ru": "Второзаконие"
 "Joshua" : 
   "en": "Joshua"
   "fr": "Josué"
+  "ru": "Иисус Навин"
 "Judges" : 
   "en": "Judges"
   "fr": "Juges"
+  "ru": "Судьи"
 "1 Samuel" : 
   "en": "1 Samuel"
   "fr": "1 Samuel"
+  "ru": "1 Царств"
 "2 Samuel" : 
   "en": "2 Samuel"
   "fr": "2 Samuel"
+  "ru": "2 Царств"
 "1 Kings" : 
   "en": "1 Kings"
   "fr": "1 Rois"
+  "ru": "3 Царств"
 "2 Kings" : 
   "en": "2 Kings"
   "fr": "2 Rois"
+  "ru": "4 Царств"
 "Isaiah" : 
   "en": "Isaiah"
   "fr": "Isaïe"
+  "ru": "Исаия"
 "Jeremiah" : 
   "en": "Jeremiah"
   "fr": "Jérémie"
+  "ru": "Иеремия"
 "Ezekiel" : 
   "en": "Ezekiel"
   "fr": "Ézéchiel"
+  "ru": "Иезекииль"
 "Hosea" : 
   "en": "Hosea"
   "fr": "Osée"
+  "ru": "Осия"
 "Joel" : 
   "en": "Joel"
   "fr": "Joël"
+  "ru": "Иоиль"
 "Amos" : 
   "en": "Amos"
   "fr": "Amos"
+  "ru": "Амос"
 "Obadiah" : 
   "en": "Obadiah"
   "fr": "Obadia"
+  "ru": "Авдий"
 "Jonah" : 
   "en": "Jonah"
   "fr": "Jonas"
+  "ru": "Иона"
 "Micah" : 
   "en": "Micah"
   "fr": "Michée"
+  "ru": "Михей"
 "Nahum" : 
   "en": "Nahum"
   "fr": "Nahoum"
+  "ru": "Наум"
 "Habakkuk" : 
   "en": "Habakkuk"
   "fr": "Habacuc"
+  "ru": "Аввакум"
 "Zephaniah" : 
   "en": "Zephaniah"
   "fr": "Cephania"
+  "ru": "Софония"
 "Haggai" : 
   "en": "Haggai"
   "fr": "Haggaï"
+  "ru": "Аггей"
 "Zechariah" : 
   "en": "Zechariah"
   "fr": "Zacharie"
+  "ru": "Захария"
 "Malachi" : 
   "en": "Malachi"
   "fr": "Malachie"
+  "ru": "Малахия"
 "Psalms" : 
   "en": "Psalms"
   "fr": "Psaumes"
+  "ru": "Псалтирь"
 "Proverbs" : 
   "en": "Proverbs"
   "fr": "Proverbes"
+  "ru": "Притчи"
 "Job" : 
   "en": "Job"
   "fr": "Job"
+  "ru": "Иов"
 "Song of Songs" : 
   "en": "Song of Songs"
   "fr": "Cantique des cantiques"
+  "ru": "Песни Песней"
 "Ruth" : 
   "en": "Ruth"
   "fr": "Ruth"
+  "ru": "Руфь"
 "Lamentations" : 
   "en": "Lamentations"
   "fr": "Lamentations"
+  "ru": "Плач Иеремии"
 "Ecclesiastes" : 
   "en": "Ecclesiastes"
   "fr": "Ecclésiaste"
+  "ru": "Екклесиаст"
 "Esther" : 
   "en": "Esther"
   "fr": "Esther"
+  "ru": "Есфирь"
 "Daniel" : 
   "en": "Daniel"
   "fr": "Daniel"
+  "ru": "Даниил"
 "Ezra" : 
   "en": "Ezra"
   "fr": "Ezra"
+  "ru": "Ездра"
 "Nehemiah" : 
   "en": "Nehemiah"
   "fr": "Néhémie"
+  "ru": "Неемия"
 "1 Chronicles" : 
   "en": "1 Chronicles"
   "fr": "1 Chroniques"
+  "ru": "1 Паралипоменон"
 "2 Chronicles" : 
   "en": "2 Chronicles"
   "fr": "2 Chroniques"
+  "ru": "2 Паралипоменон"
