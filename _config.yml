@@ -2,24 +2,28 @@ mainurl: "https://wlc.ibc.oarc.science"
 footer:
   "": '<a href="https://ibc.oarc.science">Institut pour le contenu biblique</a><br><strong>Biblical Hebrew for linguists</strong>: multilingual open access tools.<br>Asset-specific credits are stated in each project’s footer.'
   fr: '<strong>Hébreu biblique pour linguistes</strong> : récit et poésie en contexte. Corpus multilingue de l’hébreu biblique.<br>Cette ressource fait partie du projet de recherche mené par <span style="color:gray">Dr</span> <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a> à l’<a href="https://ens.fr" target="_blank">ENS</a>, puis à l’<a href="https://ibc.oarc.science">ICB</a>.<br><a href="https://seveleu.com/pages/bh-resource">À propos</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Écouter de l’audio</a> | Dans d’autres langues:'
-  en: '<strong>Biblical Hebrew for linguists</strong>: narrative and poetry in context. Multilingual corpus of biblical Hebrew.<br>This resource is a part of the research project led by <span style="color:gray">Dr</span> <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a> at the <a href="https://ens.fr" target="_blank">ENS</a>, then at the <a href="https://ibc.oarc.science">IBC</a>.<br><a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listed audio</a> | In other languages:'
-
+  en: '<strong>Biblical Hebrew for linguists</strong>: narrative and poetry in context. Multilingual corpus of biblical Hebrew.<br>This resource is a part of the research project led by <span style="color:gray">Dr</span> <a href="https://seveleu.com" target="_blank">M.Seveleu-Dubrovnik</a> at the <a href="https://ens.fr" target="_blank">ENS</a>, then at the <a href="https://ibc.oarc.science">IBC</a>.<br><a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio</a> | In other languages:'
+  ru: '<strong>Библейский иврит для лингвистов</strong>: повествование и поэзия в контексте. Многоязычный корпус библейского иврита.<br>Ресурс научно-исследовательского проекта при <a href="https://ens.fr" target="_blank">ВНШ</a> и <a href="https://ibc.oarc.science">ИБК</a> п.у. <a href="https://seveleu.com" target="_blank">М.Севелева-Дубровника</a>, <span style="color:gray">к.ф.н.</span><br><a href="https://seveleu.com/pages/bh-resource">Подробнее</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Слушать аудио</a> | На других языках:'
 firstyear:
   "": 2014
   fr: 2014
   en: 2014
+  ru: 2014
 github: "https://github.com/ibc-oarc"
 keyboardreminder: 
   fr: 'Pour naviguer en avant et en arrière, utiliser les touches fléchées <span class="shadow">←</span> et <span class="shadow">→</span> du clavier<br>'
-  en: 'To navigate back- and forwards, use the arrow keys <span class="shadow">←</span> and <span class="shadow">→</span> on your keyboard'
+  en: 'To navigate back- and forwards, use the arrow keys <span class="shadow">←</span> and <span class="shadow">→</span> on your keyboard<br>'
+  ru: 'Для навигации по сайту используйте клавиши-стрелки <span class="shadow">←</span> и <span class="shadow">→</span> на клавиатуре<br>'
 sitename: 
   "": Biblical Hebrew for Linguists
   fr: Hébreu biblique pour linguistes
   en: Biblical Hebrew for linguists
+  ru: Библейский иврит для лингвистов
 subname: 
   "": Multilingual Open Access tools
   fr: Récit et poésie bibliques en contexte
   en: Biblical narrative and poetry in context
+  ru: Библейское повествование и поэзия в контексте
 texttomainpage:
   fr: Autres outils et langues
   en: Other tools and languages

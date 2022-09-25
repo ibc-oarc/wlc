@@ -48,6 +48,11 @@
   font-variant: small-caps;
 }
 
+.poeticpar {
+  margin-left: 1rem;
+  width: 68.2%;
+}
+
 /* This file contains all the constants for colors and font styles */
 /**
  * Syntax highlighting styles
@@ -498,6 +503,27 @@ figure.fullwidth figcaption {
 
 img {
   max-width: 100%; }
+
+.note {
+  line-height: 130% !important;
+  font-size: 0.8rem !important;
+  margin-top: 0.5rem !important;
+}
+
+.notespan::before { /*numbering anchor*/
+  content: "°";
+  color: lightgray
+}
+
+.notespan:hover::before { /*numbering anchor*/
+  background-color: red;
+}
+
+.notespan:hover .note::before { /*numbering anchor*/
+  background-color: red;
+  content: "°";
+  color: lightgray
+}
 
 .sidenote, .marginnote {
   float: right;
