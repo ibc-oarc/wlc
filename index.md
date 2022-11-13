@@ -20,7 +20,7 @@ subtitle: Multilingual Open Access tools
 ### Syntax and gloss lookup engine <span style="color:gray">(verse-scale)</span>
 
 <div style="display:flex">
-{% include box.html lang="English" t="<strong>Analytical biblical</strong><br>Hebrew lexicon" u="https://gloss.ibc.oarc.science" %}
+{% include box.html lang="English" t="<strong>Analytical biblical</strong><br>Hebrew lexicon" u="https://gloss.ibc.oarc.science/en" %}
 </div>
 
 ### Narrative and poetry lookup engine <span style="color:gray">(book-scale)</span>
